@@ -14,7 +14,6 @@
  */
 
 date_default_timezone_set('Asia/Seoul');
-awefawefwaf
 $required_extensions = array('mcrypt', 'sockets', 'xml', 'openssl', 'mbstring' );
 foreach ($required_extensions as $ext_name) {
     if ( !extension_loaded($ext_name) ) {
