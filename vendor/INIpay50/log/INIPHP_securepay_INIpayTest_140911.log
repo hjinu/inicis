@@ -1,0 +1,401 @@
+INFO	[2014-09-11 15:20:02:509] <7836> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 15:20:02:510] <7836> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 15:20:02:510] <7836> debug:true
+DEBUG	[2014-09-11 15:20:02:510] <7836> admin:1111
+DEBUG	[2014-09-11 15:20:02:510] <7836> mid:INIpayTest
+DEBUG	[2014-09-11 15:20:02:510] <7836> type:chkfake
+DEBUG	[2014-09-11 15:20:02:510] <7836> enctype:asym
+DEBUG	[2014-09-11 15:20:02:510] <7836> checkopt:false
+DEBUG	[2014-09-11 15:20:02:510] <7836> nointerest:no
+DEBUG	[2014-09-11 15:20:02:510] <7836> price:1000
+DEBUG	[2014-09-11 15:20:02:510] <7836> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-11 15:20:02:510] <7836> Check Field OK
+INFO	[2014-09-11 15:20:02:513] <7836> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 15:20:02:517] <7836> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 15:20:02:525] <7836> CHKFAKE KEY MAKE OK:MjAxNDA5MTExNTIwMDI1MTc4NDA1Mw==
+
+INFO	[2014-09-11 15:20:02:525] <7836> END chkfake  Laptime:[0.017sec]
+INFO	[2014-09-11 15:20:02:525] <7836> ===============================================================
+INFO	[2014-09-11 21:09:24:559] <9340> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:09:24:560] <9340> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:09:24:560] <9340> debug:true
+DEBUG	[2014-09-11 21:09:24:560] <9340> admin:1111
+DEBUG	[2014-09-11 21:09:24:560] <9340> mid:INIpayTest
+DEBUG	[2014-09-11 21:09:24:560] <9340> type:chkfake
+DEBUG	[2014-09-11 21:09:24:560] <9340> enctype:asym
+DEBUG	[2014-09-11 21:09:24:560] <9340> checkopt:false
+DEBUG	[2014-09-11 21:09:24:560] <9340> nointerest:no
+DEBUG	[2014-09-11 21:09:24:560] <9340> price:premium
+DEBUG	[2014-09-11 21:09:24:560] <9340> quotabase:선택:일시불
+INFO	[2014-09-11 21:09:24:560] <9340> Check Field OK
+INFO	[2014-09-11 21:09:24:562] <9340> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:09:24:563] <9340> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 21:09:24:565] <9340> CHKFAKE KEY MAKE OK:MjAxNDA5MTEyMTA5MjQ1NjMyNzYxMQ==
+
+INFO	[2014-09-11 21:09:24:565] <9340> END chkfake  Laptime:[0.007sec]
+INFO	[2014-09-11 21:09:24:565] <9340> ===============================================================
+INFO	[2014-09-11 21:11:23:267] <9675> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:11:23:267] <9675> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:11:23:267] <9675> debug:true
+DEBUG	[2014-09-11 21:11:23:267] <9675> admin:1111
+DEBUG	[2014-09-11 21:11:23:267] <9675> mid:INIpayTest
+DEBUG	[2014-09-11 21:11:23:267] <9675> type:chkfake
+DEBUG	[2014-09-11 21:11:23:267] <9675> enctype:asym
+DEBUG	[2014-09-11 21:11:23:267] <9675> checkopt:false
+DEBUG	[2014-09-11 21:11:23:267] <9675> nointerest:no
+DEBUG	[2014-09-11 21:11:23:267] <9675> price:premium
+DEBUG	[2014-09-11 21:11:23:267] <9675> quotabase:선택:일시불
+INFO	[2014-09-11 21:11:23:267] <9675> Check Field OK
+INFO	[2014-09-11 21:11:23:268] <9675> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:11:23:268] <9675> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 21:11:23:271] <9675> CHKFAKE KEY MAKE OK:MjAxNDA5MTEyMTExMjMyNjkyOTM2NA==
+
+INFO	[2014-09-11 21:11:23:271] <9675> END chkfake  Laptime:[0.006sec]
+INFO	[2014-09-11 21:11:23:271] <9675> ===============================================================
+INFO	[2014-09-11 21:11:29:957] <9676> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:11:29:958] <9676> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:11:29:958] <9676> debug:true
+DEBUG	[2014-09-11 21:11:29:958] <9676> admin:1111
+DEBUG	[2014-09-11 21:11:29:958] <9676> mid:INIpayTest
+DEBUG	[2014-09-11 21:11:29:958] <9676> type:securepay
+DEBUG	[2014-09-11 21:11:29:958] <9676> subpgip:203.238.3.10
+DEBUG	[2014-09-11 21:11:29:958] <9676> pgid:INIphp
+DEBUG	[2014-09-11 21:11:29:958] <9676> buyername:wfaw
+DEBUG	[2014-09-11 21:11:29:958] <9676> buyertel:123132
+DEBUG	[2014-09-11 21:11:29:958] <9676> buyeremail:awefaewf
+DEBUG	[2014-09-11 21:11:29:958] <9676> goodname:123
+DEBUG	[2014-09-11 21:11:29:958] <9676> price:1000
+DEBUG	[2014-09-11 21:11:29:958] <9676> currency:WON
+DEBUG	[2014-09-11 21:11:29:958] <9676> paymethod:
+DEBUG	[2014-09-11 21:11:29:958] <9676> encrypted:
+DEBUG	[2014-09-11 21:11:29:958] <9676> sessionkey:
+DEBUG	[2014-09-11 21:11:29:958] <9676> enctype:
+DEBUG	[2014-09-11 21:11:29:958] <9676> rn:
+DEBUG	[2014-09-11 21:11:29:958] <9676> uid:
+DEBUG	[2014-09-11 21:11:29:958] <9676> url:http://www.mondayapple.com
+ERROR	[2014-09-11 21:11:35:469] <9676> 필수항목(paymethod)이 누락되었습니다.
+INFO	[2014-09-11 21:11:35:469] <9676> END securepay [TX9225|필수항목(paymethod)이 누락되었습니다.] Laptime:[5.512sec]
+INFO	[2014-09-11 21:11:35:469] <9676> ===============================================================
+INFO	[2014-09-11 21:11:37:628] <9679> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:11:37:628] <9679> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:11:37:628] <9679> debug:true
+DEBUG	[2014-09-11 21:11:37:628] <9679> admin:1111
+DEBUG	[2014-09-11 21:11:37:628] <9679> mid:INIpayTest
+DEBUG	[2014-09-11 21:11:37:628] <9679> type:securepay
+DEBUG	[2014-09-11 21:11:37:628] <9679> subpgip:203.238.3.10
+DEBUG	[2014-09-11 21:11:37:628] <9679> pgid:INIphp
+DEBUG	[2014-09-11 21:11:37:628] <9679> buyername:wfaw
+DEBUG	[2014-09-11 21:11:37:628] <9679> buyertel:123132
+DEBUG	[2014-09-11 21:11:37:628] <9679> buyeremail:awefaewf
+DEBUG	[2014-09-11 21:11:37:628] <9679> goodname:123
+DEBUG	[2014-09-11 21:11:37:628] <9679> price:1000
+DEBUG	[2014-09-11 21:11:37:628] <9679> currency:WON
+DEBUG	[2014-09-11 21:11:37:628] <9679> paymethod:
+DEBUG	[2014-09-11 21:11:37:628] <9679> encrypted:
+DEBUG	[2014-09-11 21:11:37:628] <9679> sessionkey:
+DEBUG	[2014-09-11 21:11:37:628] <9679> enctype:
+DEBUG	[2014-09-11 21:11:37:628] <9679> rn:
+DEBUG	[2014-09-11 21:11:37:628] <9679> uid:
+DEBUG	[2014-09-11 21:11:37:628] <9679> url:http://www.mondayapple.com
+ERROR	[2014-09-11 21:11:37:696] <9679> 필수항목(paymethod)이 누락되었습니다.
+INFO	[2014-09-11 21:11:37:696] <9679> END securepay [TX9225|필수항목(paymethod)이 누락되었습니다.] Laptime:[0.068sec]
+INFO	[2014-09-11 21:11:37:696] <9679> ===============================================================
+INFO	[2014-09-11 21:11:47:496] <9681> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:11:47:496] <9681> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:11:47:496] <9681> debug:true
+DEBUG	[2014-09-11 21:11:47:496] <9681> admin:1111
+DEBUG	[2014-09-11 21:11:47:496] <9681> mid:INIpayTest
+DEBUG	[2014-09-11 21:11:47:496] <9681> type:securepay
+DEBUG	[2014-09-11 21:11:47:496] <9681> subpgip:203.238.3.10
+DEBUG	[2014-09-11 21:11:47:496] <9681> pgid:INIphp
+DEBUG	[2014-09-11 21:11:47:496] <9681> buyername:wfaw
+DEBUG	[2014-09-11 21:11:47:496] <9681> buyertel:123132
+DEBUG	[2014-09-11 21:11:47:496] <9681> buyeremail:awefaewf
+DEBUG	[2014-09-11 21:11:47:496] <9681> goodname:123
+DEBUG	[2014-09-11 21:11:47:496] <9681> price:1000
+DEBUG	[2014-09-11 21:11:47:496] <9681> currency:WON
+DEBUG	[2014-09-11 21:11:47:496] <9681> paymethod:
+DEBUG	[2014-09-11 21:11:47:496] <9681> encrypted:
+DEBUG	[2014-09-11 21:11:47:496] <9681> sessionkey:
+DEBUG	[2014-09-11 21:11:47:496] <9681> enctype:
+DEBUG	[2014-09-11 21:11:47:496] <9681> rn:
+DEBUG	[2014-09-11 21:11:47:496] <9681> uid:
+DEBUG	[2014-09-11 21:11:47:496] <9681> url:http://www.mondayapple.com
+ERROR	[2014-09-11 21:11:47:617] <9681> 필수항목(paymethod)이 누락되었습니다.
+INFO	[2014-09-11 21:11:47:617] <9681> END securepay [TX9225|필수항목(paymethod)이 누락되었습니다.] Laptime:[0.121sec]
+INFO	[2014-09-11 21:11:47:617] <9681> ===============================================================
+INFO	[2014-09-11 21:13:18:355] <9688> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:13:18:355] <9688> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:13:18:355] <9688> debug:true
+DEBUG	[2014-09-11 21:13:18:355] <9688> admin:1111
+DEBUG	[2014-09-11 21:13:18:355] <9688> mid:INIpayTest
+DEBUG	[2014-09-11 21:13:18:355] <9688> type:securepay
+DEBUG	[2014-09-11 21:13:18:355] <9688> subpgip:203.238.3.10
+DEBUG	[2014-09-11 21:13:18:355] <9688> pgid:INIphp
+DEBUG	[2014-09-11 21:13:18:355] <9688> buyername:wfaw
+DEBUG	[2014-09-11 21:13:18:355] <9688> buyertel:123132
+DEBUG	[2014-09-11 21:13:18:355] <9688> buyeremail:awefaewf
+DEBUG	[2014-09-11 21:13:18:355] <9688> goodname:123
+DEBUG	[2014-09-11 21:13:18:355] <9688> price:1000
+DEBUG	[2014-09-11 21:13:18:355] <9688> currency:WON
+DEBUG	[2014-09-11 21:13:18:355] <9688> paymethod:
+DEBUG	[2014-09-11 21:13:18:355] <9688> encrypted:
+DEBUG	[2014-09-11 21:13:18:355] <9688> sessionkey:
+DEBUG	[2014-09-11 21:13:18:355] <9688> enctype:
+DEBUG	[2014-09-11 21:13:18:355] <9688> rn:
+DEBUG	[2014-09-11 21:13:18:355] <9688> uid:
+DEBUG	[2014-09-11 21:13:18:355] <9688> url:http://www.mondayapple.com
+ERROR	[2014-09-11 21:13:18:438] <9688> 필수항목(paymethod)이 누락되었습니다.
+INFO	[2014-09-11 21:13:18:438] <9688> END securepay [TX9225|필수항목(paymethod)이 누락되었습니다.] Laptime:[0.084sec]
+INFO	[2014-09-11 21:13:18:438] <9688> ===============================================================
+INFO	[2014-09-11 21:13:18:554] <9689> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:13:18:554] <9689> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:13:18:554] <9689> debug:true
+DEBUG	[2014-09-11 21:13:18:554] <9689> admin:1111
+DEBUG	[2014-09-11 21:13:18:554] <9689> mid:INIpayTest
+DEBUG	[2014-09-11 21:13:18:554] <9689> type:chkfake
+DEBUG	[2014-09-11 21:13:18:554] <9689> enctype:asym
+DEBUG	[2014-09-11 21:13:18:554] <9689> checkopt:false
+DEBUG	[2014-09-11 21:13:18:554] <9689> nointerest:no
+DEBUG	[2014-09-11 21:13:18:554] <9689> price:
+DEBUG	[2014-09-11 21:13:18:554] <9689> quotabase:선택:일시불
+INFO	[2014-09-11 21:13:18:554] <9689> Check Field OK
+INFO	[2014-09-11 21:13:18:555] <9689> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:13:18:555] <9689> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 21:13:18:557] <9689> CHKFAKE KEY MAKE OK:MjAxNDA5MTEyMTEzMTg1NTU1Mjc4Nw==
+
+INFO	[2014-09-11 21:13:18:557] <9689> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-11 21:13:18:557] <9689> ===============================================================
+INFO	[2014-09-11 21:13:30:230] <9690> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:13:30:230] <9690> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:13:30:230] <9690> debug:true
+DEBUG	[2014-09-11 21:13:30:230] <9690> admin:1111
+DEBUG	[2014-09-11 21:13:30:230] <9690> mid:INIpayTest
+DEBUG	[2014-09-11 21:13:30:230] <9690> type:chkfake
+DEBUG	[2014-09-11 21:13:30:230] <9690> enctype:asym
+DEBUG	[2014-09-11 21:13:30:230] <9690> checkopt:false
+DEBUG	[2014-09-11 21:13:30:230] <9690> nointerest:no
+DEBUG	[2014-09-11 21:13:30:230] <9690> price:premium
+DEBUG	[2014-09-11 21:13:30:230] <9690> quotabase:선택:일시불
+INFO	[2014-09-11 21:13:30:230] <9690> Check Field OK
+INFO	[2014-09-11 21:13:30:230] <9690> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:13:30:231] <9690> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 21:13:30:232] <9690> CHKFAKE KEY MAKE OK:MjAxNDA5MTEyMTEzMzAyMzE3OTM1NQ==
+
+INFO	[2014-09-11 21:13:30:232] <9690> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-11 21:13:30:232] <9690> ===============================================================
+INFO	[2014-09-11 21:14:52:341] <9716> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:14:52:341] <9716> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:14:52:341] <9716> debug:true
+DEBUG	[2014-09-11 21:14:52:341] <9716> admin:1111
+DEBUG	[2014-09-11 21:14:52:341] <9716> mid:INIpayTest
+DEBUG	[2014-09-11 21:14:52:341] <9716> type:securepay
+DEBUG	[2014-09-11 21:14:52:341] <9716> subpgip:203.238.3.10
+DEBUG	[2014-09-11 21:14:52:341] <9716> pgid:INIphpISP_
+DEBUG	[2014-09-11 21:14:52:341] <9716> buyername:awef
+DEBUG	[2014-09-11 21:14:52:341] <9716> buyertel:12312313
+DEBUG	[2014-09-11 21:14:52:341] <9716> buyeremail:wefawef
+DEBUG	[2014-09-11 21:14:52:341] <9716> goodname:123
+DEBUG	[2014-09-11 21:14:52:341] <9716> price:1000
+DEBUG	[2014-09-11 21:14:52:341] <9716> currency:WON
+DEBUG	[2014-09-11 21:14:52:341] <9716> paymethod:VCard
+DEBUG	[2014-09-11 21:14:52:341] <9716> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6086,6053)vcard(6078)card(6114,6104)n(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6130)Re(6083)Vr(6006)P(6033)en(6038)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&VCode=040100202438831&VQuota=00&VNoint=0&ip=10.211.55.3&mac=001C4221AFA6&cardpoint=9&custemail=&price=4uDsrkVGcE4gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=mZunbF1lBFivejt%2biKd0J6tF5n0Blu1GhSKo96nSupA%2bvohWryzfmgRD%2bIjIw6y%2f%0d%0akR8Oro1uH%2bhnDimuTX0O%2bs4oVn97Z0jSUoZFN9SR%2ba3MZwAt%2fPIQJy2Zh7SU%2fw7O%0d%0ay%2fNtnNxAQkPlVmYhsubDaIN9wWzAY2kKmApYwripHBw%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dKJ1KyqwmDbysz4vXx%2fY3WwxhUWiRvzd0Vk6HT4uHW3Ixt4IRG12NQoukxdwLHTr6%250awm8SzercMSE2yYDwGjvtDt9JwvbvaFiU7a2WCxYA7BghsP1QhViYrrA%252b3Zrpi6ec%250aQi%2f08fgnd7%2fcjKnUPqP4kjR3sKIeSHcdij3rHgvhQPzK5ZxWi24RYunwrhkqk2ry%250aR1JCvjO1h6I0ildZxtGpjwxTPzC%252bQq6au4MbiK8MCd%2fL9ETfcuEmgc6lABHB4E68%250aHgdC%252bxzcpolL0OeAcoDEy6EI5hV7g6TMgZK8wk86i08A53N3dnfn04y3fawaB8SJ%250a%252bmVYakzaK1XwF88P7m%2fZFJix2xJ%2fkiIY%252bMoDU0KChI8evN23sr9y3phCf9RfCIz6%250aVQAzsF8yOgnHFQZ3cDuh4gZUCiWZIA%252b%252blYQelvppFgLwhl7siATbZnblG7LW1JuP%250aiXssYH2im09WbImCMAjxcYVsDgQ9xFrijKUVnpIbdQhtOCGktkFO5bc3P%2fgQzhxV%250ag3iFcGj8ZLJ0fj5X26S8blYupsDc4XwRjJi%252bg4zdzsFTchcJlxeVoxQJyTxB%2f7Ky%250aoyUjk%252bQe%2fXKTfSkgUmn%252btNa%252bhn3LN9psNHdMXgzKXpe5iCP7weal%2fpj6%252bsBrTGsp%250as%252bMQEdpj3aEeCzdcTl4PpatG0Do%2fy3uBPs6mMWUBfj5MmLvGSyJqjCvO%2fxrLzHlz%250aK9W%252bz%252bB7kaEaSQgGaOlQke08pWVFYCjRCaQ8vHSl%252bkJFuB7eNofZ5A8BaK2Xdshu%250abhsiy6ZBRAiwt1lZnUkfqvXnXAokSflxT0dNGVdFK8%252bj2xFcBh0uZZLxS0AT%2fdfX%250aKNC9KqlpoZophFe4dHDc6A%253d%253d%250a%26PubCert%3d&ts=140911211451foDwmJ6d2ySiN8S5beAS9g001388&src_flg=0&OSv=IE11_WinVista 6.03.9600 Professional_64B (CDN) (notray:J) [INIpayTest] (61_secuni_npapi)&ip2=114.70.4.6
+DEBUG	[2014-09-11 21:14:52:341] <9716> sessionkey:VCard
+DEBUG	[2014-09-11 21:14:52:341] <9716> enctype:
+DEBUG	[2014-09-11 21:14:52:341] <9716> rn:
+DEBUG	[2014-09-11 21:14:52:341] <9716> uid:
+DEBUG	[2014-09-11 21:14:52:341] <9716> url:http://www.mondayapple.com
+INFO	[2014-09-11 21:14:52:342] <9716> Check Field OK
+INFO	[2014-09-11 21:14:52:342] <9716> Make TID OK INIphpISP_INIpayTest20140911211452425393
+INFO	[2014-09-11 21:14:52:342] <9716> PI PUB KEY LOAD OK [39]
+INFO	[2014-09-11 21:14:52:343] <9716> PG PUB KEY LOAD OK [30]
+INFO	[2014-09-11 21:14:52:344] <9716> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:14:52:344] <9716> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-09-11 21:14:52:349] <9716> MAKE BODY OK
+INFO	[2014-09-11 21:14:52:352] <9716> SIGN OK
+INFO	[2014-09-11 21:14:52:353] <9716> MAKE HEAD OK
+INFO	[2014-09-11 21:14:52:353] <9716> MSG_TO_PG:[0360500175R SHA1                   0                  39                  300200INIpayTest                1000INIphpISP_INIpayTest20140911211452425393<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>INIpayTest</SMID>
+	      <GoodsName urlencode="1">123</GoodsName>
+	      <GoodsPrice>1000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">awef</BuyerName>
+	    <BuyerTel>12312313</BuyerTel>
+	    <BuyerEmail urlencode="1">wefawef</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Doid_1234567890%26ver_trace%3Dmain%286086%2C6053%29vcard%286078%29card%286114%2C6104%29n%286008%29Cs%286022%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286130%29Re%286083%29Vr%286006%29P%286033%29en%286038%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26VCode%3D040100202438831%26VQuota%3D00%26VNoint%3D0%26ip%3D10.211.55.3%26mac%3D001C4221AFA6%26cardpoint%3D9%26custemail%3D%26price%3D4uDsrkVGcE4gjnub%2BtIuGLKwnbZZ5Wc%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DmZunbF1lBFivejt%252biKd0J6tF5n0Blu1GhSKo96nSupA%252bvohWryzfmgRD%252bIjIw6y%252f%250d%250akR8Oro1uH%252bhnDimuTX0O%252bs4oVn97Z0jSUoZFN9SR%252ba3MZwAt%252fPIQJy2Zh7SU%252fw7O%250d%250ay%252fNtnNxAQkPlVmYhsubDaIN9wWzAY2kKmApYwripHBw%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253dKJ1KyqwmDbysz4vXx%252fY3WwxhUWiRvzd0Vk6HT4uHW3Ixt4IRG12NQoukxdwLHTr6%25250awm8SzercMSE2yYDwGjvtDt9JwvbvaFiU7a2WCxYA7BghsP1QhViYrrA%25252b3Zrpi6ec%25250aQi%252f08fgnd7%252fcjKnUPqP4kjR3sKIeSHcdij3rHgvhQPzK5ZxWi24RYunwrhkqk2ry%25250aR1JCvjO1h6I0ildZxtGpjwxTPzC%25252bQq6au4MbiK8MCd%252fL9ETfcuEmgc6lABHB4E68%25250aHgdC%25252bxzcpolL0OeAcoDEy6EI5hV7g6TMgZK8wk86i08A53N3dnfn04y3fawaB8SJ%25250a%25252bmVYakzaK1XwF88P7m%252fZFJix2xJ%252fkiIY%25252bMoDU0KChI8evN23sr9y3phCf9RfCIz6%25250aVQAzsF8yOgnHFQZ3cDuh4gZUCiWZIA%25252b%25252blYQelvppFgLwhl7siATbZnblG7LW1JuP%25250aiXssYH2im09WbImCMAjxcYVsDgQ9xFrijKUVnpIbdQhtOCGktkFO5bc3P%252fgQzhxV%25250ag3iFcGj8ZLJ0fj5X26S8blYupsDc4XwRjJi%25252bg4zdzsFTchcJlxeVoxQJyTxB%252f7Ky%25250aoyUjk%25252bQe%252fXKTfSkgUmn%25252btNa%25252bhn3LN9psNHdMXgzKXpe5iCP7weal%252fpj6%25252bsBrTGsp%25250as%25252bMQEdpj3aEeCzdcTl4PpatG0Do%252fy3uBPs6mMWUBfj5MmLvGSyJqjCvO%252fxrLzHlz%25250aK9W%25252bz%25252bB7kaEaSQgGaOlQke08pWVFYCjRCaQ8vHSl%25252bkJFuB7eNofZ5A8BaK2Xdshu%25250abhsiy6ZBRAiwt1lZnUkfqvXnXAokSflxT0dNGVdFK8%25252bj2xFcBh0uZZLxS0AT%252fdfX%25250aKNC9KqlpoZophFe4dHDc6A%25253d%25253d%25250a%2526PubCert%253d%26ts%3D140911211451foDwmJ6d2ySiN8S5beAS9g001388%26src_flg%3D0%26OSv%3DIE11_WinVista+6.03.9600+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BINIpayTest%5D+%2861_secuni_npapi%29%26ip2%3D114.70.4.6</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.mondayapple.com</URL>
+	    <TXVersion>5034B120709securDarwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack></ManageInfo></INIpay>KAudXx7e2ey+SpuYnj91sSbQBIkBqd76Th7DXNk5HWH8uy1F1JpX8XhZzaZv74Zr
+1DnMxnnvCrHd1gHmAYQEOWhTloOj5xIPemfbXcR9KUNsGgZkRhv/q4vXz10WZucL
+zyUHdMeZNOA8+6iCDkLaNWHTuS/NshHrC34wVL2m9Sk=
+]
+INFO	[2014-09-11 21:14:52:354] <9716> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-09-11 21:14:52:371] <9716> SOCKET CONNECT OK
+INFO	[2014-09-11 21:14:52:371] <9716> SEND OK
+INFO	[2014-09-11 21:14:54:196] <9716> RECV OK
+INFO	[2014-09-11 21:14:54:196] <9716> MSG_FROM_PG:[0270300175D SHA1                   0                  39                  300210INIpayTest                1000INIphpISP_INIpayTest20140911211452425393<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">oid_1234567890</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>INIpayTest</SMID>
+      <GoodsName urlencode="1">123</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>1000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>0g1v2aHfqCCIZP2Hu0TV1cBIb1xdLWAQYzHvdHiQndLIHAJV0n13NlIZfa0ein7Z
+MVPYYnLPadPluCRKFHxPupK56bilOZ4TUVWedNqY+OGnkXJfJ+KK9conVGm6bMkR
+sdykeq04CQuI0gc/Vs2twmS3jMx//2Wvb6KKqbI1umy2ftfoV5xjzw==
+</SessionKey>
+      <Encrypted>k/oIqRlfiBJr55Uz8DirkvVBYd6g8Si6J7O71Q/Umfbk7E2cNeiakgcCdw81hxgR
+GZRix0/W8huCXf4FIiCgc9tP9a1v/3VqpQqE0Yf1FkX+8olfieNMsnvNJuBV0H1A
+TMZRetUH4C1BGislMohU+lwQTlLqkrP8ys/W6FIuWmdmR2GTsQw+3OoelTztUEum
+XWPrhlAkhiZ0apkMLwKK18wVrWo2Mc6Vn3lKkt4qB6FGpT23nZI/izfki3CUfyyZ
+9FoYHxuc0qHeK4JLIfLzEsqdwUL7iSLwTtAXu6TPnRf8FJ+3zX30wEFpT5ynQAIo
+qhPmERRFfRFVn3IvO/mkcYR7crRppVey5Hr3OCTafcJ++mE1HC3yA97zkvn9yXHk
+H3GfqeTCdbXpx+Zq1UE+0+V8/Xkc9/A8CGvfNIpcZROeYLGpwVvdt/mc0rSIVwGG
+bEmG2GLhfdMDldQrFpt2fjT7GQLOGGEu1uvUEEGcETbklZVH9BZPICc4wQY2AjdN
+1ohNl54vDq4djgl/9T2P0kPVkvp0xqAHYMdcn8PqPxdPbMg0G6bwJEPbC4yX27Hj
+LyiQbCOo2s6oMbWkS8CkOoOvFGUUEaiPERM5yKCCeyNinK0MmWcBAiPaxIxqF5uv
+oKqxVKkhhX6wmj0CyFsjs17KmyhHi/Imr5cXK0+L6uEEnTUgvoGkqFD1hN7610mv
+GGmpGjyyAan9VlkzkDAac1qDCv0hfYg1NoHijz+vLAJThlMGsrXyJVqca3kFRGel
+QxHMk9jEliAySOTouY0TBUBd/xSW7NZfJ1R76nB70M2N2KAreHPBbRgGGKuuguyu
+X575zgMN1t/GvZVAchnyDo+z1VXXYHr0TFmshs0xfaXKEadYjJsv3AA9VgMQrku0
+bNscshYj/7EUH52OPDscrZJa/d9Wz3Zpev7JHTMrC4cqCRo263GCQkAya3lACWSr
+ygtTQUeKhwYAN9zRecX5M959UJl9/upLbllFFl+HiuLE3fpl77oyYzEKAmqbFpts
+kYhSmILtfhAhq4hhtWuXf+XXmlEDh/50o3gz64cPUDrJOEi/ty4aR5EXXwrndzBY
+E07p5qYmHBgorYvDk7xB+jejhUPQRhRPY7sZ2LUiNeZm08HBvOOhrZTKjGeOeF62
+LNDa8tgLRqy/1jrfcMql+Be9bNLyRP6Zt+UkKc2KK7TWVjrhR2hY2Tz+FHahYG57
+4h29cVrdOR7nUyH90NLdGMEVzhM3p7I5Xfnorgj7UgAHjoXdMKFAB0cmnanQ12L8
+24ruWaKVYgfqiu6Wd8lqG045lihRiN+RYyXXA75YJja7aVtbGfjrKbmT/CvlQhzQ
+LiAzCWg1hxFQ+Z7364psPjEAwJOKm9twbJYJacEXj7JrhAGVKHuN/u/dPD6Oa69w
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+3B5l+P3EOG+9wODIAkduse+dNBVkZlAjzCQRLI/45B8PYifiAlHqgcvQSM/EDYt5
+/7ONhNnI7k7WCg4Sa7JuBiRtD/V7q3Jng2sDsOEchjFYnYZBx+TeHiFnhHTI7bA1
+ejOgkc+JmyXAA+DDaYXjzXY6Bqxw2FC++xY3n0L1RCg=
+]
+INFO	[2014-09-11 21:14:54:196] <9716> VERIFY OK
+INFO	[2014-09-11 21:14:54:196] <9716> PARSE HEAD OK
+INFO	[2014-09-11 21:14:54:199] <9716> PARSE BODY OK
+INFO	[2014-09-11 21:14:54:219] <9716> DECRYPT OK
+DEBUG	[2014-09-11 21:14:54:219] <9716> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>1000</ISP_ApplPrice>
+      <ISP_BankCode>00</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>11</ISP_CardCode>
+      <ISP_CardNum>42142000****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20140911</ISP_ApplDate>
+      <ISP_ApplTime>211450</ISP_ApplTime>
+      <ISP_ApplNum>65252259</ISP_ApplNum>
+      <ISP_TerminalNum>019058I000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1">BC%C4%AB%B5%E5</ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1">%BA%F1%BE%BE%C4%AB%B5%E5</ISP_IssuerName>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2014-09-11 21:14:54:220] <9716> DECRYPT PARSE OK
+INFO	[2014-09-11 21:14:54:220] <9716> WAIT ACK INVOKING
+DEBUG	[2014-09-11 21:14:54:220] <9716> MAKE HEAD OK
+INFO	[2014-09-11 21:14:54:234] <9716> SUCCESS ACK INVOKING
+INFO	[2014-09-11 21:14:54:234] <9716> END securepay 정상완료 Laptime:[1.894sec]
+INFO	[2014-09-11 21:14:54:234] <9716> ===============================================================
+INFO	[2014-09-11 21:17:17:990] <9730> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 21:17:17:990] <9730> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 21:17:17:990] <9730> debug:true
+DEBUG	[2014-09-11 21:17:17:990] <9730> admin:1111
+DEBUG	[2014-09-11 21:17:17:990] <9730> mid:INIpayTest
+DEBUG	[2014-09-11 21:17:17:990] <9730> type:chkfake
+DEBUG	[2014-09-11 21:17:17:990] <9730> enctype:asym
+DEBUG	[2014-09-11 21:17:17:990] <9730> checkopt:false
+DEBUG	[2014-09-11 21:17:17:990] <9730> nointerest:no
+DEBUG	[2014-09-11 21:17:17:990] <9730> price:
+DEBUG	[2014-09-11 21:17:17:990] <9730> quotabase:선택:일시불
+INFO	[2014-09-11 21:17:17:990] <9730> Check Field OK
+INFO	[2014-09-11 21:17:17:991] <9730> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-11 21:17:17:991] <9730> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-11 21:17:17:993] <9730> CHKFAKE KEY MAKE OK:MjAxNDA5MTEyMTE3MTc5OTE0MDY5MA==
+
+INFO	[2014-09-11 21:17:17:993] <9730> END chkfake  Laptime:[0.004sec]
+INFO	[2014-09-11 21:17:17:993] <9730> ===============================================================
+INFO	[2014-09-11 22:17:25:582] <10295> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-11 22:17:25:582] <10295> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-11 22:17:25:582] <10295> debug:true
+DEBUG	[2014-09-11 22:17:25:582] <10295> admin:1111
+DEBUG	[2014-09-11 22:17:25:582] <10295> mid:INIpayTest
+DEBUG	[2014-09-11 22:17:25:582] <10295> type:chkfake
+DEBUG	[2014-09-11 22:17:25:582] <10295> enctype:asym
+DEBUG	[2014-09-11 22:17:25:582] <10295> checkopt:false
+DEBUG	[2014-09-11 22:17:25:582] <10295> nointerest:no
+DEBUG	[2014-09-11 22:17:25:582] <10295> price:
+DEBUG	[2014-09-11 22:17:25:582] <10295> quotabase:
+ERROR	[2014-09-11 22:17:25:620] <10295> 필수항목(quotabase)이 누락되었습니다.
+INFO	[2014-09-11 22:17:25:620] <10295> END chkfake [TX9004|필수항목(quotabase)이 누락되었습니다.] Laptime:[0.039sec]
+INFO	[2014-09-11 22:17:25:620] <10295> ===============================================================

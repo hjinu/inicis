@@ -1,0 +1,188 @@
+INFO	[2014-09-04 00:51:27:461] <6438> START INIPHP cancel (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 00:51:27:461] <6438> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 00:51:27:461] <6438> debug:true
+DEBUG	[2014-09-04 00:51:27:461] <6438> admin:1111
+DEBUG	[2014-09-04 00:51:27:461] <6438> mid:INIpayTest
+DEBUG	[2014-09-04 00:51:27:461] <6438> type:cancel
+DEBUG	[2014-09-04 00:51:27:461] <6438> tid:INIphpISP_INIpayTest20140904005103565947
+DEBUG	[2014-09-04 00:51:27:461] <6438> message:
+INFO	[2014-09-04 00:51:27:461] <6438> Check Field OK
+INFO	[2014-09-04 00:51:27:461] <6438> PI PUB KEY LOAD OK []
+INFO	[2014-09-04 00:51:27:461] <6438> PG PUB KEY LOAD OK [30]
+INFO	[2014-09-04 00:51:27:462] <6438> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 00:51:27:462] <6438> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2014-09-04 00:51:27:463] <6438> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>INIphpISP_INIpayTest20140904005103565947</CancelTID>
+	  <CancelMsg/>
+	  <CancelReason/></CancelInfo>]
+INFO	[2014-09-04 00:51:27:463] <6438> MAKE BODY OK
+INFO	[2014-09-04 00:51:27:465] <6438> SIGN OK
+INFO	[2014-09-04 00:51:27:465] <6438> MAKE HEAD OK
+INFO	[2014-09-04 00:51:27:465] <6438> MSG_TO_PG:[0084000175D SHA1                   0                                      300420INIpayTest                    INIphpISP_INIpayTest20140904005103565947<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>o72eMquvDj05OAkx7W44N8sjx7jfb3gdbsv0JKHBgPmoetMyeNPXxeaJZJj1orZ7
+0q9kExVNlivSet5RI8Vi4ZzkIM7JzUUbYmZOAjwhXRNZoOYmQ/AfjbJsnWhI+Op9
+03Kisu+kHNlyOqsOq64rms33RnTCeHODhAoYHu9O5IH0u7BfI8/Qvw==
+</SessionKey>
+	    <Encrypted>h0nGZ+Safqja94mpZpbUZWOOoM7mdS/ivhEyG5Az9G2cDD+IG5j3zU+ImEC7fcX8
+ToP7gb4kuWKp8cSYnh26s9P+zpgt3qX+NX02fKP+u9njM7jNbKY/qKozBjPJTvR6
+xCOTy32Bw/q7O4E2QADAhII8R2Gx4Rto1Fxf9MS1nAz/a0ki2XZF5kgot2fBJhzE
+JWI1NYC22oRWYyuIugf7B12nxLTkjZmG
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709canceDarwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>3UldBctBMIGQBD4X5rE9PJinj3l1H7DvYvFCewIs5wIpqfLA0EzLNNYupZRBRfw1
+Kns4c9vOnACFivwey/8PHdiBKIl0hwr9fOOO4SgMeDh43SZZJ/YycyhQ5RbYQ8UE
+5vvkPIlgqvvDArS+fHL9im8a594q+99CoLoTx1o337Y=
+]
+INFO	[2014-09-04 00:51:27:466] <6438> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-09-04 00:51:27:492] <6438> SOCKET CONNECT OK
+INFO	[2014-09-04 00:51:27:493] <6438> SEND OK
+INFO	[2014-09-04 00:51:28:158] <6438> RECV OK
+INFO	[2014-09-04 00:51:28:158] <6438> MSG_FROM_PG:[0108200175D SHA1                   0                                      300430INIpayTest                    INIphpISP_INIpayTest20140904005103565947<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <CancelInfo>
+    <ResultCode>170000</ResultCode>
+    <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    <SessionKey>v+FuidghzwlhToQ2sTP4uh0+0WsK2GOf6hw26Fs7Re8yP6Kqpsawd6sSS4YuB5/k
+dpT2bSAO8ibBBbvUknTcY6FXL5fR3unVVink1hm/r0XzXCVnmVzsWeKkYEx3/9ob
+A8S+Zm9c6PstodpokdZ+XANln1AchSrRs9pcwOr4Taxli/iwyNd7PA==
+</SessionKey>
+    <Encrypted>gdPMiLJYyHmZnf1IkBTOvZ/cBubr+z9rd9PIubyf3jJT2HQEQQnYSbvrDUpzQYTZ
+ngYKwE09hw2RgBEabURyfXrS79mw1fYtl1eTAtGLgfI5C/Vm52gNqVb1d5tVCJDg
+NwZRoVLGUGE71JFTBHauVzt7UU1d6gwkS0P+NTSy7Ye3RwzeocxwHvLiJj9jrUJl
+01fYNyPTFO+ANJuoldvo2UN7g5dRaO5VzG0nZChbusn4qZIjBc5kbx7rGqqml0nM
+71i438h6Ebi93YFhPl+P6BHO0+MrzCUdckOYM9BSnYAHciHoFG5UltSvfm4/yADl
+</Encrypted>
+  </CancelInfo>
+  <ManageInfo/>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+iCdWcTHHyTpL742QNbdTM10TJT0sYBLHnB+lx2H4UROPsSmhFxdC5gz9Hc6LR4MS
+O62lLdf+PfvWwv/iopMVhHBN91vQigVMaz8oe9hjuWEr4+qDbJ6tYrrvl2s0hKRP
+DVhF7ymW3KoGjFClPi/jJscXg46w2fw1qmfGv33WH0w=
+]
+INFO	[2014-09-04 00:51:28:158] <6438> VERIFY OK
+INFO	[2014-09-04 00:51:28:158] <6438> PARSE HEAD OK
+INFO	[2014-09-04 00:51:28:159] <6438> PARSE BODY OK
+INFO	[2014-09-04 00:51:28:161] <6438> DECRYPT OK
+DEBUG	[2014-09-04 00:51:28:161] <6438> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+  <CancelDate>20140904</CancelDate>
+  <CancelTime>005125</CancelTime>
+  <ResultCode>170000</ResultCode>
+  <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+</CancelInfo>]
+INFO	[2014-09-04 00:51:28:162] <6438> DECRYPT PARSE OK
+INFO	[2014-09-04 00:51:28:162] <6438> END cancel 정상완료 Laptime:[0.701sec]
+INFO	[2014-09-04 00:51:28:162] <6438> ===============================================================
+INFO	[2014-09-04 00:51:35:206] <6440> START INIPHP cancel (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 00:51:35:206] <6440> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 00:51:35:206] <6440> debug:true
+DEBUG	[2014-09-04 00:51:35:206] <6440> admin:1111
+DEBUG	[2014-09-04 00:51:35:206] <6440> mid:INIpayTest
+DEBUG	[2014-09-04 00:51:35:206] <6440> type:cancel
+DEBUG	[2014-09-04 00:51:35:206] <6440> tid:INIphpISP_INIpayTest20140831214547763885
+DEBUG	[2014-09-04 00:51:35:206] <6440> message:
+INFO	[2014-09-04 00:51:35:206] <6440> Check Field OK
+INFO	[2014-09-04 00:51:35:206] <6440> PI PUB KEY LOAD OK []
+INFO	[2014-09-04 00:51:35:207] <6440> PG PUB KEY LOAD OK [30]
+INFO	[2014-09-04 00:51:35:207] <6440> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 00:51:35:207] <6440> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2014-09-04 00:51:35:208] <6440> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>INIphpISP_INIpayTest20140831214547763885</CancelTID>
+	  <CancelMsg/>
+	  <CancelReason/></CancelInfo>]
+INFO	[2014-09-04 00:51:35:208] <6440> MAKE BODY OK
+INFO	[2014-09-04 00:51:35:209] <6440> SIGN OK
+INFO	[2014-09-04 00:51:35:209] <6440> MAKE HEAD OK
+INFO	[2014-09-04 00:51:35:209] <6440> MSG_TO_PG:[0084000175D SHA1                   0                                      300420INIpayTest                    INIphpISP_INIpayTest20140831214547763885<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>bhS2UhLjxuDTq35kU4JbyfwASGTE5ZKAxn1Td3Kv41vOeJOYgt+VbmEUHDxoxM3/
+WaIQ7IoXo3A1h0efEIcJViZeLBpfuLQG+DcwfQKjIXSQSd4/Lv68cIzQtZUvLeqN
+P4LyTCnWLrr2M2HzG0SLFgP/LYojcThi1puHn0B94WCiXdU28TB4BA==
+</SessionKey>
+	    <Encrypted>WN7KTzKyLwDqoXPkMqrkWwA3oSljpt9MzKG2NAHw8jN8RKOhbqH7+xcsoY4BzyU7
+fHZrBuEJhhFZWA91pt3Ms+44p+mj+BTZvvJBQNTAqs22j/5gJC23SAKWo0+1bQDJ
+3uauTq5jKXqnnUhrmUoq8RpFp3WmRJBQsIRPHh7tTmy3gFikeDnqcosN4f3fpIyP
+r3E5R4GMu8vJNEZDxcZxMqJO7r7Imrb3
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709canceDarwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>FAuH+xr1u9xo4LJzebCaJW/+b8hS2C30SC1xUZbCcN72pzXWdydNw0gfPprdzXvT
+hqrO564DHsVesFaVGh9tv0sfW0pJ3itYAQcSt4eDeGRYcX/xnKHfgSUmGlBk8SyQ
+6imFNZ0tV81qIvxoJU5HPa8Q4z1jH7b62uFkxB2XJdw=
+]
+INFO	[2014-09-04 00:51:35:210] <6440> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-09-04 00:51:35:221] <6440> SOCKET CONNECT OK
+INFO	[2014-09-04 00:51:35:221] <6440> SEND OK
+INFO	[2014-09-04 00:51:35:408] <6440> RECV OK
+INFO	[2014-09-04 00:51:35:408] <6440> MSG_FROM_PG:[0108200175D SHA1                   0                                      300430INIpayTest                    INIphpISP_INIpayTest20140831214547763885<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <CancelInfo>
+    <ResultCode>501626</ResultCode>
+    <ResultMsg urlencode="1">%B1%E2+%C3%EB%BC%D2+%B0%C5%B7%A1</ResultMsg>
+    <SessionKey>jdF/aHZX2z9+NyCCj8k+k8jLi+8XQlVfDS7Y64Da24MRK4ay7SehlpOJ2RnhZhIN
+rIvqJMbKYgxZb9fcg/AK7Zp2/UJpQ+t3EIcIC1PcJnz7vnY2kNT1WHAPryDGQ/hv
+DO1UxnHx9ZbNEHcbo/4S1G5LUZIML+Zn6+x2V4L5QpwEJqcgrLYgEg==
+</SessionKey>
+    <Encrypted>MhpcAnRIM6GCPY0sUHvy4JFz/FZ6g/dXwd5Oz/E1pIOsEv7JAOV6PzeyFVYGjX27
+F2m4eCTXpciYmwbL0PTxEesJp5hf6ywc0zjuvCZKG7g08lQwcwooGwnhCEZeEtnZ
+Ith4tIJkvFNNLWvdMHXIYn6TgIJItikJtSA3TuaWCF63oH1Cr4aloZ7PhhkxTjyF
+pxauyudpockzRNBwbHAsGXZkxu2e+bj4okhBwfYkVwPimA4J04zm+y4OVYBFAb4t
+AbMUa6JeQB0kzU1ElPQ5kMIWhAZRqkD/1forZgV6xp2y3xLYXjNxzQ==
+</Encrypted>
+  </CancelInfo>
+  <ManageInfo/>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+CzI0d6ugeL6pQH59lQob//JISyopRMXT6lD5BZt53In1rfZSeLisOGYqJgQIO38b
+MbjnslX4Tg1zIslsBfB1fWYtFr93D6YpA7QY0bGCeDK3hTFN0QuEduQo0ptLOfO8
+ZusF0CtxS3c0T3QPVzNfncAolGNNPDue1ajtAwgMfno=
+]
+INFO	[2014-09-04 00:51:35:409] <6440> VERIFY OK
+INFO	[2014-09-04 00:51:35:409] <6440> PARSE HEAD OK
+INFO	[2014-09-04 00:51:35:410] <6440> PARSE BODY OK
+INFO	[2014-09-04 00:51:35:413] <6440> DECRYPT OK
+DEBUG	[2014-09-04 00:51:35:413] <6440> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+  <CancelDate></CancelDate>
+  <CancelTime></CancelTime>
+  <ResultCode>501626</ResultCode>
+  <ResultMsg urlencode="1">%B1%E2+%C3%EB%BC%D2+%B0%C5%B7%A1</ResultMsg>
+</CancelInfo>]
+INFO	[2014-09-04 00:51:35:414] <6440> DECRYPT PARSE OK
+INFO	[2014-09-04 00:51:35:414] <6440> END cancel [501626|기 취소 거래] Laptime:[0.208sec]
+INFO	[2014-09-04 00:51:35:414] <6440> ===============================================================

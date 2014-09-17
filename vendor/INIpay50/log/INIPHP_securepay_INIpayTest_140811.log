@@ -1,0 +1,1722 @@
+INFO	[2014-08-11 02:52:37:906] <67641> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:52:37:906] <67641> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:52:37:906] <67641> debug:true
+DEBUG	[2014-08-11 02:52:37:906] <67641> admin:1111
+DEBUG	[2014-08-11 02:52:37:906] <67641> mid:INIpayTest
+DEBUG	[2014-08-11 02:52:37:906] <67641> type:securepay
+DEBUG	[2014-08-11 02:52:37:906] <67641> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:52:37:906] <67641> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:52:37:906] <67641> buyername:awefwf
+DEBUG	[2014-08-11 02:52:37:906] <67641> buyertel:12312312
+DEBUG	[2014-08-11 02:52:37:906] <67641> buyeremail:ewfew
+DEBUG	[2014-08-11 02:52:37:906] <67641> goodname:awefawf
+DEBUG	[2014-08-11 02:52:37:906] <67641> price:30000
+DEBUG	[2014-08-11 02:52:37:906] <67641> currency:WON
+DEBUG	[2014-08-11 02:52:37:906] <67641> paymethod:VCard
+DEBUG	[2014-08-11 02:52:37:906] <67641> encrypted:
+DEBUG	[2014-08-11 02:52:37:906] <67641> sessionkey:
+DEBUG	[2014-08-11 02:52:37:906] <67641> enctype:
+DEBUG	[2014-08-11 02:52:37:906] <67641> rn:
+DEBUG	[2014-08-11 02:52:37:906] <67641> uid:
+DEBUG	[2014-08-11 02:52:37:906] <67641> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:52:37:924] <67641> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:52:37:924] <67641> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.02sec]
+INFO	[2014-08-11 02:52:37:924] <67641> ===============================================================
+INFO	[2014-08-11 02:52:38:40] <67642> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:52:38:40] <67642> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:52:38:40] <67642> debug:true
+DEBUG	[2014-08-11 02:52:38:40] <67642> admin:1111
+DEBUG	[2014-08-11 02:52:38:40] <67642> mid:INIpayTest
+DEBUG	[2014-08-11 02:52:38:40] <67642> type:chkfake
+DEBUG	[2014-08-11 02:52:38:40] <67642> enctype:asym
+DEBUG	[2014-08-11 02:52:38:40] <67642> checkopt:false
+DEBUG	[2014-08-11 02:52:38:40] <67642> nointerest:no
+DEBUG	[2014-08-11 02:52:38:40] <67642> price:30000
+DEBUG	[2014-08-11 02:52:38:40] <67642> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:52:38:40] <67642> Check Field OK
+INFO	[2014-08-11 02:52:38:48] <67642> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:52:38:49] <67642> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:52:38:50] <67642> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjUyMzgwNDk3NTAwMw==
+
+INFO	[2014-08-11 02:52:38:50] <67642> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 02:52:38:50] <67642> ===============================================================
+INFO	[2014-08-11 02:54:58:225] <67652> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:54:58:225] <67652> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:54:58:225] <67652> debug:true
+DEBUG	[2014-08-11 02:54:58:225] <67652> admin:1111
+DEBUG	[2014-08-11 02:54:58:225] <67652> mid:INIpayTest
+DEBUG	[2014-08-11 02:54:58:225] <67652> type:securepay
+DEBUG	[2014-08-11 02:54:58:225] <67652> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:54:58:225] <67652> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:54:58:225] <67652> buyername:awefwaef
+DEBUG	[2014-08-11 02:54:58:225] <67652> buyertel:123123
+DEBUG	[2014-08-11 02:54:58:225] <67652> buyeremail:awef123
+DEBUG	[2014-08-11 02:54:58:225] <67652> goodname:wf
+DEBUG	[2014-08-11 02:54:58:225] <67652> price:30000
+DEBUG	[2014-08-11 02:54:58:225] <67652> currency:WON
+DEBUG	[2014-08-11 02:54:58:225] <67652> paymethod:VCard
+DEBUG	[2014-08-11 02:54:58:225] <67652> encrypted:
+DEBUG	[2014-08-11 02:54:58:225] <67652> sessionkey:
+DEBUG	[2014-08-11 02:54:58:225] <67652> enctype:
+DEBUG	[2014-08-11 02:54:58:225] <67652> rn:
+DEBUG	[2014-08-11 02:54:58:225] <67652> uid:
+DEBUG	[2014-08-11 02:54:58:225] <67652> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:54:58:239] <67652> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:54:58:239] <67652> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.015sec]
+INFO	[2014-08-11 02:54:58:239] <67652> ===============================================================
+INFO	[2014-08-11 02:54:58:340] <67653> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:54:58:340] <67653> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:54:58:340] <67653> debug:true
+DEBUG	[2014-08-11 02:54:58:340] <67653> admin:1111
+DEBUG	[2014-08-11 02:54:58:340] <67653> mid:INIpayTest
+DEBUG	[2014-08-11 02:54:58:340] <67653> type:chkfake
+DEBUG	[2014-08-11 02:54:58:340] <67653> enctype:asym
+DEBUG	[2014-08-11 02:54:58:340] <67653> checkopt:false
+DEBUG	[2014-08-11 02:54:58:340] <67653> nointerest:no
+DEBUG	[2014-08-11 02:54:58:340] <67653> price:30000
+DEBUG	[2014-08-11 02:54:58:340] <67653> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:54:58:340] <67653> Check Field OK
+INFO	[2014-08-11 02:54:58:340] <67653> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:54:58:340] <67653> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:54:58:341] <67653> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjU0NTgzNDA3NTE1Mw==
+
+INFO	[2014-08-11 02:54:58:341] <67653> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 02:54:58:341] <67653> ===============================================================
+INFO	[2014-08-11 02:55:02:754] <67655> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:55:02:754] <67655> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:55:02:754] <67655> debug:true
+DEBUG	[2014-08-11 02:55:02:754] <67655> admin:1111
+DEBUG	[2014-08-11 02:55:02:754] <67655> mid:INIpayTest
+DEBUG	[2014-08-11 02:55:02:754] <67655> type:securepay
+DEBUG	[2014-08-11 02:55:02:754] <67655> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:55:02:754] <67655> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:55:02:754] <67655> buyername:awefwf
+DEBUG	[2014-08-11 02:55:02:754] <67655> buyertel:12312312
+DEBUG	[2014-08-11 02:55:02:754] <67655> buyeremail:ewfew
+DEBUG	[2014-08-11 02:55:02:754] <67655> goodname:awefawf
+DEBUG	[2014-08-11 02:55:02:754] <67655> price:30000
+DEBUG	[2014-08-11 02:55:02:754] <67655> currency:WON
+DEBUG	[2014-08-11 02:55:02:754] <67655> paymethod:VCard
+DEBUG	[2014-08-11 02:55:02:754] <67655> encrypted:
+DEBUG	[2014-08-11 02:55:02:754] <67655> sessionkey:
+DEBUG	[2014-08-11 02:55:02:754] <67655> enctype:
+DEBUG	[2014-08-11 02:55:02:754] <67655> rn:
+DEBUG	[2014-08-11 02:55:02:754] <67655> uid:
+DEBUG	[2014-08-11 02:55:02:754] <67655> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:55:02:767] <67655> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:55:02:767] <67655> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 02:55:02:767] <67655> ===============================================================
+INFO	[2014-08-11 02:55:02:875] <67656> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:55:02:875] <67656> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:55:02:875] <67656> debug:true
+DEBUG	[2014-08-11 02:55:02:875] <67656> admin:1111
+DEBUG	[2014-08-11 02:55:02:875] <67656> mid:INIpayTest
+DEBUG	[2014-08-11 02:55:02:875] <67656> type:chkfake
+DEBUG	[2014-08-11 02:55:02:875] <67656> enctype:asym
+DEBUG	[2014-08-11 02:55:02:875] <67656> checkopt:false
+DEBUG	[2014-08-11 02:55:02:875] <67656> nointerest:no
+DEBUG	[2014-08-11 02:55:02:875] <67656> price:30000
+DEBUG	[2014-08-11 02:55:02:875] <67656> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:55:02:875] <67656> Check Field OK
+INFO	[2014-08-11 02:55:02:875] <67656> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:55:02:876] <67656> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:55:02:877] <67656> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjU1MDI4NzYxOTU2NQ==
+
+INFO	[2014-08-11 02:55:02:877] <67656> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 02:55:02:877] <67656> ===============================================================
+INFO	[2014-08-11 02:57:45:701] <67669> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:57:45:701] <67669> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:57:45:701] <67669> debug:true
+DEBUG	[2014-08-11 02:57:45:701] <67669> admin:1111
+DEBUG	[2014-08-11 02:57:45:701] <67669> mid:INIpayTest
+DEBUG	[2014-08-11 02:57:45:701] <67669> type:securepay
+DEBUG	[2014-08-11 02:57:45:701] <67669> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:57:45:701] <67669> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:57:45:701] <67669> buyername:awefwf
+DEBUG	[2014-08-11 02:57:45:701] <67669> buyertel:12312312
+DEBUG	[2014-08-11 02:57:45:701] <67669> buyeremail:ewfew
+DEBUG	[2014-08-11 02:57:45:701] <67669> goodname:awefawf
+DEBUG	[2014-08-11 02:57:45:701] <67669> price:30000
+DEBUG	[2014-08-11 02:57:45:701] <67669> currency:WON
+DEBUG	[2014-08-11 02:57:45:701] <67669> paymethod:VCard
+DEBUG	[2014-08-11 02:57:45:701] <67669> encrypted:
+DEBUG	[2014-08-11 02:57:45:701] <67669> sessionkey:
+DEBUG	[2014-08-11 02:57:45:701] <67669> enctype:
+DEBUG	[2014-08-11 02:57:45:701] <67669> rn:
+DEBUG	[2014-08-11 02:57:45:701] <67669> uid:
+DEBUG	[2014-08-11 02:57:45:701] <67669> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:57:45:715] <67669> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:57:45:716] <67669> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.015sec]
+INFO	[2014-08-11 02:57:45:716] <67669> ===============================================================
+INFO	[2014-08-11 02:57:45:847] <67670> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:57:45:847] <67670> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:57:45:847] <67670> debug:true
+DEBUG	[2014-08-11 02:57:45:847] <67670> admin:1111
+DEBUG	[2014-08-11 02:57:45:847] <67670> mid:INIpayTest
+DEBUG	[2014-08-11 02:57:45:847] <67670> type:chkfake
+DEBUG	[2014-08-11 02:57:45:847] <67670> enctype:asym
+DEBUG	[2014-08-11 02:57:45:847] <67670> checkopt:false
+DEBUG	[2014-08-11 02:57:45:847] <67670> nointerest:no
+DEBUG	[2014-08-11 02:57:45:847] <67670> price:30000
+DEBUG	[2014-08-11 02:57:45:847] <67670> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:57:45:848] <67670> Check Field OK
+INFO	[2014-08-11 02:57:45:848] <67670> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:57:45:848] <67670> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:57:45:849] <67670> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjU3NDU4NDg3ODc2OA==
+
+INFO	[2014-08-11 02:57:45:849] <67670> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 02:57:45:849] <67670> ===============================================================
+INFO	[2014-08-11 02:59:22:594] <67679> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:59:22:595] <67679> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:59:22:595] <67679> debug:true
+DEBUG	[2014-08-11 02:59:22:595] <67679> admin:1111
+DEBUG	[2014-08-11 02:59:22:595] <67679> mid:INIpayTest
+DEBUG	[2014-08-11 02:59:22:595] <67679> type:securepay
+DEBUG	[2014-08-11 02:59:22:595] <67679> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:59:22:595] <67679> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:59:22:595] <67679> buyername:awefwf
+DEBUG	[2014-08-11 02:59:22:595] <67679> buyertel:12312312
+DEBUG	[2014-08-11 02:59:22:595] <67679> buyeremail:ewfew
+DEBUG	[2014-08-11 02:59:22:595] <67679> goodname:awefawf
+DEBUG	[2014-08-11 02:59:22:595] <67679> price:30000
+DEBUG	[2014-08-11 02:59:22:595] <67679> currency:WON
+DEBUG	[2014-08-11 02:59:22:595] <67679> paymethod:VCard
+DEBUG	[2014-08-11 02:59:22:595] <67679> encrypted:
+DEBUG	[2014-08-11 02:59:22:595] <67679> sessionkey:
+DEBUG	[2014-08-11 02:59:22:595] <67679> enctype:
+DEBUG	[2014-08-11 02:59:22:595] <67679> rn:
+DEBUG	[2014-08-11 02:59:22:595] <67679> uid:
+DEBUG	[2014-08-11 02:59:22:595] <67679> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:59:22:610] <67679> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:59:22:610] <67679> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.017sec]
+INFO	[2014-08-11 02:59:22:610] <67679> ===============================================================
+INFO	[2014-08-11 02:59:22:735] <67680> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:59:22:735] <67680> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:59:22:735] <67680> debug:true
+DEBUG	[2014-08-11 02:59:22:735] <67680> admin:1111
+DEBUG	[2014-08-11 02:59:22:735] <67680> mid:INIpayTest
+DEBUG	[2014-08-11 02:59:22:735] <67680> type:chkfake
+DEBUG	[2014-08-11 02:59:22:735] <67680> enctype:asym
+DEBUG	[2014-08-11 02:59:22:735] <67680> checkopt:false
+DEBUG	[2014-08-11 02:59:22:735] <67680> nointerest:no
+DEBUG	[2014-08-11 02:59:22:735] <67680> price:30000
+DEBUG	[2014-08-11 02:59:22:735] <67680> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:59:22:735] <67680> Check Field OK
+INFO	[2014-08-11 02:59:22:736] <67680> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:59:22:736] <67680> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:59:22:738] <67680> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjU5MjI3MzY3Mzk3NQ==
+
+INFO	[2014-08-11 02:59:22:738] <67680> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 02:59:22:738] <67680> ===============================================================
+INFO	[2014-08-11 02:59:24:730] <67683> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:59:24:731] <67683> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:59:24:731] <67683> debug:true
+DEBUG	[2014-08-11 02:59:24:731] <67683> admin:1111
+DEBUG	[2014-08-11 02:59:24:731] <67683> mid:INIpayTest
+DEBUG	[2014-08-11 02:59:24:731] <67683> type:securepay
+DEBUG	[2014-08-11 02:59:24:731] <67683> subpgip:203.238.3.10
+DEBUG	[2014-08-11 02:59:24:731] <67683> pgid:INIphpISP_
+DEBUG	[2014-08-11 02:59:24:731] <67683> buyername:awefwf
+DEBUG	[2014-08-11 02:59:24:731] <67683> buyertel:12312312
+DEBUG	[2014-08-11 02:59:24:731] <67683> buyeremail:ewfew
+DEBUG	[2014-08-11 02:59:24:731] <67683> goodname:awefawf
+DEBUG	[2014-08-11 02:59:24:731] <67683> price:30000
+DEBUG	[2014-08-11 02:59:24:731] <67683> currency:WON
+DEBUG	[2014-08-11 02:59:24:731] <67683> paymethod:VCard
+DEBUG	[2014-08-11 02:59:24:731] <67683> encrypted:
+DEBUG	[2014-08-11 02:59:24:731] <67683> sessionkey:
+DEBUG	[2014-08-11 02:59:24:731] <67683> enctype:
+DEBUG	[2014-08-11 02:59:24:731] <67683> rn:
+DEBUG	[2014-08-11 02:59:24:731] <67683> uid:
+DEBUG	[2014-08-11 02:59:24:731] <67683> url:http://www.mondayapple.com
+ERROR	[2014-08-11 02:59:24:899] <67683> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 02:59:24:899] <67683> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.169sec]
+INFO	[2014-08-11 02:59:24:899] <67683> ===============================================================
+INFO	[2014-08-11 02:59:24:996] <67684> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 02:59:24:996] <67684> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 02:59:24:996] <67684> debug:true
+DEBUG	[2014-08-11 02:59:24:996] <67684> admin:1111
+DEBUG	[2014-08-11 02:59:24:996] <67684> mid:INIpayTest
+DEBUG	[2014-08-11 02:59:24:996] <67684> type:chkfake
+DEBUG	[2014-08-11 02:59:24:996] <67684> enctype:asym
+DEBUG	[2014-08-11 02:59:24:996] <67684> checkopt:false
+DEBUG	[2014-08-11 02:59:24:996] <67684> nointerest:no
+DEBUG	[2014-08-11 02:59:24:996] <67684> price:30000
+DEBUG	[2014-08-11 02:59:24:996] <67684> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 02:59:24:996] <67684> Check Field OK
+INFO	[2014-08-11 02:59:24:996] <67684> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 02:59:24:996] <67684> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 02:59:24:997] <67684> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMjU5MjQ5OTY1NDQ1MA==
+
+INFO	[2014-08-11 02:59:24:997] <67684> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 02:59:24:997] <67684> ===============================================================
+INFO	[2014-08-11 03:01:29:490] <67712> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:01:29:490] <67712> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:01:29:490] <67712> debug:true
+DEBUG	[2014-08-11 03:01:29:490] <67712> admin:1111
+DEBUG	[2014-08-11 03:01:29:490] <67712> mid:INIpayTest
+DEBUG	[2014-08-11 03:01:29:490] <67712> type:securepay
+DEBUG	[2014-08-11 03:01:29:490] <67712> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:01:29:490] <67712> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:01:29:490] <67712> buyername:awefwf
+DEBUG	[2014-08-11 03:01:29:490] <67712> buyertel:12312312
+DEBUG	[2014-08-11 03:01:29:490] <67712> buyeremail:ewfew
+DEBUG	[2014-08-11 03:01:29:490] <67712> goodname:awefawf
+DEBUG	[2014-08-11 03:01:29:490] <67712> price:30000
+DEBUG	[2014-08-11 03:01:29:490] <67712> currency:WON
+DEBUG	[2014-08-11 03:01:29:490] <67712> paymethod:VCard
+DEBUG	[2014-08-11 03:01:29:490] <67712> encrypted:
+DEBUG	[2014-08-11 03:01:29:490] <67712> sessionkey:
+DEBUG	[2014-08-11 03:01:29:490] <67712> enctype:
+DEBUG	[2014-08-11 03:01:29:490] <67712> rn:
+DEBUG	[2014-08-11 03:01:29:490] <67712> uid:
+DEBUG	[2014-08-11 03:01:29:490] <67712> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:01:29:505] <67712> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:01:29:505] <67712> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:01:29:505] <67712> ===============================================================
+INFO	[2014-08-11 03:01:29:628] <67713> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:01:29:628] <67713> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:01:29:628] <67713> debug:true
+DEBUG	[2014-08-11 03:01:29:628] <67713> admin:1111
+DEBUG	[2014-08-11 03:01:29:628] <67713> mid:INIpayTest
+DEBUG	[2014-08-11 03:01:29:628] <67713> type:chkfake
+DEBUG	[2014-08-11 03:01:29:628] <67713> enctype:asym
+DEBUG	[2014-08-11 03:01:29:628] <67713> checkopt:false
+DEBUG	[2014-08-11 03:01:29:628] <67713> nointerest:no
+DEBUG	[2014-08-11 03:01:29:628] <67713> price:30000
+DEBUG	[2014-08-11 03:01:29:628] <67713> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:01:29:628] <67713> Check Field OK
+INFO	[2014-08-11 03:01:29:637] <67713> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:01:29:637] <67713> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:01:29:639] <67713> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzAxMjk2Mzc4MTkzNA==
+
+INFO	[2014-08-11 03:01:29:639] <67713> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:01:29:639] <67713> ===============================================================
+INFO	[2014-08-11 03:10:31:210] <67787> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:10:31:211] <67787> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:10:31:211] <67787> debug:true
+DEBUG	[2014-08-11 03:10:31:211] <67787> admin:1111
+DEBUG	[2014-08-11 03:10:31:211] <67787> mid:INIpayTest
+DEBUG	[2014-08-11 03:10:31:211] <67787> type:securepay
+DEBUG	[2014-08-11 03:10:31:211] <67787> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:10:31:211] <67787> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:10:31:211] <67787> buyername:awefwf
+DEBUG	[2014-08-11 03:10:31:211] <67787> buyertel:12312312
+DEBUG	[2014-08-11 03:10:31:211] <67787> buyeremail:ewfew
+DEBUG	[2014-08-11 03:10:31:211] <67787> goodname:awefawf
+DEBUG	[2014-08-11 03:10:31:211] <67787> price:30000
+DEBUG	[2014-08-11 03:10:31:211] <67787> currency:WON
+DEBUG	[2014-08-11 03:10:31:211] <67787> paymethod:VCard
+DEBUG	[2014-08-11 03:10:31:211] <67787> encrypted:
+DEBUG	[2014-08-11 03:10:31:211] <67787> sessionkey:
+DEBUG	[2014-08-11 03:10:31:211] <67787> enctype:
+DEBUG	[2014-08-11 03:10:31:211] <67787> rn:
+DEBUG	[2014-08-11 03:10:31:211] <67787> uid:
+DEBUG	[2014-08-11 03:10:31:211] <67787> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:10:31:557] <67787> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:10:31:558] <67787> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.349sec]
+INFO	[2014-08-11 03:10:31:558] <67787> ===============================================================
+INFO	[2014-08-11 03:10:31:668] <67788> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:10:31:668] <67788> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:10:31:668] <67788> debug:true
+DEBUG	[2014-08-11 03:10:31:668] <67788> admin:1111
+DEBUG	[2014-08-11 03:10:31:668] <67788> mid:INIpayTest
+DEBUG	[2014-08-11 03:10:31:668] <67788> type:chkfake
+DEBUG	[2014-08-11 03:10:31:668] <67788> enctype:asym
+DEBUG	[2014-08-11 03:10:31:668] <67788> checkopt:false
+DEBUG	[2014-08-11 03:10:31:668] <67788> nointerest:no
+DEBUG	[2014-08-11 03:10:31:668] <67788> price:30000
+DEBUG	[2014-08-11 03:10:31:668] <67788> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:10:31:669] <67788> Check Field OK
+INFO	[2014-08-11 03:10:31:670] <67788> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:10:31:671] <67788> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:10:31:673] <67788> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzEwMzE2NzE4OTE2Ng==
+
+INFO	[2014-08-11 03:10:31:673] <67788> END chkfake  Laptime:[0.005sec]
+INFO	[2014-08-11 03:10:31:673] <67788> ===============================================================
+INFO	[2014-08-11 03:11:06:14] <67794> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:11:06:15] <67794> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:11:06:15] <67794> debug:true
+DEBUG	[2014-08-11 03:11:06:15] <67794> admin:1111
+DEBUG	[2014-08-11 03:11:06:15] <67794> mid:INIpayTest
+DEBUG	[2014-08-11 03:11:06:15] <67794> type:securepay
+DEBUG	[2014-08-11 03:11:06:15] <67794> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:11:06:15] <67794> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:11:06:15] <67794> buyername:awefwf
+DEBUG	[2014-08-11 03:11:06:15] <67794> buyertel:12312312
+DEBUG	[2014-08-11 03:11:06:15] <67794> buyeremail:ewfew
+DEBUG	[2014-08-11 03:11:06:15] <67794> goodname:awefawf
+DEBUG	[2014-08-11 03:11:06:15] <67794> price:30000
+DEBUG	[2014-08-11 03:11:06:15] <67794> currency:WON
+DEBUG	[2014-08-11 03:11:06:15] <67794> paymethod:VCard
+DEBUG	[2014-08-11 03:11:06:15] <67794> encrypted:
+DEBUG	[2014-08-11 03:11:06:15] <67794> sessionkey:
+DEBUG	[2014-08-11 03:11:06:15] <67794> enctype:
+DEBUG	[2014-08-11 03:11:06:15] <67794> rn:
+DEBUG	[2014-08-11 03:11:06:15] <67794> uid:
+DEBUG	[2014-08-11 03:11:06:15] <67794> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:11:06:31] <67794> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:11:06:31] <67794> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.019sec]
+INFO	[2014-08-11 03:11:06:31] <67794> ===============================================================
+INFO	[2014-08-11 03:11:06:156] <67795> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:11:06:156] <67795> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:11:06:156] <67795> debug:true
+DEBUG	[2014-08-11 03:11:06:156] <67795> admin:1111
+DEBUG	[2014-08-11 03:11:06:156] <67795> mid:INIpayTest
+DEBUG	[2014-08-11 03:11:06:156] <67795> type:chkfake
+DEBUG	[2014-08-11 03:11:06:156] <67795> enctype:asym
+DEBUG	[2014-08-11 03:11:06:156] <67795> checkopt:false
+DEBUG	[2014-08-11 03:11:06:156] <67795> nointerest:no
+DEBUG	[2014-08-11 03:11:06:156] <67795> price:30000
+DEBUG	[2014-08-11 03:11:06:156] <67795> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:11:06:156] <67795> Check Field OK
+INFO	[2014-08-11 03:11:06:164] <67795> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:11:06:165] <67795> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:11:06:167] <67795> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzExMDYxNjU0OTQ3OA==
+
+INFO	[2014-08-11 03:11:06:167] <67795> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:11:06:167] <67795> ===============================================================
+INFO	[2014-08-11 03:12:45:527] <67814> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:12:45:527] <67814> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:12:45:527] <67814> debug:true
+DEBUG	[2014-08-11 03:12:45:527] <67814> admin:1111
+DEBUG	[2014-08-11 03:12:45:527] <67814> mid:INIpayTest
+DEBUG	[2014-08-11 03:12:45:527] <67814> type:securepay
+DEBUG	[2014-08-11 03:12:45:527] <67814> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:12:45:527] <67814> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:12:45:527] <67814> buyername:awefwf
+DEBUG	[2014-08-11 03:12:45:527] <67814> buyertel:12312312
+DEBUG	[2014-08-11 03:12:45:527] <67814> buyeremail:ewfew
+DEBUG	[2014-08-11 03:12:45:527] <67814> goodname:awefawf
+DEBUG	[2014-08-11 03:12:45:527] <67814> price:30000
+DEBUG	[2014-08-11 03:12:45:527] <67814> currency:WON
+DEBUG	[2014-08-11 03:12:45:527] <67814> paymethod:VCard
+DEBUG	[2014-08-11 03:12:45:527] <67814> encrypted:
+DEBUG	[2014-08-11 03:12:45:527] <67814> sessionkey:
+DEBUG	[2014-08-11 03:12:45:527] <67814> enctype:
+DEBUG	[2014-08-11 03:12:45:527] <67814> rn:
+DEBUG	[2014-08-11 03:12:45:527] <67814> uid:
+DEBUG	[2014-08-11 03:12:45:527] <67814> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:12:45:615] <67814> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:12:45:616] <67814> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.09sec]
+INFO	[2014-08-11 03:12:45:616] <67814> ===============================================================
+INFO	[2014-08-11 03:12:45:714] <67816> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:12:45:714] <67816> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:12:45:714] <67816> debug:true
+DEBUG	[2014-08-11 03:12:45:714] <67816> admin:1111
+DEBUG	[2014-08-11 03:12:45:714] <67816> mid:INIpayTest
+DEBUG	[2014-08-11 03:12:45:714] <67816> type:chkfake
+DEBUG	[2014-08-11 03:12:45:714] <67816> enctype:asym
+DEBUG	[2014-08-11 03:12:45:714] <67816> checkopt:false
+DEBUG	[2014-08-11 03:12:45:714] <67816> nointerest:no
+DEBUG	[2014-08-11 03:12:45:714] <67816> price:30000
+DEBUG	[2014-08-11 03:12:45:714] <67816> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:12:45:714] <67816> Check Field OK
+INFO	[2014-08-11 03:12:45:722] <67816> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:12:45:723] <67816> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:12:45:725] <67816> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzEyNDU3MjM5NjgyMw==
+
+INFO	[2014-08-11 03:12:45:725] <67816> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:12:45:725] <67816> ===============================================================
+INFO	[2014-08-11 03:13:47:385] <67825> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:13:47:385] <67825> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:13:47:385] <67825> debug:true
+DEBUG	[2014-08-11 03:13:47:385] <67825> admin:1111
+DEBUG	[2014-08-11 03:13:47:385] <67825> mid:INIpayTest
+DEBUG	[2014-08-11 03:13:47:385] <67825> type:securepay
+DEBUG	[2014-08-11 03:13:47:385] <67825> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:13:47:385] <67825> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:13:47:385] <67825> buyername:awefwf
+DEBUG	[2014-08-11 03:13:47:385] <67825> buyertel:12312312
+DEBUG	[2014-08-11 03:13:47:385] <67825> buyeremail:ewfew
+DEBUG	[2014-08-11 03:13:47:385] <67825> goodname:awefawf
+DEBUG	[2014-08-11 03:13:47:385] <67825> price:30000
+DEBUG	[2014-08-11 03:13:47:385] <67825> currency:WON
+DEBUG	[2014-08-11 03:13:47:385] <67825> paymethod:VCard
+DEBUG	[2014-08-11 03:13:47:385] <67825> encrypted:
+DEBUG	[2014-08-11 03:13:47:385] <67825> sessionkey:
+DEBUG	[2014-08-11 03:13:47:385] <67825> enctype:
+DEBUG	[2014-08-11 03:13:47:385] <67825> rn:
+DEBUG	[2014-08-11 03:13:47:385] <67825> uid:
+DEBUG	[2014-08-11 03:13:47:385] <67825> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:13:47:399] <67825> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:13:47:399] <67825> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 03:13:47:400] <67825> ===============================================================
+INFO	[2014-08-11 03:13:47:523] <67826> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:13:47:523] <67826> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:13:47:523] <67826> debug:true
+DEBUG	[2014-08-11 03:13:47:523] <67826> admin:1111
+DEBUG	[2014-08-11 03:13:47:523] <67826> mid:INIpayTest
+DEBUG	[2014-08-11 03:13:47:523] <67826> type:chkfake
+DEBUG	[2014-08-11 03:13:47:523] <67826> enctype:asym
+DEBUG	[2014-08-11 03:13:47:523] <67826> checkopt:false
+DEBUG	[2014-08-11 03:13:47:523] <67826> nointerest:no
+DEBUG	[2014-08-11 03:13:47:523] <67826> price:30000
+DEBUG	[2014-08-11 03:13:47:523] <67826> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:13:47:523] <67826> Check Field OK
+INFO	[2014-08-11 03:13:47:523] <67826> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:13:47:524] <67826> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:13:47:525] <67826> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzEzNDc1MjQ5ODkxNQ==
+
+INFO	[2014-08-11 03:13:47:525] <67826> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 03:13:47:525] <67826> ===============================================================
+INFO	[2014-08-11 03:14:54:232] <67835> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:14:54:240] <67835> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:14:54:240] <67835> debug:true
+DEBUG	[2014-08-11 03:14:54:240] <67835> admin:1111
+DEBUG	[2014-08-11 03:14:54:240] <67835> mid:INIpayTest
+DEBUG	[2014-08-11 03:14:54:240] <67835> type:securepay
+DEBUG	[2014-08-11 03:14:54:240] <67835> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:14:54:240] <67835> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:14:54:240] <67835> buyername:awefwf
+DEBUG	[2014-08-11 03:14:54:240] <67835> buyertel:12312312
+DEBUG	[2014-08-11 03:14:54:240] <67835> buyeremail:ewfew
+DEBUG	[2014-08-11 03:14:54:240] <67835> goodname:awefawf
+DEBUG	[2014-08-11 03:14:54:240] <67835> price:30000
+DEBUG	[2014-08-11 03:14:54:240] <67835> currency:WON
+DEBUG	[2014-08-11 03:14:54:240] <67835> paymethod:VCard
+DEBUG	[2014-08-11 03:14:54:240] <67835> encrypted:
+DEBUG	[2014-08-11 03:14:54:240] <67835> sessionkey:
+DEBUG	[2014-08-11 03:14:54:240] <67835> enctype:
+DEBUG	[2014-08-11 03:14:54:240] <67835> rn:
+DEBUG	[2014-08-11 03:14:54:240] <67835> uid:
+DEBUG	[2014-08-11 03:14:54:240] <67835> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:14:54:255] <67835> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:14:54:255] <67835> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.023sec]
+INFO	[2014-08-11 03:14:54:255] <67835> ===============================================================
+INFO	[2014-08-11 03:14:54:370] <67836> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:14:54:370] <67836> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:14:54:370] <67836> debug:true
+DEBUG	[2014-08-11 03:14:54:370] <67836> admin:1111
+DEBUG	[2014-08-11 03:14:54:370] <67836> mid:INIpayTest
+DEBUG	[2014-08-11 03:14:54:370] <67836> type:chkfake
+DEBUG	[2014-08-11 03:14:54:370] <67836> enctype:asym
+DEBUG	[2014-08-11 03:14:54:370] <67836> checkopt:false
+DEBUG	[2014-08-11 03:14:54:370] <67836> nointerest:no
+DEBUG	[2014-08-11 03:14:54:370] <67836> price:30000
+DEBUG	[2014-08-11 03:14:54:370] <67836> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:14:54:371] <67836> Check Field OK
+INFO	[2014-08-11 03:14:54:371] <67836> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:14:54:371] <67836> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:14:54:372] <67836> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzE0NTQzNzE1Mjg2MQ==
+
+INFO	[2014-08-11 03:14:54:372] <67836> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:14:54:372] <67836> ===============================================================
+INFO	[2014-08-11 03:15:15:363] <67841> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:15:364] <67841> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:15:364] <67841> debug:true
+DEBUG	[2014-08-11 03:15:15:364] <67841> admin:1111
+DEBUG	[2014-08-11 03:15:15:364] <67841> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:15:364] <67841> type:securepay
+DEBUG	[2014-08-11 03:15:15:364] <67841> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:15:15:364] <67841> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:15:15:364] <67841> buyername:awefwf
+DEBUG	[2014-08-11 03:15:15:364] <67841> buyertel:12312312
+DEBUG	[2014-08-11 03:15:15:364] <67841> buyeremail:ewfew
+DEBUG	[2014-08-11 03:15:15:364] <67841> goodname:awefawf
+DEBUG	[2014-08-11 03:15:15:364] <67841> price:30000
+DEBUG	[2014-08-11 03:15:15:364] <67841> currency:WON
+DEBUG	[2014-08-11 03:15:15:364] <67841> paymethod:VCard
+DEBUG	[2014-08-11 03:15:15:364] <67841> encrypted:
+DEBUG	[2014-08-11 03:15:15:364] <67841> sessionkey:
+DEBUG	[2014-08-11 03:15:15:364] <67841> enctype:
+DEBUG	[2014-08-11 03:15:15:364] <67841> rn:
+DEBUG	[2014-08-11 03:15:15:364] <67841> uid:
+DEBUG	[2014-08-11 03:15:15:364] <67841> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:15:15:379] <67841> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:15:15:379] <67841> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:15:15:379] <67841> ===============================================================
+INFO	[2014-08-11 03:15:15:491] <67842> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:15:491] <67842> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:15:491] <67842> debug:true
+DEBUG	[2014-08-11 03:15:15:491] <67842> admin:1111
+DEBUG	[2014-08-11 03:15:15:491] <67842> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:15:491] <67842> type:chkfake
+DEBUG	[2014-08-11 03:15:15:491] <67842> enctype:asym
+DEBUG	[2014-08-11 03:15:15:491] <67842> checkopt:false
+DEBUG	[2014-08-11 03:15:15:491] <67842> nointerest:no
+DEBUG	[2014-08-11 03:15:15:491] <67842> price:30000
+DEBUG	[2014-08-11 03:15:15:491] <67842> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:15:15:491] <67842> Check Field OK
+INFO	[2014-08-11 03:15:15:491] <67842> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:15:15:492] <67842> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:15:15:493] <67842> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzE1MTU0OTI4MzY2MQ==
+
+INFO	[2014-08-11 03:15:15:493] <67842> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:15:15:493] <67842> ===============================================================
+INFO	[2014-08-11 03:15:25:367] <67847> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:25:367] <67847> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:25:367] <67847> debug:true
+DEBUG	[2014-08-11 03:15:25:367] <67847> admin:1111
+DEBUG	[2014-08-11 03:15:25:367] <67847> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:25:367] <67847> type:securepay
+DEBUG	[2014-08-11 03:15:25:367] <67847> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:15:25:367] <67847> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:15:25:367] <67847> buyername:awefwf
+DEBUG	[2014-08-11 03:15:25:367] <67847> buyertel:12312312
+DEBUG	[2014-08-11 03:15:25:367] <67847> buyeremail:ewfew
+DEBUG	[2014-08-11 03:15:25:367] <67847> goodname:awefawf
+DEBUG	[2014-08-11 03:15:25:367] <67847> price:30000
+DEBUG	[2014-08-11 03:15:25:367] <67847> currency:WON
+DEBUG	[2014-08-11 03:15:25:367] <67847> paymethod:VCard
+DEBUG	[2014-08-11 03:15:25:367] <67847> encrypted:
+DEBUG	[2014-08-11 03:15:25:367] <67847> sessionkey:
+DEBUG	[2014-08-11 03:15:25:367] <67847> enctype:
+DEBUG	[2014-08-11 03:15:25:367] <67847> rn:
+DEBUG	[2014-08-11 03:15:25:367] <67847> uid:
+DEBUG	[2014-08-11 03:15:25:367] <67847> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:15:25:382] <67847> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:15:25:382] <67847> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.015sec]
+INFO	[2014-08-11 03:15:25:382] <67847> ===============================================================
+INFO	[2014-08-11 03:15:25:487] <67848> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:25:487] <67848> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:25:487] <67848> debug:true
+DEBUG	[2014-08-11 03:15:25:487] <67848> admin:1111
+DEBUG	[2014-08-11 03:15:25:487] <67848> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:25:487] <67848> type:chkfake
+DEBUG	[2014-08-11 03:15:25:487] <67848> enctype:asym
+DEBUG	[2014-08-11 03:15:25:487] <67848> checkopt:false
+DEBUG	[2014-08-11 03:15:25:487] <67848> nointerest:no
+DEBUG	[2014-08-11 03:15:25:487] <67848> price:30000
+DEBUG	[2014-08-11 03:15:25:487] <67848> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:15:25:487] <67848> Check Field OK
+INFO	[2014-08-11 03:15:25:487] <67848> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:15:25:487] <67848> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:15:25:489] <67848> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzE1MjU0ODczMTM1Nw==
+
+INFO	[2014-08-11 03:15:25:489] <67848> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:15:25:489] <67848> ===============================================================
+INFO	[2014-08-11 03:15:57:811] <67853> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:57:811] <67853> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:57:811] <67853> debug:true
+DEBUG	[2014-08-11 03:15:57:811] <67853> admin:1111
+DEBUG	[2014-08-11 03:15:57:811] <67853> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:57:811] <67853> type:securepay
+DEBUG	[2014-08-11 03:15:57:811] <67853> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:15:57:811] <67853> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:15:57:811] <67853> buyername:awefwf
+DEBUG	[2014-08-11 03:15:57:811] <67853> buyertel:12312312
+DEBUG	[2014-08-11 03:15:57:811] <67853> buyeremail:ewfew
+DEBUG	[2014-08-11 03:15:57:811] <67853> goodname:awefawf
+DEBUG	[2014-08-11 03:15:57:811] <67853> price:30000
+DEBUG	[2014-08-11 03:15:57:811] <67853> currency:WON
+DEBUG	[2014-08-11 03:15:57:811] <67853> paymethod:VCard
+DEBUG	[2014-08-11 03:15:57:811] <67853> encrypted:
+DEBUG	[2014-08-11 03:15:57:811] <67853> sessionkey:
+DEBUG	[2014-08-11 03:15:57:811] <67853> enctype:
+DEBUG	[2014-08-11 03:15:57:811] <67853> rn:
+DEBUG	[2014-08-11 03:15:57:811] <67853> uid:
+DEBUG	[2014-08-11 03:15:57:811] <67853> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:15:57:827] <67853> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:15:57:827] <67853> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.017sec]
+INFO	[2014-08-11 03:15:57:827] <67853> ===============================================================
+INFO	[2014-08-11 03:15:57:950] <67854> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:15:57:950] <67854> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:15:57:950] <67854> debug:true
+DEBUG	[2014-08-11 03:15:57:950] <67854> admin:1111
+DEBUG	[2014-08-11 03:15:57:950] <67854> mid:INIpayTest
+DEBUG	[2014-08-11 03:15:57:950] <67854> type:chkfake
+DEBUG	[2014-08-11 03:15:57:950] <67854> enctype:asym
+DEBUG	[2014-08-11 03:15:57:950] <67854> checkopt:false
+DEBUG	[2014-08-11 03:15:57:950] <67854> nointerest:no
+DEBUG	[2014-08-11 03:15:57:950] <67854> price:30000
+DEBUG	[2014-08-11 03:15:57:950] <67854> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:15:57:950] <67854> Check Field OK
+INFO	[2014-08-11 03:15:57:950] <67854> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:15:57:951] <67854> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:15:57:953] <67854> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzE1NTc5NTEzODQ1Ng==
+
+INFO	[2014-08-11 03:15:57:953] <67854> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 03:15:57:953] <67854> ===============================================================
+INFO	[2014-08-11 03:19:50:140] <67885> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:19:50:140] <67885> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:19:50:140] <67885> debug:true
+DEBUG	[2014-08-11 03:19:50:140] <67885> admin:1111
+DEBUG	[2014-08-11 03:19:50:140] <67885> mid:INIpayTest
+DEBUG	[2014-08-11 03:19:50:140] <67885> type:securepay
+DEBUG	[2014-08-11 03:19:50:140] <67885> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:19:50:140] <67885> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:19:50:140] <67885> buyername:awefwf
+DEBUG	[2014-08-11 03:19:50:140] <67885> buyertel:12312312
+DEBUG	[2014-08-11 03:19:50:140] <67885> buyeremail:ewfew
+DEBUG	[2014-08-11 03:19:50:140] <67885> goodname:awefawf
+DEBUG	[2014-08-11 03:19:50:140] <67885> price:30000
+DEBUG	[2014-08-11 03:19:50:140] <67885> currency:WON
+DEBUG	[2014-08-11 03:19:50:140] <67885> paymethod:VCard
+DEBUG	[2014-08-11 03:19:50:140] <67885> encrypted:
+DEBUG	[2014-08-11 03:19:50:140] <67885> sessionkey:
+DEBUG	[2014-08-11 03:19:50:140] <67885> enctype:
+DEBUG	[2014-08-11 03:19:50:140] <67885> rn:
+DEBUG	[2014-08-11 03:19:50:140] <67885> uid:
+DEBUG	[2014-08-11 03:19:50:140] <67885> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:19:50:156] <67885> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:19:50:156] <67885> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.017sec]
+INFO	[2014-08-11 03:19:50:156] <67885> ===============================================================
+INFO	[2014-08-11 03:19:50:264] <67886> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:19:50:264] <67886> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:19:50:264] <67886> debug:true
+DEBUG	[2014-08-11 03:19:50:264] <67886> admin:1111
+DEBUG	[2014-08-11 03:19:50:264] <67886> mid:INIpayTest
+DEBUG	[2014-08-11 03:19:50:264] <67886> type:chkfake
+DEBUG	[2014-08-11 03:19:50:264] <67886> enctype:asym
+DEBUG	[2014-08-11 03:19:50:264] <67886> checkopt:false
+DEBUG	[2014-08-11 03:19:50:264] <67886> nointerest:no
+DEBUG	[2014-08-11 03:19:50:264] <67886> price:30000
+DEBUG	[2014-08-11 03:19:50:264] <67886> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:19:50:264] <67886> Check Field OK
+INFO	[2014-08-11 03:19:50:272] <67886> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:19:50:272] <67886> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:19:50:275] <67886> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzE5NTAyNzM0Mjg0MQ==
+
+INFO	[2014-08-11 03:19:50:275] <67886> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:19:50:275] <67886> ===============================================================
+INFO	[2014-08-11 03:20:26:170] <67892> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:20:26:170] <67892> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:20:26:170] <67892> debug:true
+DEBUG	[2014-08-11 03:20:26:170] <67892> admin:1111
+DEBUG	[2014-08-11 03:20:26:170] <67892> mid:INIpayTest
+DEBUG	[2014-08-11 03:20:26:170] <67892> type:securepay
+DEBUG	[2014-08-11 03:20:26:170] <67892> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:20:26:170] <67892> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:20:26:170] <67892> buyername:awefwaef
+DEBUG	[2014-08-11 03:20:26:170] <67892> buyertel:123123
+DEBUG	[2014-08-11 03:20:26:170] <67892> buyeremail:awef123
+DEBUG	[2014-08-11 03:20:26:170] <67892> goodname:wf
+DEBUG	[2014-08-11 03:20:26:170] <67892> price:30000
+DEBUG	[2014-08-11 03:20:26:170] <67892> currency:WON
+DEBUG	[2014-08-11 03:20:26:170] <67892> paymethod:VCard
+DEBUG	[2014-08-11 03:20:26:170] <67892> encrypted:
+DEBUG	[2014-08-11 03:20:26:170] <67892> sessionkey:
+DEBUG	[2014-08-11 03:20:26:170] <67892> enctype:
+DEBUG	[2014-08-11 03:20:26:170] <67892> rn:
+DEBUG	[2014-08-11 03:20:26:170] <67892> uid:
+DEBUG	[2014-08-11 03:20:26:170] <67892> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:20:26:185] <67892> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:20:26:185] <67892> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:20:26:185] <67892> ===============================================================
+INFO	[2014-08-11 03:20:26:293] <67893> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:20:26:293] <67893> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:20:26:293] <67893> debug:true
+DEBUG	[2014-08-11 03:20:26:293] <67893> admin:1111
+DEBUG	[2014-08-11 03:20:26:293] <67893> mid:INIpayTest
+DEBUG	[2014-08-11 03:20:26:293] <67893> type:chkfake
+DEBUG	[2014-08-11 03:20:26:293] <67893> enctype:asym
+DEBUG	[2014-08-11 03:20:26:293] <67893> checkopt:false
+DEBUG	[2014-08-11 03:20:26:293] <67893> nointerest:no
+DEBUG	[2014-08-11 03:20:26:293] <67893> price:30000
+DEBUG	[2014-08-11 03:20:26:293] <67893> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:20:26:293] <67893> Check Field OK
+INFO	[2014-08-11 03:20:26:301] <67893> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:20:26:301] <67893> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:20:26:303] <67893> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzIwMjYzMDE2MTQ2Nw==
+
+INFO	[2014-08-11 03:20:26:303] <67893> END chkfake  Laptime:[0.01sec]
+INFO	[2014-08-11 03:20:26:303] <67893> ===============================================================
+INFO	[2014-08-11 03:22:26:559] <67905> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:22:26:559] <67905> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:22:26:559] <67905> debug:true
+DEBUG	[2014-08-11 03:22:26:559] <67905> admin:1111
+DEBUG	[2014-08-11 03:22:26:559] <67905> mid:INIpayTest
+DEBUG	[2014-08-11 03:22:26:559] <67905> type:securepay
+DEBUG	[2014-08-11 03:22:26:559] <67905> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:22:26:559] <67905> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:22:26:559] <67905> buyername:awefwf
+DEBUG	[2014-08-11 03:22:26:559] <67905> buyertel:12312312
+DEBUG	[2014-08-11 03:22:26:559] <67905> buyeremail:ewfew
+DEBUG	[2014-08-11 03:22:26:559] <67905> goodname:awefawf
+DEBUG	[2014-08-11 03:22:26:559] <67905> price:30000
+DEBUG	[2014-08-11 03:22:26:559] <67905> currency:WON
+DEBUG	[2014-08-11 03:22:26:559] <67905> paymethod:VCard
+DEBUG	[2014-08-11 03:22:26:559] <67905> encrypted:
+DEBUG	[2014-08-11 03:22:26:559] <67905> sessionkey:
+DEBUG	[2014-08-11 03:22:26:559] <67905> enctype:
+DEBUG	[2014-08-11 03:22:26:559] <67905> rn:
+DEBUG	[2014-08-11 03:22:26:559] <67905> uid:
+DEBUG	[2014-08-11 03:22:26:559] <67905> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:22:26:986] <67905> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:22:26:986] <67905> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.428sec]
+INFO	[2014-08-11 03:22:26:986] <67905> ===============================================================
+INFO	[2014-08-11 03:22:27:106] <67906> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:22:27:106] <67906> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:22:27:106] <67906> debug:true
+DEBUG	[2014-08-11 03:22:27:106] <67906> admin:1111
+DEBUG	[2014-08-11 03:22:27:106] <67906> mid:INIpayTest
+DEBUG	[2014-08-11 03:22:27:106] <67906> type:chkfake
+DEBUG	[2014-08-11 03:22:27:106] <67906> enctype:asym
+DEBUG	[2014-08-11 03:22:27:106] <67906> checkopt:false
+DEBUG	[2014-08-11 03:22:27:106] <67906> nointerest:no
+DEBUG	[2014-08-11 03:22:27:106] <67906> price:30000
+DEBUG	[2014-08-11 03:22:27:106] <67906> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:22:27:106] <67906> Check Field OK
+INFO	[2014-08-11 03:22:27:107] <67906> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:22:27:108] <67906> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:22:27:109] <67906> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzIyMjcxMDg5ODEyOA==
+
+INFO	[2014-08-11 03:22:27:109] <67906> END chkfake  Laptime:[0.004sec]
+INFO	[2014-08-11 03:22:27:109] <67906> ===============================================================
+INFO	[2014-08-11 03:28:21:714] <67960> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:28:21:715] <67960> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:28:21:715] <67960> debug:true
+DEBUG	[2014-08-11 03:28:21:715] <67960> admin:1111
+DEBUG	[2014-08-11 03:28:21:715] <67960> mid:INIpayTest
+DEBUG	[2014-08-11 03:28:21:715] <67960> type:securepay
+DEBUG	[2014-08-11 03:28:21:715] <67960> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:28:21:715] <67960> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:28:21:715] <67960> buyername:awefwf
+DEBUG	[2014-08-11 03:28:21:715] <67960> buyertel:12312312
+DEBUG	[2014-08-11 03:28:21:715] <67960> buyeremail:ewfew
+DEBUG	[2014-08-11 03:28:21:715] <67960> goodname:awefawf
+DEBUG	[2014-08-11 03:28:21:715] <67960> price:30000
+DEBUG	[2014-08-11 03:28:21:715] <67960> currency:WON
+DEBUG	[2014-08-11 03:28:21:715] <67960> paymethod:VCard
+DEBUG	[2014-08-11 03:28:21:715] <67960> encrypted:
+DEBUG	[2014-08-11 03:28:21:715] <67960> sessionkey:
+DEBUG	[2014-08-11 03:28:21:715] <67960> enctype:
+DEBUG	[2014-08-11 03:28:21:715] <67960> rn:
+DEBUG	[2014-08-11 03:28:21:715] <67960> uid:
+DEBUG	[2014-08-11 03:28:21:715] <67960> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:28:22:14] <67960> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:28:22:14] <67960> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.302sec]
+INFO	[2014-08-11 03:28:22:14] <67960> ===============================================================
+INFO	[2014-08-11 03:28:22:128] <67963> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:28:22:128] <67963> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:28:22:128] <67963> debug:true
+DEBUG	[2014-08-11 03:28:22:128] <67963> admin:1111
+DEBUG	[2014-08-11 03:28:22:128] <67963> mid:INIpayTest
+DEBUG	[2014-08-11 03:28:22:128] <67963> type:chkfake
+DEBUG	[2014-08-11 03:28:22:128] <67963> enctype:asym
+DEBUG	[2014-08-11 03:28:22:128] <67963> checkopt:false
+DEBUG	[2014-08-11 03:28:22:128] <67963> nointerest:no
+DEBUG	[2014-08-11 03:28:22:128] <67963> price:30000
+DEBUG	[2014-08-11 03:28:22:128] <67963> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:28:22:128] <67963> Check Field OK
+INFO	[2014-08-11 03:28:22:136] <67963> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:28:22:137] <67963> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:28:22:139] <67963> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzI4MjIxMzcxNDczNA==
+
+INFO	[2014-08-11 03:28:22:139] <67963> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:28:22:139] <67963> ===============================================================
+INFO	[2014-08-11 03:29:48:876] <67975> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:29:48:883] <67975> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:29:48:883] <67975> debug:true
+DEBUG	[2014-08-11 03:29:48:883] <67975> admin:1111
+DEBUG	[2014-08-11 03:29:48:883] <67975> mid:INIpayTest
+DEBUG	[2014-08-11 03:29:48:883] <67975> type:securepay
+DEBUG	[2014-08-11 03:29:48:883] <67975> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:29:48:883] <67975> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:29:48:883] <67975> buyername:awefwf
+DEBUG	[2014-08-11 03:29:48:883] <67975> buyertel:12312312
+DEBUG	[2014-08-11 03:29:48:883] <67975> buyeremail:ewfew
+DEBUG	[2014-08-11 03:29:48:883] <67975> goodname:awefawf
+DEBUG	[2014-08-11 03:29:48:883] <67975> price:30000
+DEBUG	[2014-08-11 03:29:48:883] <67975> currency:WON
+DEBUG	[2014-08-11 03:29:48:883] <67975> paymethod:VCard
+DEBUG	[2014-08-11 03:29:48:883] <67975> encrypted:
+DEBUG	[2014-08-11 03:29:48:883] <67975> sessionkey:
+DEBUG	[2014-08-11 03:29:48:883] <67975> enctype:
+DEBUG	[2014-08-11 03:29:48:883] <67975> rn:
+DEBUG	[2014-08-11 03:29:48:883] <67975> uid:
+DEBUG	[2014-08-11 03:29:48:883] <67975> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:29:48:898] <67975> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:29:48:898] <67975> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.022sec]
+INFO	[2014-08-11 03:29:48:898] <67975> ===============================================================
+INFO	[2014-08-11 03:29:49:16] <67976> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:29:49:16] <67976> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:29:49:16] <67976> debug:true
+DEBUG	[2014-08-11 03:29:49:16] <67976> admin:1111
+DEBUG	[2014-08-11 03:29:49:16] <67976> mid:INIpayTest
+DEBUG	[2014-08-11 03:29:49:16] <67976> type:chkfake
+DEBUG	[2014-08-11 03:29:49:16] <67976> enctype:asym
+DEBUG	[2014-08-11 03:29:49:16] <67976> checkopt:false
+DEBUG	[2014-08-11 03:29:49:16] <67976> nointerest:no
+DEBUG	[2014-08-11 03:29:49:16] <67976> price:30000
+DEBUG	[2014-08-11 03:29:49:16] <67976> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:29:49:16] <67976> Check Field OK
+INFO	[2014-08-11 03:29:49:17] <67976> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:29:49:17] <67976> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:29:49:20] <67976> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzI5NDkwMTcyMjM2MQ==
+
+INFO	[2014-08-11 03:29:49:20] <67976> END chkfake  Laptime:[0.004sec]
+INFO	[2014-08-11 03:29:49:20] <67976> ===============================================================
+INFO	[2014-08-11 03:30:07:217] <67981> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:07:218] <67981> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:07:218] <67981> debug:true
+DEBUG	[2014-08-11 03:30:07:218] <67981> admin:1111
+DEBUG	[2014-08-11 03:30:07:218] <67981> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:07:218] <67981> type:securepay
+DEBUG	[2014-08-11 03:30:07:218] <67981> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:30:07:218] <67981> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:30:07:218] <67981> buyername:awefwf
+DEBUG	[2014-08-11 03:30:07:218] <67981> buyertel:12312312
+DEBUG	[2014-08-11 03:30:07:218] <67981> buyeremail:ewfew
+DEBUG	[2014-08-11 03:30:07:218] <67981> goodname:awefawf
+DEBUG	[2014-08-11 03:30:07:218] <67981> price:30000
+DEBUG	[2014-08-11 03:30:07:218] <67981> currency:WON
+DEBUG	[2014-08-11 03:30:07:218] <67981> paymethod:VCard
+DEBUG	[2014-08-11 03:30:07:218] <67981> encrypted:
+DEBUG	[2014-08-11 03:30:07:218] <67981> sessionkey:
+DEBUG	[2014-08-11 03:30:07:218] <67981> enctype:
+DEBUG	[2014-08-11 03:30:07:218] <67981> rn:
+DEBUG	[2014-08-11 03:30:07:218] <67981> uid:
+DEBUG	[2014-08-11 03:30:07:218] <67981> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:30:07:233] <67981> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:30:07:233] <67981> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:30:07:233] <67981> ===============================================================
+INFO	[2014-08-11 03:30:07:345] <67982> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:07:345] <67982> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:07:345] <67982> debug:true
+DEBUG	[2014-08-11 03:30:07:345] <67982> admin:1111
+DEBUG	[2014-08-11 03:30:07:345] <67982> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:07:345] <67982> type:chkfake
+DEBUG	[2014-08-11 03:30:07:345] <67982> enctype:asym
+DEBUG	[2014-08-11 03:30:07:345] <67982> checkopt:false
+DEBUG	[2014-08-11 03:30:07:345] <67982> nointerest:no
+DEBUG	[2014-08-11 03:30:07:345] <67982> price:30000
+DEBUG	[2014-08-11 03:30:07:345] <67982> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:30:07:345] <67982> Check Field OK
+INFO	[2014-08-11 03:30:07:354] <67982> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:30:07:354] <67982> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:30:07:356] <67982> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMwMDczNTQ4MzY4Nw==
+
+INFO	[2014-08-11 03:30:07:356] <67982> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:30:07:356] <67982> ===============================================================
+INFO	[2014-08-11 03:30:32:702] <67985> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:32:702] <67985> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:32:702] <67985> debug:true
+DEBUG	[2014-08-11 03:30:32:702] <67985> admin:1111
+DEBUG	[2014-08-11 03:30:32:702] <67985> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:32:702] <67985> type:securepay
+DEBUG	[2014-08-11 03:30:32:702] <67985> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:30:32:702] <67985> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:30:32:702] <67985> buyername:awefwaef
+DEBUG	[2014-08-11 03:30:32:702] <67985> buyertel:123123
+DEBUG	[2014-08-11 03:30:32:702] <67985> buyeremail:awef123
+DEBUG	[2014-08-11 03:30:32:702] <67985> goodname:wf
+DEBUG	[2014-08-11 03:30:32:702] <67985> price:30000
+DEBUG	[2014-08-11 03:30:32:702] <67985> currency:WON
+DEBUG	[2014-08-11 03:30:32:702] <67985> paymethod:VCard
+DEBUG	[2014-08-11 03:30:32:702] <67985> encrypted:
+DEBUG	[2014-08-11 03:30:32:702] <67985> sessionkey:
+DEBUG	[2014-08-11 03:30:32:702] <67985> enctype:
+DEBUG	[2014-08-11 03:30:32:702] <67985> rn:
+DEBUG	[2014-08-11 03:30:32:702] <67985> uid:
+DEBUG	[2014-08-11 03:30:32:702] <67985> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:30:32:721] <67985> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:30:32:721] <67985> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.021sec]
+INFO	[2014-08-11 03:30:32:721] <67985> ===============================================================
+INFO	[2014-08-11 03:30:32:814] <67986> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:32:814] <67986> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:32:814] <67986> debug:true
+DEBUG	[2014-08-11 03:30:32:814] <67986> admin:1111
+DEBUG	[2014-08-11 03:30:32:814] <67986> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:32:814] <67986> type:chkfake
+DEBUG	[2014-08-11 03:30:32:814] <67986> enctype:asym
+DEBUG	[2014-08-11 03:30:32:814] <67986> checkopt:false
+DEBUG	[2014-08-11 03:30:32:814] <67986> nointerest:no
+DEBUG	[2014-08-11 03:30:32:814] <67986> price:30000
+DEBUG	[2014-08-11 03:30:32:814] <67986> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:30:32:814] <67986> Check Field OK
+INFO	[2014-08-11 03:30:32:815] <67986> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:30:32:815] <67986> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:30:32:818] <67986> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMwMzI4MTYzMzQxOQ==
+
+INFO	[2014-08-11 03:30:32:818] <67986> END chkfake  Laptime:[0.004sec]
+INFO	[2014-08-11 03:30:32:818] <67986> ===============================================================
+INFO	[2014-08-11 03:30:50:469] <67992> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:50:469] <67992> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:50:469] <67992> debug:true
+DEBUG	[2014-08-11 03:30:50:469] <67992> admin:1111
+DEBUG	[2014-08-11 03:30:50:469] <67992> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:50:469] <67992> type:securepay
+DEBUG	[2014-08-11 03:30:50:469] <67992> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:30:50:469] <67992> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:30:50:469] <67992> buyername:awefwaef
+DEBUG	[2014-08-11 03:30:50:469] <67992> buyertel:123123
+DEBUG	[2014-08-11 03:30:50:469] <67992> buyeremail:awef123
+DEBUG	[2014-08-11 03:30:50:469] <67992> goodname:wf
+DEBUG	[2014-08-11 03:30:50:469] <67992> price:30000
+DEBUG	[2014-08-11 03:30:50:469] <67992> currency:WON
+DEBUG	[2014-08-11 03:30:50:469] <67992> paymethod:VCard
+DEBUG	[2014-08-11 03:30:50:469] <67992> encrypted:
+DEBUG	[2014-08-11 03:30:50:469] <67992> sessionkey:
+DEBUG	[2014-08-11 03:30:50:469] <67992> enctype:
+DEBUG	[2014-08-11 03:30:50:469] <67992> rn:
+DEBUG	[2014-08-11 03:30:50:469] <67992> uid:
+DEBUG	[2014-08-11 03:30:50:469] <67992> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:30:50:535] <67992> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:30:50:535] <67992> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.066sec]
+INFO	[2014-08-11 03:30:50:535] <67992> ===============================================================
+INFO	[2014-08-11 03:30:50:676] <67993> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:30:50:676] <67993> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:30:50:676] <67993> debug:true
+DEBUG	[2014-08-11 03:30:50:676] <67993> admin:1111
+DEBUG	[2014-08-11 03:30:50:676] <67993> mid:INIpayTest
+DEBUG	[2014-08-11 03:30:50:676] <67993> type:chkfake
+DEBUG	[2014-08-11 03:30:50:676] <67993> enctype:asym
+DEBUG	[2014-08-11 03:30:50:676] <67993> checkopt:false
+DEBUG	[2014-08-11 03:30:50:676] <67993> nointerest:no
+DEBUG	[2014-08-11 03:30:50:676] <67993> price:30000
+DEBUG	[2014-08-11 03:30:50:676] <67993> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:30:50:676] <67993> Check Field OK
+INFO	[2014-08-11 03:30:50:676] <67993> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:30:50:676] <67993> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:30:50:677] <67993> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMwNTA2NzYxMDQyNA==
+
+INFO	[2014-08-11 03:30:50:677] <67993> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:30:50:677] <67993> ===============================================================
+INFO	[2014-08-11 03:32:01:637] <68006> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:01:637] <68006> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:01:637] <68006> debug:true
+DEBUG	[2014-08-11 03:32:01:637] <68006> admin:1111
+DEBUG	[2014-08-11 03:32:01:637] <68006> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:01:637] <68006> type:securepay
+DEBUG	[2014-08-11 03:32:01:637] <68006> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:32:01:637] <68006> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:32:01:637] <68006> buyername:awefwaef
+DEBUG	[2014-08-11 03:32:01:637] <68006> buyertel:123123
+DEBUG	[2014-08-11 03:32:01:637] <68006> buyeremail:awef123
+DEBUG	[2014-08-11 03:32:01:637] <68006> goodname:wf
+DEBUG	[2014-08-11 03:32:01:637] <68006> price:30000
+DEBUG	[2014-08-11 03:32:01:637] <68006> currency:WON
+DEBUG	[2014-08-11 03:32:01:637] <68006> paymethod:VCard
+DEBUG	[2014-08-11 03:32:01:637] <68006> encrypted:
+DEBUG	[2014-08-11 03:32:01:637] <68006> sessionkey:
+DEBUG	[2014-08-11 03:32:01:637] <68006> enctype:
+DEBUG	[2014-08-11 03:32:01:637] <68006> rn:
+DEBUG	[2014-08-11 03:32:01:637] <68006> uid:
+DEBUG	[2014-08-11 03:32:01:637] <68006> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:32:02:185] <68006> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:32:02:185] <68006> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.55sec]
+INFO	[2014-08-11 03:32:02:185] <68006> ===============================================================
+INFO	[2014-08-11 03:32:02:293] <68007> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:02:293] <68007> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:02:293] <68007> debug:true
+DEBUG	[2014-08-11 03:32:02:293] <68007> admin:1111
+DEBUG	[2014-08-11 03:32:02:293] <68007> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:02:293] <68007> type:chkfake
+DEBUG	[2014-08-11 03:32:02:293] <68007> enctype:asym
+DEBUG	[2014-08-11 03:32:02:293] <68007> checkopt:false
+DEBUG	[2014-08-11 03:32:02:293] <68007> nointerest:no
+DEBUG	[2014-08-11 03:32:02:293] <68007> price:30000
+DEBUG	[2014-08-11 03:32:02:293] <68007> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:32:02:293] <68007> Check Field OK
+INFO	[2014-08-11 03:32:02:301] <68007> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:32:02:301] <68007> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:32:02:303] <68007> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMyMDIzMDEzNjI3Ng==
+
+INFO	[2014-08-11 03:32:02:303] <68007> END chkfake  Laptime:[0.011sec]
+INFO	[2014-08-11 03:32:02:303] <68007> ===============================================================
+INFO	[2014-08-11 03:32:49:67] <68013> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:49:67] <68013> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:49:67] <68013> debug:true
+DEBUG	[2014-08-11 03:32:49:67] <68013> admin:1111
+DEBUG	[2014-08-11 03:32:49:67] <68013> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:49:67] <68013> type:securepay
+DEBUG	[2014-08-11 03:32:49:67] <68013> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:32:49:67] <68013> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:32:49:67] <68013> buyername:awefwaef
+DEBUG	[2014-08-11 03:32:49:67] <68013> buyertel:123123
+DEBUG	[2014-08-11 03:32:49:67] <68013> buyeremail:awef123
+DEBUG	[2014-08-11 03:32:49:67] <68013> goodname:wf
+DEBUG	[2014-08-11 03:32:49:67] <68013> price:30000
+DEBUG	[2014-08-11 03:32:49:67] <68013> currency:WON
+DEBUG	[2014-08-11 03:32:49:67] <68013> paymethod:VCard
+DEBUG	[2014-08-11 03:32:49:67] <68013> encrypted:
+DEBUG	[2014-08-11 03:32:49:67] <68013> sessionkey:
+DEBUG	[2014-08-11 03:32:49:67] <68013> enctype:
+DEBUG	[2014-08-11 03:32:49:67] <68013> rn:
+DEBUG	[2014-08-11 03:32:49:67] <68013> uid:
+DEBUG	[2014-08-11 03:32:49:67] <68013> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:32:49:131] <68013> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:32:49:131] <68013> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.065sec]
+INFO	[2014-08-11 03:32:49:131] <68013> ===============================================================
+INFO	[2014-08-11 03:32:49:261] <68014> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:49:261] <68014> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:49:261] <68014> debug:true
+DEBUG	[2014-08-11 03:32:49:261] <68014> admin:1111
+DEBUG	[2014-08-11 03:32:49:261] <68014> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:49:261] <68014> type:chkfake
+DEBUG	[2014-08-11 03:32:49:261] <68014> enctype:asym
+DEBUG	[2014-08-11 03:32:49:261] <68014> checkopt:false
+DEBUG	[2014-08-11 03:32:49:261] <68014> nointerest:no
+DEBUG	[2014-08-11 03:32:49:261] <68014> price:30000
+DEBUG	[2014-08-11 03:32:49:261] <68014> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:32:49:261] <68014> Check Field OK
+INFO	[2014-08-11 03:32:49:261] <68014> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:32:49:261] <68014> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:32:49:262] <68014> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMyNDkyNjE5OTUzNQ==
+
+INFO	[2014-08-11 03:32:49:262] <68014> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:32:49:262] <68014> ===============================================================
+INFO	[2014-08-11 03:32:53:342] <68016> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:53:342] <68016> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:53:342] <68016> debug:true
+DEBUG	[2014-08-11 03:32:53:342] <68016> admin:1111
+DEBUG	[2014-08-11 03:32:53:342] <68016> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:53:342] <68016> type:securepay
+DEBUG	[2014-08-11 03:32:53:342] <68016> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:32:53:342] <68016> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:32:53:342] <68016> buyername:awefwf
+DEBUG	[2014-08-11 03:32:53:342] <68016> buyertel:12312312
+DEBUG	[2014-08-11 03:32:53:342] <68016> buyeremail:ewfew
+DEBUG	[2014-08-11 03:32:53:342] <68016> goodname:awefawf
+DEBUG	[2014-08-11 03:32:53:342] <68016> price:30000
+DEBUG	[2014-08-11 03:32:53:342] <68016> currency:WON
+DEBUG	[2014-08-11 03:32:53:342] <68016> paymethod:VCard
+DEBUG	[2014-08-11 03:32:53:342] <68016> encrypted:
+DEBUG	[2014-08-11 03:32:53:342] <68016> sessionkey:
+DEBUG	[2014-08-11 03:32:53:342] <68016> enctype:
+DEBUG	[2014-08-11 03:32:53:342] <68016> rn:
+DEBUG	[2014-08-11 03:32:53:342] <68016> uid:
+DEBUG	[2014-08-11 03:32:53:342] <68016> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:32:53:358] <68016> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:32:53:358] <68016> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:32:53:358] <68016> ===============================================================
+INFO	[2014-08-11 03:32:53:473] <68017> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:32:53:473] <68017> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:32:53:473] <68017> debug:true
+DEBUG	[2014-08-11 03:32:53:473] <68017> admin:1111
+DEBUG	[2014-08-11 03:32:53:473] <68017> mid:INIpayTest
+DEBUG	[2014-08-11 03:32:53:473] <68017> type:chkfake
+DEBUG	[2014-08-11 03:32:53:473] <68017> enctype:asym
+DEBUG	[2014-08-11 03:32:53:473] <68017> checkopt:false
+DEBUG	[2014-08-11 03:32:53:473] <68017> nointerest:no
+DEBUG	[2014-08-11 03:32:53:473] <68017> price:30000
+DEBUG	[2014-08-11 03:32:53:473] <68017> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:32:53:473] <68017> Check Field OK
+INFO	[2014-08-11 03:32:53:473] <68017> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:32:53:474] <68017> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:32:53:475] <68017> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMyNTM0NzQ3NzQwMA==
+
+INFO	[2014-08-11 03:32:53:475] <68017> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:32:53:475] <68017> ===============================================================
+INFO	[2014-08-11 03:33:35:23] <68021> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:33:35:23] <68021> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:33:35:23] <68021> debug:true
+DEBUG	[2014-08-11 03:33:35:23] <68021> admin:1111
+DEBUG	[2014-08-11 03:33:35:23] <68021> mid:INIpayTest
+DEBUG	[2014-08-11 03:33:35:23] <68021> type:securepay
+DEBUG	[2014-08-11 03:33:35:23] <68021> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:33:35:23] <68021> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:33:35:23] <68021> buyername:awefwf
+DEBUG	[2014-08-11 03:33:35:23] <68021> buyertel:12312312
+DEBUG	[2014-08-11 03:33:35:23] <68021> buyeremail:ewfew
+DEBUG	[2014-08-11 03:33:35:23] <68021> goodname:awefawf
+DEBUG	[2014-08-11 03:33:35:23] <68021> price:30000
+DEBUG	[2014-08-11 03:33:35:23] <68021> currency:WON
+DEBUG	[2014-08-11 03:33:35:23] <68021> paymethod:VCard
+DEBUG	[2014-08-11 03:33:35:23] <68021> encrypted:
+DEBUG	[2014-08-11 03:33:35:23] <68021> sessionkey:
+DEBUG	[2014-08-11 03:33:35:23] <68021> enctype:
+DEBUG	[2014-08-11 03:33:35:23] <68021> rn:
+DEBUG	[2014-08-11 03:33:35:23] <68021> uid:
+DEBUG	[2014-08-11 03:33:35:23] <68021> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:33:35:37] <68021> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:33:35:37] <68021> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 03:33:35:37] <68021> ===============================================================
+INFO	[2014-08-11 03:33:35:158] <68022> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:33:35:158] <68022> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:33:35:158] <68022> debug:true
+DEBUG	[2014-08-11 03:33:35:158] <68022> admin:1111
+DEBUG	[2014-08-11 03:33:35:158] <68022> mid:INIpayTest
+DEBUG	[2014-08-11 03:33:35:158] <68022> type:chkfake
+DEBUG	[2014-08-11 03:33:35:158] <68022> enctype:asym
+DEBUG	[2014-08-11 03:33:35:158] <68022> checkopt:false
+DEBUG	[2014-08-11 03:33:35:158] <68022> nointerest:no
+DEBUG	[2014-08-11 03:33:35:158] <68022> price:30000
+DEBUG	[2014-08-11 03:33:35:158] <68022> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:33:35:159] <68022> Check Field OK
+INFO	[2014-08-11 03:33:35:159] <68022> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:33:35:160] <68022> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:33:35:162] <68022> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzMzMzUxNjA1ODAxMA==
+
+INFO	[2014-08-11 03:33:35:162] <68022> END chkfake  Laptime:[0.004sec]
+INFO	[2014-08-11 03:33:35:162] <68022> ===============================================================
+INFO	[2014-08-11 03:34:09:972] <68030> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:34:09:972] <68030> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:34:09:972] <68030> debug:true
+DEBUG	[2014-08-11 03:34:09:972] <68030> admin:1111
+DEBUG	[2014-08-11 03:34:09:972] <68030> mid:INIpayTest
+DEBUG	[2014-08-11 03:34:09:972] <68030> type:securepay
+DEBUG	[2014-08-11 03:34:09:972] <68030> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:34:09:972] <68030> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:34:09:972] <68030> buyername:awefwf
+DEBUG	[2014-08-11 03:34:09:972] <68030> buyertel:12312312
+DEBUG	[2014-08-11 03:34:09:972] <68030> buyeremail:ewfew
+DEBUG	[2014-08-11 03:34:09:972] <68030> goodname:awefawf
+DEBUG	[2014-08-11 03:34:09:972] <68030> price:30000
+DEBUG	[2014-08-11 03:34:09:972] <68030> currency:WON
+DEBUG	[2014-08-11 03:34:09:972] <68030> paymethod:VCard
+DEBUG	[2014-08-11 03:34:09:972] <68030> encrypted:
+DEBUG	[2014-08-11 03:34:09:972] <68030> sessionkey:
+DEBUG	[2014-08-11 03:34:09:972] <68030> enctype:
+DEBUG	[2014-08-11 03:34:09:972] <68030> rn:
+DEBUG	[2014-08-11 03:34:09:972] <68030> uid:
+DEBUG	[2014-08-11 03:34:09:972] <68030> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:34:09:986] <68030> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:34:09:986] <68030> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 03:34:09:986] <68030> ===============================================================
+INFO	[2014-08-11 03:34:10:95] <68031> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:34:10:95] <68031> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:34:10:95] <68031> debug:true
+DEBUG	[2014-08-11 03:34:10:95] <68031> admin:1111
+DEBUG	[2014-08-11 03:34:10:95] <68031> mid:INIpayTest
+DEBUG	[2014-08-11 03:34:10:95] <68031> type:chkfake
+DEBUG	[2014-08-11 03:34:10:95] <68031> enctype:asym
+DEBUG	[2014-08-11 03:34:10:95] <68031> checkopt:false
+DEBUG	[2014-08-11 03:34:10:95] <68031> nointerest:no
+DEBUG	[2014-08-11 03:34:10:95] <68031> price:30000
+DEBUG	[2014-08-11 03:34:10:95] <68031> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:34:10:95] <68031> Check Field OK
+INFO	[2014-08-11 03:34:10:95] <68031> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:34:10:95] <68031> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:34:10:97] <68031> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzM0MTAwOTU5MzA4Mw==
+
+INFO	[2014-08-11 03:34:10:97] <68031> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 03:34:10:97] <68031> ===============================================================
+INFO	[2014-08-11 03:34:38:740] <68038> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:34:38:741] <68038> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:34:38:741] <68038> debug:true
+DEBUG	[2014-08-11 03:34:38:741] <68038> admin:1111
+DEBUG	[2014-08-11 03:34:38:741] <68038> mid:INIpayTest
+DEBUG	[2014-08-11 03:34:38:741] <68038> type:securepay
+DEBUG	[2014-08-11 03:34:38:741] <68038> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:34:38:741] <68038> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:34:38:741] <68038> buyername:awefwf
+DEBUG	[2014-08-11 03:34:38:741] <68038> buyertel:12312312
+DEBUG	[2014-08-11 03:34:38:741] <68038> buyeremail:ewfew
+DEBUG	[2014-08-11 03:34:38:741] <68038> goodname:awefawf
+DEBUG	[2014-08-11 03:34:38:741] <68038> price:30000
+DEBUG	[2014-08-11 03:34:38:741] <68038> currency:WON
+DEBUG	[2014-08-11 03:34:38:741] <68038> paymethod:VCard
+DEBUG	[2014-08-11 03:34:38:741] <68038> encrypted:
+DEBUG	[2014-08-11 03:34:38:741] <68038> sessionkey:
+DEBUG	[2014-08-11 03:34:38:741] <68038> enctype:
+DEBUG	[2014-08-11 03:34:38:741] <68038> rn:
+DEBUG	[2014-08-11 03:34:38:741] <68038> uid:
+DEBUG	[2014-08-11 03:34:38:741] <68038> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:34:38:755] <68038> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:34:38:755] <68038> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-08-11 03:34:38:755] <68038> ===============================================================
+INFO	[2014-08-11 03:34:38:878] <68039> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:34:38:878] <68039> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:34:38:878] <68039> debug:true
+DEBUG	[2014-08-11 03:34:38:878] <68039> admin:1111
+DEBUG	[2014-08-11 03:34:38:878] <68039> mid:INIpayTest
+DEBUG	[2014-08-11 03:34:38:878] <68039> type:chkfake
+DEBUG	[2014-08-11 03:34:38:878] <68039> enctype:asym
+DEBUG	[2014-08-11 03:34:38:878] <68039> checkopt:false
+DEBUG	[2014-08-11 03:34:38:878] <68039> nointerest:no
+DEBUG	[2014-08-11 03:34:38:878] <68039> price:30000
+DEBUG	[2014-08-11 03:34:38:878] <68039> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:34:38:878] <68039> Check Field OK
+INFO	[2014-08-11 03:34:38:879] <68039> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:34:38:879] <68039> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:34:38:881] <68039> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzM0Mzg4NzkyNzk4Ng==
+
+INFO	[2014-08-11 03:34:38:881] <68039> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 03:34:38:881] <68039> ===============================================================
+INFO	[2014-08-11 03:36:24:316] <68051> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:36:24:316] <68051> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:36:24:316] <68051> debug:true
+DEBUG	[2014-08-11 03:36:24:316] <68051> admin:1111
+DEBUG	[2014-08-11 03:36:24:316] <68051> mid:INIpayTest
+DEBUG	[2014-08-11 03:36:24:316] <68051> type:securepay
+DEBUG	[2014-08-11 03:36:24:316] <68051> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:36:24:316] <68051> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:36:24:316] <68051> buyername:awefwf
+DEBUG	[2014-08-11 03:36:24:316] <68051> buyertel:12312312
+DEBUG	[2014-08-11 03:36:24:316] <68051> buyeremail:ewfew
+DEBUG	[2014-08-11 03:36:24:316] <68051> goodname:awefawf
+DEBUG	[2014-08-11 03:36:24:316] <68051> price:30000
+DEBUG	[2014-08-11 03:36:24:316] <68051> currency:WON
+DEBUG	[2014-08-11 03:36:24:316] <68051> paymethod:VCard
+DEBUG	[2014-08-11 03:36:24:316] <68051> encrypted:
+DEBUG	[2014-08-11 03:36:24:316] <68051> sessionkey:
+DEBUG	[2014-08-11 03:36:24:316] <68051> enctype:
+DEBUG	[2014-08-11 03:36:24:316] <68051> rn:
+DEBUG	[2014-08-11 03:36:24:316] <68051> uid:
+DEBUG	[2014-08-11 03:36:24:316] <68051> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:36:24:330] <68051> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 03:36:24:330] <68051> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 03:36:24:330] <68051> ===============================================================
+INFO	[2014-08-11 03:36:24:450] <68052> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:36:24:450] <68052> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:36:24:450] <68052> debug:true
+DEBUG	[2014-08-11 03:36:24:450] <68052> admin:1111
+DEBUG	[2014-08-11 03:36:24:450] <68052> mid:INIpayTest
+DEBUG	[2014-08-11 03:36:24:450] <68052> type:chkfake
+DEBUG	[2014-08-11 03:36:24:450] <68052> enctype:asym
+DEBUG	[2014-08-11 03:36:24:450] <68052> checkopt:false
+DEBUG	[2014-08-11 03:36:24:450] <68052> nointerest:no
+DEBUG	[2014-08-11 03:36:24:450] <68052> price:30000
+DEBUG	[2014-08-11 03:36:24:450] <68052> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:36:24:450] <68052> Check Field OK
+INFO	[2014-08-11 03:36:24:450] <68052> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:36:24:450] <68052> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:36:24:452] <68052> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzM2MjQ0NTA1MDA0MA==
+
+INFO	[2014-08-11 03:36:24:452] <68052> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 03:36:24:452] <68052> ===============================================================
+INFO	[2014-08-11 03:39:28:779] <68081> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:39:28:779] <68081> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:39:28:779] <68081> debug:true
+DEBUG	[2014-08-11 03:39:28:779] <68081> admin:1111
+DEBUG	[2014-08-11 03:39:28:779] <68081> mid:INIpayTest
+DEBUG	[2014-08-11 03:39:28:779] <68081> type:securepay
+DEBUG	[2014-08-11 03:39:28:779] <68081> subpgip:203.238.3.10
+DEBUG	[2014-08-11 03:39:28:779] <68081> pgid:INIphpISP_
+DEBUG	[2014-08-11 03:39:28:779] <68081> buyername:awefwf
+DEBUG	[2014-08-11 03:39:28:779] <68081> buyertel:12312312
+DEBUG	[2014-08-11 03:39:28:779] <68081> buyeremail:ewfew
+DEBUG	[2014-08-11 03:39:28:779] <68081> goodname:
+DEBUG	[2014-08-11 03:39:28:779] <68081> price:30000
+DEBUG	[2014-08-11 03:39:28:779] <68081> currency:WON
+DEBUG	[2014-08-11 03:39:28:779] <68081> paymethod:VCard
+DEBUG	[2014-08-11 03:39:28:779] <68081> encrypted:
+DEBUG	[2014-08-11 03:39:28:779] <68081> sessionkey:
+DEBUG	[2014-08-11 03:39:28:779] <68081> enctype:
+DEBUG	[2014-08-11 03:39:28:779] <68081> rn:
+DEBUG	[2014-08-11 03:39:28:779] <68081> uid:
+DEBUG	[2014-08-11 03:39:28:779] <68081> url:http://www.mondayapple.com
+ERROR	[2014-08-11 03:39:28:794] <68081> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 03:39:28:794] <68081> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.017sec]
+INFO	[2014-08-11 03:39:28:794] <68081> ===============================================================
+INFO	[2014-08-11 03:39:28:889] <68082> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 03:39:28:889] <68082> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 03:39:28:889] <68082> debug:true
+DEBUG	[2014-08-11 03:39:28:889] <68082> admin:1111
+DEBUG	[2014-08-11 03:39:28:889] <68082> mid:INIpayTest
+DEBUG	[2014-08-11 03:39:28:889] <68082> type:chkfake
+DEBUG	[2014-08-11 03:39:28:889] <68082> enctype:asym
+DEBUG	[2014-08-11 03:39:28:889] <68082> checkopt:false
+DEBUG	[2014-08-11 03:39:28:889] <68082> nointerest:no
+DEBUG	[2014-08-11 03:39:28:889] <68082> price:30000
+DEBUG	[2014-08-11 03:39:28:889] <68082> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 03:39:28:889] <68082> Check Field OK
+INFO	[2014-08-11 03:39:28:889] <68082> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 03:39:28:890] <68082> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 03:39:28:892] <68082> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwMzM5Mjg4OTA0ODI4Ng==
+
+INFO	[2014-08-11 03:39:28:892] <68082> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 03:39:28:892] <68082> ===============================================================
+INFO	[2014-08-11 04:27:45:215] <68409> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:27:45:215] <68409> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:27:45:215] <68409> debug:true
+DEBUG	[2014-08-11 04:27:45:215] <68409> admin:1111
+DEBUG	[2014-08-11 04:27:45:215] <68409> mid:INIpayTest
+DEBUG	[2014-08-11 04:27:45:215] <68409> type:securepay
+DEBUG	[2014-08-11 04:27:45:215] <68409> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:27:45:215] <68409> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:27:45:215] <68409> buyername:awefwf
+DEBUG	[2014-08-11 04:27:45:215] <68409> buyertel:12312312
+DEBUG	[2014-08-11 04:27:45:215] <68409> buyeremail:ewfew
+DEBUG	[2014-08-11 04:27:45:215] <68409> goodname:
+DEBUG	[2014-08-11 04:27:45:215] <68409> price:30000
+DEBUG	[2014-08-11 04:27:45:215] <68409> currency:WON
+DEBUG	[2014-08-11 04:27:45:215] <68409> paymethod:VCard
+DEBUG	[2014-08-11 04:27:45:215] <68409> encrypted:
+DEBUG	[2014-08-11 04:27:45:215] <68409> sessionkey:
+DEBUG	[2014-08-11 04:27:45:215] <68409> enctype:
+DEBUG	[2014-08-11 04:27:45:215] <68409> rn:
+DEBUG	[2014-08-11 04:27:45:215] <68409> uid:
+DEBUG	[2014-08-11 04:27:45:215] <68409> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:27:45:650] <68409> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:27:45:650] <68409> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.437sec]
+INFO	[2014-08-11 04:27:45:650] <68409> ===============================================================
+INFO	[2014-08-11 04:27:45:757] <68411> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:27:45:757] <68411> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:27:45:757] <68411> debug:true
+DEBUG	[2014-08-11 04:27:45:757] <68411> admin:1111
+DEBUG	[2014-08-11 04:27:45:757] <68411> mid:INIpayTest
+DEBUG	[2014-08-11 04:27:45:757] <68411> type:chkfake
+DEBUG	[2014-08-11 04:27:45:757] <68411> enctype:asym
+DEBUG	[2014-08-11 04:27:45:757] <68411> checkopt:false
+DEBUG	[2014-08-11 04:27:45:757] <68411> nointerest:no
+DEBUG	[2014-08-11 04:27:45:757] <68411> price:30000
+DEBUG	[2014-08-11 04:27:45:757] <68411> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:27:45:757] <68411> Check Field OK
+INFO	[2014-08-11 04:27:45:758] <68411> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:27:45:758] <68411> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:27:45:760] <68411> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDI3NDU3NTgxOTE5MA==
+
+INFO	[2014-08-11 04:27:45:760] <68411> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 04:27:45:760] <68411> ===============================================================
+INFO	[2014-08-11 04:29:42:904] <68425> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:29:42:904] <68425> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:29:42:904] <68425> debug:true
+DEBUG	[2014-08-11 04:29:42:904] <68425> admin:1111
+DEBUG	[2014-08-11 04:29:42:904] <68425> mid:INIpayTest
+DEBUG	[2014-08-11 04:29:42:904] <68425> type:securepay
+DEBUG	[2014-08-11 04:29:42:904] <68425> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:29:42:904] <68425> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:29:42:904] <68425> buyername:awefwf
+DEBUG	[2014-08-11 04:29:42:904] <68425> buyertel:12312312
+DEBUG	[2014-08-11 04:29:42:904] <68425> buyeremail:ewfew
+DEBUG	[2014-08-11 04:29:42:904] <68425> goodname:
+DEBUG	[2014-08-11 04:29:42:904] <68425> price:30000
+DEBUG	[2014-08-11 04:29:42:904] <68425> currency:WON
+DEBUG	[2014-08-11 04:29:42:904] <68425> paymethod:VCard
+DEBUG	[2014-08-11 04:29:42:904] <68425> encrypted:
+DEBUG	[2014-08-11 04:29:42:904] <68425> sessionkey:
+DEBUG	[2014-08-11 04:29:42:904] <68425> enctype:
+DEBUG	[2014-08-11 04:29:42:904] <68425> rn:
+DEBUG	[2014-08-11 04:29:42:904] <68425> uid:
+DEBUG	[2014-08-11 04:29:42:904] <68425> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:29:42:918] <68425> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:29:42:918] <68425> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 04:29:42:918] <68425> ===============================================================
+INFO	[2014-08-11 04:29:43:20] <68426> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:29:43:20] <68426> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:29:43:20] <68426> debug:true
+DEBUG	[2014-08-11 04:29:43:20] <68426> admin:1111
+DEBUG	[2014-08-11 04:29:43:20] <68426> mid:INIpayTest
+DEBUG	[2014-08-11 04:29:43:20] <68426> type:chkfake
+DEBUG	[2014-08-11 04:29:43:20] <68426> enctype:asym
+DEBUG	[2014-08-11 04:29:43:20] <68426> checkopt:false
+DEBUG	[2014-08-11 04:29:43:20] <68426> nointerest:no
+DEBUG	[2014-08-11 04:29:43:20] <68426> price:30000
+DEBUG	[2014-08-11 04:29:43:20] <68426> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:29:43:20] <68426> Check Field OK
+INFO	[2014-08-11 04:29:43:20] <68426> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:29:43:20] <68426> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:29:43:22] <68426> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDI5NDMwMjAyMDA1Ng==
+
+INFO	[2014-08-11 04:29:43:22] <68426> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 04:29:43:22] <68426> ===============================================================
+INFO	[2014-08-11 04:32:08:122] <68435> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:32:08:122] <68435> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:32:08:122] <68435> debug:true
+DEBUG	[2014-08-11 04:32:08:122] <68435> admin:1111
+DEBUG	[2014-08-11 04:32:08:122] <68435> mid:INIpayTest
+DEBUG	[2014-08-11 04:32:08:122] <68435> type:securepay
+DEBUG	[2014-08-11 04:32:08:122] <68435> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:32:08:122] <68435> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:32:08:122] <68435> buyername:awefwaef
+DEBUG	[2014-08-11 04:32:08:122] <68435> buyertel:123123
+DEBUG	[2014-08-11 04:32:08:122] <68435> buyeremail:awef123
+DEBUG	[2014-08-11 04:32:08:122] <68435> goodname:wf
+DEBUG	[2014-08-11 04:32:08:122] <68435> price:30000
+DEBUG	[2014-08-11 04:32:08:122] <68435> currency:WON
+DEBUG	[2014-08-11 04:32:08:122] <68435> paymethod:VCard
+DEBUG	[2014-08-11 04:32:08:122] <68435> encrypted:
+DEBUG	[2014-08-11 04:32:08:122] <68435> sessionkey:
+DEBUG	[2014-08-11 04:32:08:122] <68435> enctype:
+DEBUG	[2014-08-11 04:32:08:122] <68435> rn:
+DEBUG	[2014-08-11 04:32:08:122] <68435> uid:
+DEBUG	[2014-08-11 04:32:08:122] <68435> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:32:08:196] <68435> 필수항목(sessionkey)이 누락되었습니다.
+INFO	[2014-08-11 04:32:08:196] <68435> END securepay [TX9230|필수항목(sessionkey)이 누락되었습니다.] Laptime:[0.074sec]
+INFO	[2014-08-11 04:32:08:196] <68435> ===============================================================
+INFO	[2014-08-11 04:32:08:326] <68436> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:32:08:326] <68436> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:32:08:326] <68436> debug:true
+DEBUG	[2014-08-11 04:32:08:326] <68436> admin:1111
+DEBUG	[2014-08-11 04:32:08:326] <68436> mid:INIpayTest
+DEBUG	[2014-08-11 04:32:08:326] <68436> type:chkfake
+DEBUG	[2014-08-11 04:32:08:326] <68436> enctype:asym
+DEBUG	[2014-08-11 04:32:08:326] <68436> checkopt:false
+DEBUG	[2014-08-11 04:32:08:326] <68436> nointerest:no
+DEBUG	[2014-08-11 04:32:08:326] <68436> price:30000
+DEBUG	[2014-08-11 04:32:08:326] <68436> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:32:08:326] <68436> Check Field OK
+INFO	[2014-08-11 04:32:08:327] <68436> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:32:08:327] <68436> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:32:08:328] <68436> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDMyMDgzMjc0MTA4Mg==
+
+INFO	[2014-08-11 04:32:08:328] <68436> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 04:32:08:328] <68436> ===============================================================
+INFO	[2014-08-11 04:32:09:621] <68437> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:32:09:621] <68437> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:32:09:621] <68437> debug:true
+DEBUG	[2014-08-11 04:32:09:621] <68437> admin:1111
+DEBUG	[2014-08-11 04:32:09:621] <68437> mid:INIpayTest
+DEBUG	[2014-08-11 04:32:09:621] <68437> type:securepay
+DEBUG	[2014-08-11 04:32:09:621] <68437> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:32:09:621] <68437> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:32:09:621] <68437> buyername:awefwaef
+DEBUG	[2014-08-11 04:32:09:621] <68437> buyertel:123123
+DEBUG	[2014-08-11 04:32:09:621] <68437> buyeremail:awef123
+DEBUG	[2014-08-11 04:32:09:621] <68437> goodname:
+DEBUG	[2014-08-11 04:32:09:621] <68437> price:30000
+DEBUG	[2014-08-11 04:32:09:621] <68437> currency:WON
+DEBUG	[2014-08-11 04:32:09:621] <68437> paymethod:VCard
+DEBUG	[2014-08-11 04:32:09:621] <68437> encrypted:
+DEBUG	[2014-08-11 04:32:09:621] <68437> sessionkey:
+DEBUG	[2014-08-11 04:32:09:621] <68437> enctype:
+DEBUG	[2014-08-11 04:32:09:621] <68437> rn:
+DEBUG	[2014-08-11 04:32:09:621] <68437> uid:
+DEBUG	[2014-08-11 04:32:09:621] <68437> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:32:09:719] <68437> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:32:09:719] <68437> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.099sec]
+INFO	[2014-08-11 04:32:09:719] <68437> ===============================================================
+INFO	[2014-08-11 04:32:09:854] <68438> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:32:09:854] <68438> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:32:09:854] <68438> debug:true
+DEBUG	[2014-08-11 04:32:09:854] <68438> admin:1111
+DEBUG	[2014-08-11 04:32:09:854] <68438> mid:INIpayTest
+DEBUG	[2014-08-11 04:32:09:854] <68438> type:chkfake
+DEBUG	[2014-08-11 04:32:09:854] <68438> enctype:asym
+DEBUG	[2014-08-11 04:32:09:854] <68438> checkopt:false
+DEBUG	[2014-08-11 04:32:09:854] <68438> nointerest:no
+DEBUG	[2014-08-11 04:32:09:854] <68438> price:30000
+DEBUG	[2014-08-11 04:32:09:854] <68438> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:32:09:854] <68438> Check Field OK
+INFO	[2014-08-11 04:32:09:854] <68438> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:32:09:855] <68438> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:32:09:857] <68438> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDMyMDk4NTU5ODg1MA==
+
+INFO	[2014-08-11 04:32:09:857] <68438> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 04:32:09:857] <68438> ===============================================================
+INFO	[2014-08-11 04:40:46:813] <68482> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:40:46:813] <68482> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:40:46:813] <68482> debug:true
+DEBUG	[2014-08-11 04:40:46:813] <68482> admin:1111
+DEBUG	[2014-08-11 04:40:46:813] <68482> mid:INIpayTest
+DEBUG	[2014-08-11 04:40:46:813] <68482> type:securepay
+DEBUG	[2014-08-11 04:40:46:813] <68482> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:40:46:813] <68482> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:40:46:813] <68482> buyername:awefwf
+DEBUG	[2014-08-11 04:40:46:813] <68482> buyertel:12312312
+DEBUG	[2014-08-11 04:40:46:813] <68482> buyeremail:ewfew
+DEBUG	[2014-08-11 04:40:46:813] <68482> goodname:
+DEBUG	[2014-08-11 04:40:46:813] <68482> price:30000
+DEBUG	[2014-08-11 04:40:46:813] <68482> currency:WON
+DEBUG	[2014-08-11 04:40:46:813] <68482> paymethod:VCard
+DEBUG	[2014-08-11 04:40:46:813] <68482> encrypted:
+DEBUG	[2014-08-11 04:40:46:813] <68482> sessionkey:
+DEBUG	[2014-08-11 04:40:46:813] <68482> enctype:
+DEBUG	[2014-08-11 04:40:46:813] <68482> rn:
+DEBUG	[2014-08-11 04:40:46:813] <68482> uid:
+DEBUG	[2014-08-11 04:40:46:813] <68482> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:40:46:828] <68482> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:40:46:828] <68482> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.018sec]
+INFO	[2014-08-11 04:40:46:829] <68482> ===============================================================
+INFO	[2014-08-11 04:40:46:958] <68483> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:40:46:958] <68483> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:40:46:958] <68483> debug:true
+DEBUG	[2014-08-11 04:40:46:958] <68483> admin:1111
+DEBUG	[2014-08-11 04:40:46:958] <68483> mid:INIpayTest
+DEBUG	[2014-08-11 04:40:46:958] <68483> type:chkfake
+DEBUG	[2014-08-11 04:40:46:958] <68483> enctype:asym
+DEBUG	[2014-08-11 04:40:46:958] <68483> checkopt:false
+DEBUG	[2014-08-11 04:40:46:958] <68483> nointerest:no
+DEBUG	[2014-08-11 04:40:46:958] <68483> price:30000
+DEBUG	[2014-08-11 04:40:46:958] <68483> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:40:46:958] <68483> Check Field OK
+INFO	[2014-08-11 04:40:46:968] <68483> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:40:46:969] <68483> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:40:46:972] <68483> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDQwNDY5NjkzNDIwOA==
+
+INFO	[2014-08-11 04:40:46:972] <68483> END chkfake  Laptime:[0.014sec]
+INFO	[2014-08-11 04:40:46:972] <68483> ===============================================================
+INFO	[2014-08-11 04:40:57:497] <68488> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:40:57:497] <68488> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:40:57:497] <68488> debug:true
+DEBUG	[2014-08-11 04:40:57:497] <68488> admin:1111
+DEBUG	[2014-08-11 04:40:57:497] <68488> mid:INIpayTest
+DEBUG	[2014-08-11 04:40:57:497] <68488> type:securepay
+DEBUG	[2014-08-11 04:40:57:497] <68488> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:40:57:497] <68488> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:40:57:497] <68488> buyername:awefwf
+DEBUG	[2014-08-11 04:40:57:497] <68488> buyertel:12312312
+DEBUG	[2014-08-11 04:40:57:497] <68488> buyeremail:ewfew
+DEBUG	[2014-08-11 04:40:57:497] <68488> goodname:
+DEBUG	[2014-08-11 04:40:57:497] <68488> price:30000
+DEBUG	[2014-08-11 04:40:57:497] <68488> currency:WON
+DEBUG	[2014-08-11 04:40:57:497] <68488> paymethod:VCard
+DEBUG	[2014-08-11 04:40:57:497] <68488> encrypted:
+DEBUG	[2014-08-11 04:40:57:497] <68488> sessionkey:
+DEBUG	[2014-08-11 04:40:57:497] <68488> enctype:
+DEBUG	[2014-08-11 04:40:57:497] <68488> rn:
+DEBUG	[2014-08-11 04:40:57:497] <68488> uid:
+DEBUG	[2014-08-11 04:40:57:497] <68488> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:40:57:926] <68488> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:40:57:926] <68488> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.429sec]
+INFO	[2014-08-11 04:40:57:926] <68488> ===============================================================
+INFO	[2014-08-11 04:40:58:43] <68490> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:40:58:44] <68490> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:40:58:44] <68490> debug:true
+DEBUG	[2014-08-11 04:40:58:44] <68490> admin:1111
+DEBUG	[2014-08-11 04:40:58:44] <68490> mid:INIpayTest
+DEBUG	[2014-08-11 04:40:58:44] <68490> type:chkfake
+DEBUG	[2014-08-11 04:40:58:44] <68490> enctype:asym
+DEBUG	[2014-08-11 04:40:58:44] <68490> checkopt:false
+DEBUG	[2014-08-11 04:40:58:44] <68490> nointerest:no
+DEBUG	[2014-08-11 04:40:58:44] <68490> price:30000
+DEBUG	[2014-08-11 04:40:58:44] <68490> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:40:58:44] <68490> Check Field OK
+INFO	[2014-08-11 04:40:58:44] <68490> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:40:58:44] <68490> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:40:58:46] <68490> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDQwNTgwNDQ5NjAyMg==
+
+INFO	[2014-08-11 04:40:58:46] <68490> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 04:40:58:46] <68490> ===============================================================
+INFO	[2014-08-11 04:41:17:856] <68492> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:41:17:856] <68492> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:41:17:856] <68492> debug:true
+DEBUG	[2014-08-11 04:41:17:856] <68492> admin:1111
+DEBUG	[2014-08-11 04:41:17:856] <68492> mid:INIpayTest
+DEBUG	[2014-08-11 04:41:17:856] <68492> type:securepay
+DEBUG	[2014-08-11 04:41:17:856] <68492> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:41:17:856] <68492> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:41:17:856] <68492> buyername:awefwf
+DEBUG	[2014-08-11 04:41:17:856] <68492> buyertel:12312312
+DEBUG	[2014-08-11 04:41:17:856] <68492> buyeremail:ewfew
+DEBUG	[2014-08-11 04:41:17:856] <68492> goodname:
+DEBUG	[2014-08-11 04:41:17:856] <68492> price:30000
+DEBUG	[2014-08-11 04:41:17:856] <68492> currency:WON
+DEBUG	[2014-08-11 04:41:17:856] <68492> paymethod:VCard
+DEBUG	[2014-08-11 04:41:17:856] <68492> encrypted:
+DEBUG	[2014-08-11 04:41:17:856] <68492> sessionkey:
+DEBUG	[2014-08-11 04:41:17:856] <68492> enctype:
+DEBUG	[2014-08-11 04:41:17:856] <68492> rn:
+DEBUG	[2014-08-11 04:41:17:856] <68492> uid:
+DEBUG	[2014-08-11 04:41:17:856] <68492> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:41:17:869] <68492> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:41:17:869] <68492> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-08-11 04:41:17:869] <68492> ===============================================================
+INFO	[2014-08-11 04:41:17:971] <68493> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:41:17:971] <68493> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:41:17:971] <68493> debug:true
+DEBUG	[2014-08-11 04:41:17:971] <68493> admin:1111
+DEBUG	[2014-08-11 04:41:17:971] <68493> mid:INIpayTest
+DEBUG	[2014-08-11 04:41:17:971] <68493> type:chkfake
+DEBUG	[2014-08-11 04:41:17:971] <68493> enctype:asym
+DEBUG	[2014-08-11 04:41:17:971] <68493> checkopt:false
+DEBUG	[2014-08-11 04:41:17:971] <68493> nointerest:no
+DEBUG	[2014-08-11 04:41:17:971] <68493> price:30000
+DEBUG	[2014-08-11 04:41:17:971] <68493> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:41:17:971] <68493> Check Field OK
+INFO	[2014-08-11 04:41:17:971] <68493> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:41:17:971] <68493> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:41:17:973] <68493> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDQxMTc5NzE1MTI5MA==
+
+INFO	[2014-08-11 04:41:17:973] <68493> END chkfake  Laptime:[0.002sec]
+INFO	[2014-08-11 04:41:17:973] <68493> ===============================================================
+INFO	[2014-08-11 04:43:26:317] <68505> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:43:26:318] <68505> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:43:26:318] <68505> debug:true
+DEBUG	[2014-08-11 04:43:26:318] <68505> admin:1111
+DEBUG	[2014-08-11 04:43:26:318] <68505> mid:INIpayTest
+DEBUG	[2014-08-11 04:43:26:318] <68505> type:securepay
+DEBUG	[2014-08-11 04:43:26:318] <68505> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:43:26:318] <68505> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:43:26:318] <68505> buyername:awefwf
+DEBUG	[2014-08-11 04:43:26:318] <68505> buyertel:12312312
+DEBUG	[2014-08-11 04:43:26:318] <68505> buyeremail:ewfew
+DEBUG	[2014-08-11 04:43:26:318] <68505> goodname:
+DEBUG	[2014-08-11 04:43:26:318] <68505> price:30000
+DEBUG	[2014-08-11 04:43:26:318] <68505> currency:WON
+DEBUG	[2014-08-11 04:43:26:318] <68505> paymethod:VCard
+DEBUG	[2014-08-11 04:43:26:318] <68505> encrypted:
+DEBUG	[2014-08-11 04:43:26:318] <68505> sessionkey:
+DEBUG	[2014-08-11 04:43:26:318] <68505> enctype:
+DEBUG	[2014-08-11 04:43:26:318] <68505> rn:
+DEBUG	[2014-08-11 04:43:26:318] <68505> uid:
+DEBUG	[2014-08-11 04:43:26:318] <68505> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:43:26:334] <68505> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:43:26:334] <68505> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.018sec]
+INFO	[2014-08-11 04:43:26:334] <68505> ===============================================================
+INFO	[2014-08-11 04:43:26:434] <68506> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:43:26:434] <68506> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:43:26:434] <68506> debug:true
+DEBUG	[2014-08-11 04:43:26:434] <68506> admin:1111
+DEBUG	[2014-08-11 04:43:26:434] <68506> mid:INIpayTest
+DEBUG	[2014-08-11 04:43:26:434] <68506> type:chkfake
+DEBUG	[2014-08-11 04:43:26:434] <68506> enctype:asym
+DEBUG	[2014-08-11 04:43:26:434] <68506> checkopt:false
+DEBUG	[2014-08-11 04:43:26:434] <68506> nointerest:no
+DEBUG	[2014-08-11 04:43:26:434] <68506> price:30000
+DEBUG	[2014-08-11 04:43:26:434] <68506> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:43:26:434] <68506> Check Field OK
+INFO	[2014-08-11 04:43:26:443] <68506> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:43:26:443] <68506> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:43:26:445] <68506> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDQzMjY0NDMyMjM4Mg==
+
+INFO	[2014-08-11 04:43:26:446] <68506> END chkfake  Laptime:[0.012sec]
+INFO	[2014-08-11 04:43:26:446] <68506> ===============================================================
+INFO	[2014-08-11 04:44:49:201] <68520> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:44:49:201] <68520> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:44:49:201] <68520> debug:true
+DEBUG	[2014-08-11 04:44:49:201] <68520> admin:1111
+DEBUG	[2014-08-11 04:44:49:201] <68520> mid:INIpayTest
+DEBUG	[2014-08-11 04:44:49:201] <68520> type:securepay
+DEBUG	[2014-08-11 04:44:49:201] <68520> subpgip:203.238.3.10
+DEBUG	[2014-08-11 04:44:49:201] <68520> pgid:INIphpISP_
+DEBUG	[2014-08-11 04:44:49:201] <68520> buyername:awefwf
+DEBUG	[2014-08-11 04:44:49:201] <68520> buyertel:12312312
+DEBUG	[2014-08-11 04:44:49:201] <68520> buyeremail:ewfew
+DEBUG	[2014-08-11 04:44:49:201] <68520> goodname:
+DEBUG	[2014-08-11 04:44:49:201] <68520> price:30000
+DEBUG	[2014-08-11 04:44:49:201] <68520> currency:WON
+DEBUG	[2014-08-11 04:44:49:201] <68520> paymethod:VCard
+DEBUG	[2014-08-11 04:44:49:201] <68520> encrypted:
+DEBUG	[2014-08-11 04:44:49:201] <68520> sessionkey:
+DEBUG	[2014-08-11 04:44:49:201] <68520> enctype:
+DEBUG	[2014-08-11 04:44:49:201] <68520> rn:
+DEBUG	[2014-08-11 04:44:49:201] <68520> uid:
+DEBUG	[2014-08-11 04:44:49:201] <68520> url:http://www.mondayapple.com
+ERROR	[2014-08-11 04:44:49:276] <68520> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 04:44:49:276] <68520> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.077sec]
+INFO	[2014-08-11 04:44:49:276] <68520> ===============================================================
+INFO	[2014-08-11 04:44:49:370] <68521> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 04:44:49:370] <68521> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 04:44:49:370] <68521> debug:true
+DEBUG	[2014-08-11 04:44:49:370] <68521> admin:1111
+DEBUG	[2014-08-11 04:44:49:370] <68521> mid:INIpayTest
+DEBUG	[2014-08-11 04:44:49:370] <68521> type:chkfake
+DEBUG	[2014-08-11 04:44:49:370] <68521> enctype:asym
+DEBUG	[2014-08-11 04:44:49:370] <68521> checkopt:false
+DEBUG	[2014-08-11 04:44:49:370] <68521> nointerest:no
+DEBUG	[2014-08-11 04:44:49:370] <68521> price:30000
+DEBUG	[2014-08-11 04:44:49:370] <68521> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 04:44:49:370] <68521> Check Field OK
+INFO	[2014-08-11 04:44:49:370] <68521> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 04:44:49:371] <68521> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 04:44:49:372] <68521> CHKFAKE KEY MAKE OK:MjAxNDA4MTEwNDQ0NDkzNzEyNzk3MA==
+
+INFO	[2014-08-11 04:44:49:372] <68521> END chkfake  Laptime:[0.003sec]
+INFO	[2014-08-11 04:44:49:372] <68521> ===============================================================
+INFO	[2014-08-11 15:29:30:295] <69110> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 15:29:30:296] <69110> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 15:29:30:296] <69110> debug:true
+DEBUG	[2014-08-11 15:29:30:296] <69110> admin:1111
+DEBUG	[2014-08-11 15:29:30:296] <69110> mid:INIpayTest
+DEBUG	[2014-08-11 15:29:30:296] <69110> type:securepay
+DEBUG	[2014-08-11 15:29:30:296] <69110> subpgip:203.238.3.10
+DEBUG	[2014-08-11 15:29:30:296] <69110> pgid:INIphpISP_
+DEBUG	[2014-08-11 15:29:30:296] <69110> buyername:awefwaef
+DEBUG	[2014-08-11 15:29:30:296] <69110> buyertel:123123
+DEBUG	[2014-08-11 15:29:30:296] <69110> buyeremail:awef123
+DEBUG	[2014-08-11 15:29:30:296] <69110> goodname:
+DEBUG	[2014-08-11 15:29:30:296] <69110> price:30000
+DEBUG	[2014-08-11 15:29:30:296] <69110> currency:WON
+DEBUG	[2014-08-11 15:29:30:296] <69110> paymethod:VCard
+DEBUG	[2014-08-11 15:29:30:296] <69110> encrypted:
+DEBUG	[2014-08-11 15:29:30:296] <69110> sessionkey:
+DEBUG	[2014-08-11 15:29:30:296] <69110> enctype:
+DEBUG	[2014-08-11 15:29:30:296] <69110> rn:
+DEBUG	[2014-08-11 15:29:30:296] <69110> uid:
+DEBUG	[2014-08-11 15:29:30:296] <69110> url:http://www.mondayapple.com
+ERROR	[2014-08-11 15:29:30:406] <69110> 필수항목(goodname)이 누락되었습니다.
+INFO	[2014-08-11 15:29:30:406] <69110> END securepay [TX9226|필수항목(goodname)이 누락되었습니다.] Laptime:[0.113sec]
+INFO	[2014-08-11 15:29:30:406] <69110> ===============================================================
+INFO	[2014-08-11 15:29:30:521] <69111> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-08-11 15:29:30:521] <69111> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-08-11 15:29:30:521] <69111> debug:true
+DEBUG	[2014-08-11 15:29:30:521] <69111> admin:1111
+DEBUG	[2014-08-11 15:29:30:521] <69111> mid:INIpayTest
+DEBUG	[2014-08-11 15:29:30:521] <69111> type:chkfake
+DEBUG	[2014-08-11 15:29:30:521] <69111> enctype:asym
+DEBUG	[2014-08-11 15:29:30:521] <69111> checkopt:false
+DEBUG	[2014-08-11 15:29:30:521] <69111> nointerest:no
+DEBUG	[2014-08-11 15:29:30:521] <69111> price:30000
+DEBUG	[2014-08-11 15:29:30:521] <69111> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-08-11 15:29:30:521] <69111> Check Field OK
+INFO	[2014-08-11 15:29:30:523] <69111> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-08-11 15:29:30:524] <69111> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-08-11 15:29:30:527] <69111> CHKFAKE KEY MAKE OK:MjAxNDA4MTExNTI5MzA1MjQ1ODQ4Mg==
+
+INFO	[2014-08-11 15:29:30:527] <69111> END chkfake  Laptime:[0.008sec]
+INFO	[2014-08-11 15:29:30:527] <69111> ===============================================================

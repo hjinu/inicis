@@ -1,0 +1,1132 @@
+INFO	[2014-09-04 00:49:39:538] <6425> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 00:49:39:538] <6425> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 00:49:39:538] <6425> debug:true
+DEBUG	[2014-09-04 00:49:39:538] <6425> admin:1111
+DEBUG	[2014-09-04 00:49:39:538] <6425> mid:INIpayTest
+DEBUG	[2014-09-04 00:49:39:538] <6425> type:chkfake
+DEBUG	[2014-09-04 00:49:39:538] <6425> enctype:asym
+DEBUG	[2014-09-04 00:49:39:538] <6425> checkopt:false
+DEBUG	[2014-09-04 00:49:39:538] <6425> nointerest:no
+DEBUG	[2014-09-04 00:49:39:538] <6425> price:1000
+DEBUG	[2014-09-04 00:49:39:538] <6425> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 00:49:39:538] <6425> Check Field OK
+INFO	[2014-09-04 00:49:39:539] <6425> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 00:49:39:540] <6425> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 00:49:39:543] <6425> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMDQ5Mzk1NDA1MDM5Ng==
+
+INFO	[2014-09-04 00:49:39:543] <6425> END chkfake  Laptime:[0.007sec]
+INFO	[2014-09-04 00:49:39:543] <6425> ===============================================================
+INFO	[2014-09-04 00:51:03:755] <6436> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 00:51:03:755] <6436> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 00:51:03:755] <6436> debug:true
+DEBUG	[2014-09-04 00:51:03:755] <6436> admin:1111
+DEBUG	[2014-09-04 00:51:03:755] <6436> mid:INIpayTest
+DEBUG	[2014-09-04 00:51:03:755] <6436> type:securepay
+DEBUG	[2014-09-04 00:51:03:755] <6436> subpgip:203.238.3.10
+DEBUG	[2014-09-04 00:51:03:755] <6436> pgid:INIphpISP_
+DEBUG	[2014-09-04 00:51:03:755] <6436> buyername:nl;n
+DEBUG	[2014-09-04 00:51:03:755] <6436> buyertel:1293123
+DEBUG	[2014-09-04 00:51:03:755] <6436> buyeremail:awef
+DEBUG	[2014-09-04 00:51:03:755] <6436> goodname:123
+DEBUG	[2014-09-04 00:51:03:755] <6436> price:1000
+DEBUG	[2014-09-04 00:51:03:755] <6436> currency:WON
+DEBUG	[2014-09-04 00:51:03:755] <6436> paymethod:VCard
+DEBUG	[2014-09-04 00:51:03:755] <6436> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6086,6053)vcard(6078)card(6114,6104)n(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6130)Re(6082)Vr(6006)P(6033)en(6038)&pg1=211.219.96.180&pg2=211.219.96.180&pg1ip=211.219.96.180&pg2ip=211.219.96.180&agreeflag=1111&VCode=040100202438831&VQuota=00&VNoint=0&ip=10.211.55.3&mac=001C4221AFA6&cardpoint=9&custemail=&price=4uDsrkVGcE4gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=VSygekPI%2b0fFsIEjV7u2bSl4Bx3jTQOWd6xjwCWZ58TLmgGAiPKi%2fssxUR23xnq%2b%0d%0ailig5g9SYzM5zL6BHX6bwTVM%2bPa9uzH%2f7GMlAsbx07QFDBo7tJMQHBLBkYX%2bCJaQ%0d%0axnhUKAxp0LqaDge4nM%2bdOCybI99%2bB4i3oOMOrh05w%2b0%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dLYd9c7Pdj6zhIgrtxDF%2fxs2ajlBASH%2fAYKRqJnKr9or9pjnVEhq2XXOxzR7so%252bDX%250amVzCs0Jc9828Tpd1TZYN2VBPKRPmrealNtSaH4CYBJZAKqa1o3ONms3IweK0yX6X%250aCCj0ZBQuepv4w4oiSJDgxFTAYgDaUkNid3y5JBCnhy%252b4wbaVmjBmtCcAJXn98ua5%250ahTJxQklGmPG6NCJsssEBrXMF%2foZeZcjzcjZRMP1dIHDnHL3hdNgDk6bAQ8QBWo6g%250av0yyg1S50LsUemBfRSHJ3rmq%2fOZUz%2fMKzTqThenjbKeLw21Vj2PKcmCECh8IwP5H%250a%2f3dO8cfGKAUDgZDDs3DrF0FOj3Ss6UDdYSL%252bWDIhbYVNwSYuxTe9ZtVVW61aQIyl%250a1tVwrOfLmRkzrx0CxCukRTnslUHMJRdhrU74dHcP1JjdAadKTIv284wSrN7szuj6%250aq16x57QwMAA54P5K%252bGsArFkUUZYclu1Zt5AGuznnOCeUWbAJ9SCcNCnVHvMDpIvM%250aJxgQNodLRhhz%2fsvwW9W5Fu2NbVzv2dYQLBwjar3ldNn1j6q1PDqwJtVxNF0M2bTl%250auGIPCiYg8%252bJ9Fk66aZSf2F6Y7zMJzjGi%2fj2IuwNRlrNCLR0E6gQrTJjTefWFGLcH%250aRb7W7ZRo0a7tOnxoOdTfHbQ8%252bD2GainR00I1z8TKJ72JfVUybtgT5KWhCeoi1zU8%250ak%2fVMW1%2f7GUXaTsIZw6bMbRSgLks%252bipJsCTDbEuOea7E4W5wG8F3j35e2kEp9vFyl%250amTTQUL15YkScLS%252bqEFTIBG2lTvFreBJMlhrzkns3GL5RveCDT3RJDHIj1Hh6TsPo%250a%2ft0%252bxESExiLpZgzEqO7vog%253d%253d%250a%26PubCert%3d&ts=140904005102nhzjw3UlgLDqbjz3uptNqg001406&src_flg=0&OSv=IE11_WinVista 6.03.9600 Professional_64B (CDN) (notray:J) [INIpayTest] (61_secuni_npapi)&ip2=114.70.4.6
+DEBUG	[2014-09-04 00:51:03:755] <6436> sessionkey:VCard
+DEBUG	[2014-09-04 00:51:03:755] <6436> enctype:
+DEBUG	[2014-09-04 00:51:03:755] <6436> rn:
+DEBUG	[2014-09-04 00:51:03:755] <6436> uid:
+DEBUG	[2014-09-04 00:51:03:755] <6436> url:http://www.mondayapple.com
+INFO	[2014-09-04 00:51:03:756] <6436> Check Field OK
+INFO	[2014-09-04 00:51:03:756] <6436> Make TID OK INIphpISP_INIpayTest20140904005103565947
+INFO	[2014-09-04 00:51:03:757] <6436> PI PUB KEY LOAD OK [39]
+INFO	[2014-09-04 00:51:03:759] <6436> PG PUB KEY LOAD OK [30]
+INFO	[2014-09-04 00:51:03:759] <6436> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 00:51:03:759] <6436> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-09-04 00:51:03:768] <6436> MAKE BODY OK
+INFO	[2014-09-04 00:51:03:769] <6436> SIGN OK
+INFO	[2014-09-04 00:51:03:769] <6436> MAKE HEAD OK
+INFO	[2014-09-04 00:51:03:769] <6436> MSG_TO_PG:[0354700175R SHA1                   0                  39                  300200INIpayTest                1000INIphpISP_INIpayTest20140904005103565947<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>INIpayTest</SMID>
+	      <GoodsName urlencode="1">123</GoodsName>
+	      <GoodsPrice>1000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">nl%3Bn</BuyerName>
+	    <BuyerTel>1293123</BuyerTel>
+	    <BuyerEmail urlencode="1">awef</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Doid_1234567890%26ver_trace%3Dmain%286086%2C6053%29vcard%286078%29card%286114%2C6104%29n%286008%29Cs%286022%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286130%29Re%286082%29Vr%286006%29P%286033%29en%286038%29%26pg1%3D211.219.96.180%26pg2%3D211.219.96.180%26pg1ip%3D211.219.96.180%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26VCode%3D040100202438831%26VQuota%3D00%26VNoint%3D0%26ip%3D10.211.55.3%26mac%3D001C4221AFA6%26cardpoint%3D9%26custemail%3D%26price%3D4uDsrkVGcE4gjnub%2BtIuGLKwnbZZ5Wc%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DVSygekPI%252b0fFsIEjV7u2bSl4Bx3jTQOWd6xjwCWZ58TLmgGAiPKi%252fssxUR23xnq%252b%250d%250ailig5g9SYzM5zL6BHX6bwTVM%252bPa9uzH%252f7GMlAsbx07QFDBo7tJMQHBLBkYX%252bCJaQ%250d%250axnhUKAxp0LqaDge4nM%252bdOCybI99%252bB4i3oOMOrh05w%252b0%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253dLYd9c7Pdj6zhIgrtxDF%252fxs2ajlBASH%252fAYKRqJnKr9or9pjnVEhq2XXOxzR7so%25252bDX%25250amVzCs0Jc9828Tpd1TZYN2VBPKRPmrealNtSaH4CYBJZAKqa1o3ONms3IweK0yX6X%25250aCCj0ZBQuepv4w4oiSJDgxFTAYgDaUkNid3y5JBCnhy%25252b4wbaVmjBmtCcAJXn98ua5%25250ahTJxQklGmPG6NCJsssEBrXMF%252foZeZcjzcjZRMP1dIHDnHL3hdNgDk6bAQ8QBWo6g%25250av0yyg1S50LsUemBfRSHJ3rmq%252fOZUz%252fMKzTqThenjbKeLw21Vj2PKcmCECh8IwP5H%25250a%252f3dO8cfGKAUDgZDDs3DrF0FOj3Ss6UDdYSL%25252bWDIhbYVNwSYuxTe9ZtVVW61aQIyl%25250a1tVwrOfLmRkzrx0CxCukRTnslUHMJRdhrU74dHcP1JjdAadKTIv284wSrN7szuj6%25250aq16x57QwMAA54P5K%25252bGsArFkUUZYclu1Zt5AGuznnOCeUWbAJ9SCcNCnVHvMDpIvM%25250aJxgQNodLRhhz%252fsvwW9W5Fu2NbVzv2dYQLBwjar3ldNn1j6q1PDqwJtVxNF0M2bTl%25250auGIPCiYg8%25252bJ9Fk66aZSf2F6Y7zMJzjGi%252fj2IuwNRlrNCLR0E6gQrTJjTefWFGLcH%25250aRb7W7ZRo0a7tOnxoOdTfHbQ8%25252bD2GainR00I1z8TKJ72JfVUybtgT5KWhCeoi1zU8%25250ak%252fVMW1%252f7GUXaTsIZw6bMbRSgLks%25252bipJsCTDbEuOea7E4W5wG8F3j35e2kEp9vFyl%25250amTTQUL15YkScLS%25252bqEFTIBG2lTvFreBJMlhrzkns3GL5RveCDT3RJDHIj1Hh6TsPo%25250a%252ft0%25252bxESExiLpZgzEqO7vog%25253d%25253d%25250a%2526PubCert%253d%26ts%3D140904005102nhzjw3UlgLDqbjz3uptNqg001406%26src_flg%3D0%26OSv%3DIE11_WinVista+6.03.9600+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BINIpayTest%5D+%2861_secuni_npapi%29%26ip2%3D114.70.4.6</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.mondayapple.com</URL>
+	    <TXVersion>5034B120709securDarwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack></ManageInfo></INIpay>iS796Xifw0iX5HzXyKkbSAAYgi1mdZERDlEROITsphwYs9neULgUXGvaO3QViGKT
+l4Zc6TFB0P4Bf34y4EfUtmnZYLdCvGhokWZw389OY4XSwwnncTWhUawUs11vRSlJ
+BQI1jgX2KUPJPU6foAWSpsksZXVz2iYcTxlA7e4o4V0=
+]
+INFO	[2014-09-04 00:51:03:771] <6436> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2014-09-04 00:51:03:782] <6436> SOCKET CONNECT OK
+INFO	[2014-09-04 00:51:03:782] <6436> SEND OK
+INFO	[2014-09-04 00:51:06:0] <6436> RECV OK
+INFO	[2014-09-04 00:51:06:0] <6436> MSG_FROM_PG:[0270300175D SHA1                   0                  39                  300210INIpayTest                1000INIphpISP_INIpayTest20140904005103565947<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">oid_1234567890</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>INIpayTest</SMID>
+      <GoodsName urlencode="1">123</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>1000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>Wecz9oMP7FRLZq/U/X8owKKq+nJra9RmsTWbnD5YZHqZ32GCXYwW7gqC2+102wAc
+hd6T5kYOj/mE73SPVp9JSuJ8ptbhX5camOSfvbMdAZtOK9Snxp6OLc24sdjmhSNa
+t+0ARsLYbgc8VzE+d9tgMEtO3yFa51/EGaJqveGLORNYccjI4Vnsvw==
+</SessionKey>
+      <Encrypted>Xlw7IfsurEoCkCOynOiFS3I61Xk8CDxfWmWmbEM+uzpDJENv8mJxOq9bdmQXI/GD
+NQpUZ9eRsRSdz3uTA3SmA6g8QK9cw8+XYc8PRgrB3hDKdHTNO66pof07Seuocptu
+oLYBlMxwB9U6PEHo5NDalAOHj5ZuEOC0G778URJjuguD5u/agypifhIzh1feu/oo
+lDjKvLbFBOxrMs3tSE4L3ThUzHUqi39buabs1PknTScg7vtQQ0wwUczl6zZ1WPeU
+mSvhKUZ9hkwomVrK/m+OcOAggPVxmCciViRPXoqH65ZDK6PZKvgiK4EuKwnWVUWI
+uTK3pn2atpYmANnFbHQkHNiTYglrB8xZaiDSZTLdysyEcO9PdOxebVvHWuXSKWRu
+8SwcfsXEUJwv71hXFXpYuRIkeAR59CheM7PJs2xdOoq8cSRwwWF6H8LdXOxpnji0
+wzl2ahXr3yCF9xx1RuhS95J7SXRU/K6nOHB2tWSSJxFi8DmiQGLiLxfoyWB18wG6
+9MVXtX4PWKQLADnLzZl8O+yXLzCZjjuhJFs3PGEj7FnUdedvcfhX+U0EPfXt5Ue2
+/rhfPHh7P+kvYriNG5uEQEymDdytFdjp31lzIXGtFzgSqw99NgG7z5MIahs+4Lvh
+uFson/AYPuI7dd3hVWtf1ByCeNUW2PW+NXk3qQSm5cweTgoMeXtw59qHpzqaiMBm
+fDjHtlKPqH+PoKsg1KFLgK9h9A1zGdYP/ebpigNnvO0pX5cTQSYXXUsxHLQ1/N8x
+4JZAHD1whTYix8XurvcnNXSyy7fSxIu739P6MxJM+A/apC6m0YXXZccHlRfxRPyT
+0FYRbO2m7g1CF1MiGjq6UNevSKNexSlBihC+/iJd9DFPov42IkP2yYrlvylwM9Iw
+qGq5jVUZqQzMR8nNoJI0pLLvH8GoXgqDU8K2588UaKMtdq/WPqusbZDwBGJlTvq4
+E00PqJGiqi7vjktCgT9cKg92+gO30cCFPxEROEnC3GKwJ8+hkQG50O2HZqFrQIkS
+yHkoT2qY1p1M+1DrrFGQ+/soEnzEurjG4ZURpa9oUJ6uV91/VFo43P/qSOJnuwbf
+XPfA9p9JpsMyc7TTnHKjOMrfnqLS4DOila6CPV5wDSJopWEYLYellNvB95+UNtHE
+30I2Ymzbj16qYcV8ylCIF3dOZ5hRs37fSiQQKsgKirx9PrldI1y+1Z47ad5UovRd
+6d6rIZADuIBPlFHQrKmk95ja2jrb3SL4b+YtUitPp8R8yL9c7V0dWIhAlrNehzHz
+EvZ7CmV/9m0z/eROiFchP607WdwYw2T4/4NHpGitXlzwktNzfqAbu/W1LVRXl7bt
+UL00TubXlmc3lDp5apo9+95/hKBjj4Scz/zu1vcUaD1rUedNP/5LTrsDt0gIanHm
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+M7g7EZtiK6AD4ZdqOwXKGwsTjN++V6PH5f4YA0fmOpu90mk+Kc74sQD1HN/nrfxq
+WrcWCtHbccVptPNYZ1cyHUF1G98Xw039X4gQF77Sv6BKgjR3IFFTp2DjsCYtsukf
+5pdd4hUyX5h9YEJ3IJ6FM64/bu1wFT6GlaVFOPLpCtk=
+]
+INFO	[2014-09-04 00:51:06:0] <6436> VERIFY OK
+INFO	[2014-09-04 00:51:06:0] <6436> PARSE HEAD OK
+INFO	[2014-09-04 00:51:06:3] <6436> PARSE BODY OK
+INFO	[2014-09-04 00:51:06:15] <6436> DECRYPT OK
+DEBUG	[2014-09-04 00:51:06:15] <6436> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>1000</ISP_ApplPrice>
+      <ISP_BankCode>00</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>11</ISP_CardCode>
+      <ISP_CardNum>42142000****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20140904</ISP_ApplDate>
+      <ISP_ApplTime>005101</ISP_ApplTime>
+      <ISP_ApplNum>39355676</ISP_ApplNum>
+      <ISP_TerminalNum>019058I000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1">BC%C4%AB%B5%E5</ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1">%BA%F1%BE%BE%C4%AB%B5%E5</ISP_IssuerName>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2014-09-04 00:51:06:16] <6436> DECRYPT PARSE OK
+INFO	[2014-09-04 00:51:06:16] <6436> WAIT ACK INVOKING
+DEBUG	[2014-09-04 00:51:06:16] <6436> MAKE HEAD OK
+INFO	[2014-09-04 00:51:06:28] <6436> SUCCESS ACK INVOKING
+INFO	[2014-09-04 00:51:06:28] <6436> END securepay 정상완료 Laptime:[2.273sec]
+INFO	[2014-09-04 00:51:06:28] <6436> ===============================================================
+INFO	[2014-09-04 00:51:15:366] <6437> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 00:51:15:367] <6437> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 00:51:15:367] <6437> debug:true
+DEBUG	[2014-09-04 00:51:15:367] <6437> admin:1111
+DEBUG	[2014-09-04 00:51:15:367] <6437> mid:INIpayTest
+DEBUG	[2014-09-04 00:51:15:367] <6437> type:chkfake
+DEBUG	[2014-09-04 00:51:15:367] <6437> enctype:asym
+DEBUG	[2014-09-04 00:51:15:367] <6437> checkopt:false
+DEBUG	[2014-09-04 00:51:15:367] <6437> nointerest:no
+DEBUG	[2014-09-04 00:51:15:367] <6437> price:1000
+DEBUG	[2014-09-04 00:51:15:367] <6437> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 00:51:15:367] <6437> Check Field OK
+INFO	[2014-09-04 00:51:15:367] <6437> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 00:51:15:367] <6437> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 00:51:15:368] <6437> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMDUxMTUzNjcxNzQ0Ng==
+
+INFO	[2014-09-04 00:51:15:368] <6437> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 00:51:15:368] <6437> ===============================================================
+INFO	[2014-09-04 01:10:52:916] <6663> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:10:52:917] <6663> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:10:52:917] <6663> debug:true
+DEBUG	[2014-09-04 01:10:52:917] <6663> admin:1111
+DEBUG	[2014-09-04 01:10:52:917] <6663> mid:INIpayTest
+DEBUG	[2014-09-04 01:10:52:917] <6663> type:chkfake
+DEBUG	[2014-09-04 01:10:52:917] <6663> enctype:asym
+DEBUG	[2014-09-04 01:10:52:917] <6663> checkopt:false
+DEBUG	[2014-09-04 01:10:52:917] <6663> nointerest:no
+DEBUG	[2014-09-04 01:10:52:917] <6663> price:1000
+DEBUG	[2014-09-04 01:10:52:917] <6663> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:10:52:917] <6663> Check Field OK
+INFO	[2014-09-04 01:10:52:918] <6663> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:10:52:918] <6663> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:10:52:920] <6663> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTEwNTI5MTgzMDIyNQ==
+
+INFO	[2014-09-04 01:10:52:920] <6663> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 01:10:52:920] <6663> ===============================================================
+INFO	[2014-09-04 01:15:32:922] <6701> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:15:32:923] <6701> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:15:32:923] <6701> debug:true
+DEBUG	[2014-09-04 01:15:32:923] <6701> admin:1111
+DEBUG	[2014-09-04 01:15:32:923] <6701> mid:INIpayTest
+DEBUG	[2014-09-04 01:15:32:923] <6701> type:chkfake
+DEBUG	[2014-09-04 01:15:32:923] <6701> enctype:asym
+DEBUG	[2014-09-04 01:15:32:923] <6701> checkopt:false
+DEBUG	[2014-09-04 01:15:32:923] <6701> nointerest:no
+DEBUG	[2014-09-04 01:15:32:923] <6701> price:1000
+DEBUG	[2014-09-04 01:15:32:923] <6701> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:15:32:923] <6701> Check Field OK
+INFO	[2014-09-04 01:15:32:924] <6701> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:15:32:925] <6701> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:15:32:927] <6701> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTE1MzI5MjU3MTA1Mw==
+
+INFO	[2014-09-04 01:15:32:927] <6701> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 01:15:32:927] <6701> ===============================================================
+INFO	[2014-09-04 01:15:36:658] <6707> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:15:36:658] <6707> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:15:36:658] <6707> debug:true
+DEBUG	[2014-09-04 01:15:36:658] <6707> admin:1111
+DEBUG	[2014-09-04 01:15:36:658] <6707> mid:INIpayTest
+DEBUG	[2014-09-04 01:15:36:658] <6707> type:chkfake
+DEBUG	[2014-09-04 01:15:36:658] <6707> enctype:asym
+DEBUG	[2014-09-04 01:15:36:658] <6707> checkopt:false
+DEBUG	[2014-09-04 01:15:36:658] <6707> nointerest:no
+DEBUG	[2014-09-04 01:15:36:658] <6707> price:1000
+DEBUG	[2014-09-04 01:15:36:658] <6707> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:15:36:658] <6707> Check Field OK
+INFO	[2014-09-04 01:15:36:658] <6707> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:15:36:659] <6707> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:15:36:660] <6707> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTE1MzY2NTkyMTYxMA==
+
+INFO	[2014-09-04 01:15:36:660] <6707> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:15:36:660] <6707> ===============================================================
+INFO	[2014-09-04 01:15:36:784] <6708> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:15:36:784] <6708> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:15:36:784] <6708> debug:true
+DEBUG	[2014-09-04 01:15:36:784] <6708> admin:1111
+DEBUG	[2014-09-04 01:15:36:784] <6708> mid:INIpayTest
+DEBUG	[2014-09-04 01:15:36:784] <6708> type:chkfake
+DEBUG	[2014-09-04 01:15:36:784] <6708> enctype:asym
+DEBUG	[2014-09-04 01:15:36:784] <6708> checkopt:false
+DEBUG	[2014-09-04 01:15:36:784] <6708> nointerest:no
+DEBUG	[2014-09-04 01:15:36:784] <6708> price:1000
+DEBUG	[2014-09-04 01:15:36:784] <6708> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:15:36:784] <6708> Check Field OK
+INFO	[2014-09-04 01:15:36:784] <6708> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:15:36:784] <6708> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:15:36:785] <6708> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTE1MzY3ODQ3ODgxNg==
+
+INFO	[2014-09-04 01:15:36:785] <6708> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:15:36:785] <6708> ===============================================================
+INFO	[2014-09-04 01:56:27:517] <6805> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:56:27:518] <6805> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:56:27:518] <6805> debug:true
+DEBUG	[2014-09-04 01:56:27:518] <6805> admin:1111
+DEBUG	[2014-09-04 01:56:27:518] <6805> mid:INIpayTest
+DEBUG	[2014-09-04 01:56:27:518] <6805> type:chkfake
+DEBUG	[2014-09-04 01:56:27:518] <6805> enctype:asym
+DEBUG	[2014-09-04 01:56:27:518] <6805> checkopt:false
+DEBUG	[2014-09-04 01:56:27:518] <6805> nointerest:no
+DEBUG	[2014-09-04 01:56:27:518] <6805> price:1000
+DEBUG	[2014-09-04 01:56:27:518] <6805> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:56:27:518] <6805> Check Field OK
+INFO	[2014-09-04 01:56:27:520] <6805> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:56:27:521] <6805> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:56:27:522] <6805> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTU2Mjc1MjE4MjA5Nw==
+
+INFO	[2014-09-04 01:56:27:522] <6805> END chkfake  Laptime:[0.007sec]
+INFO	[2014-09-04 01:56:27:522] <6805> ===============================================================
+INFO	[2014-09-04 01:56:32:695] <6808> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:56:32:695] <6808> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:56:32:695] <6808> debug:true
+DEBUG	[2014-09-04 01:56:32:695] <6808> admin:1111
+DEBUG	[2014-09-04 01:56:32:695] <6808> mid:INIpayTest
+DEBUG	[2014-09-04 01:56:32:695] <6808> type:chkfake
+DEBUG	[2014-09-04 01:56:32:695] <6808> enctype:asym
+DEBUG	[2014-09-04 01:56:32:695] <6808> checkopt:false
+DEBUG	[2014-09-04 01:56:32:695] <6808> nointerest:no
+DEBUG	[2014-09-04 01:56:32:695] <6808> price:1000
+DEBUG	[2014-09-04 01:56:32:695] <6808> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:56:32:695] <6808> Check Field OK
+INFO	[2014-09-04 01:56:32:695] <6808> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:56:32:695] <6808> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:56:32:696] <6808> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTU2MzI2OTU0NzI1Mg==
+
+INFO	[2014-09-04 01:56:32:696] <6808> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:56:32:696] <6808> ===============================================================
+INFO	[2014-09-04 01:57:02:390] <6816> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:57:02:390] <6816> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:57:02:390] <6816> debug:true
+DEBUG	[2014-09-04 01:57:02:390] <6816> admin:1111
+DEBUG	[2014-09-04 01:57:02:390] <6816> mid:INIpayTest
+DEBUG	[2014-09-04 01:57:02:390] <6816> type:chkfake
+DEBUG	[2014-09-04 01:57:02:390] <6816> enctype:asym
+DEBUG	[2014-09-04 01:57:02:390] <6816> checkopt:false
+DEBUG	[2014-09-04 01:57:02:390] <6816> nointerest:no
+DEBUG	[2014-09-04 01:57:02:390] <6816> price:1000
+DEBUG	[2014-09-04 01:57:02:390] <6816> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:57:02:390] <6816> Check Field OK
+INFO	[2014-09-04 01:57:02:391] <6816> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:57:02:391] <6816> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:57:02:392] <6816> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTU3MDIzOTE4MjU1Mw==
+
+INFO	[2014-09-04 01:57:02:392] <6816> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:57:02:392] <6816> ===============================================================
+INFO	[2014-09-04 01:57:35:693] <6818> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:57:35:693] <6818> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:57:35:693] <6818> debug:true
+DEBUG	[2014-09-04 01:57:35:693] <6818> admin:1111
+DEBUG	[2014-09-04 01:57:35:693] <6818> mid:INIpayTest
+DEBUG	[2014-09-04 01:57:35:693] <6818> type:chkfake
+DEBUG	[2014-09-04 01:57:35:693] <6818> enctype:asym
+DEBUG	[2014-09-04 01:57:35:693] <6818> checkopt:false
+DEBUG	[2014-09-04 01:57:35:693] <6818> nointerest:no
+DEBUG	[2014-09-04 01:57:35:693] <6818> price:1000
+DEBUG	[2014-09-04 01:57:35:693] <6818> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:57:35:693] <6818> Check Field OK
+INFO	[2014-09-04 01:57:35:694] <6818> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:57:35:694] <6818> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:57:35:695] <6818> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTU3MzU2OTQ0Mzk4Nw==
+
+INFO	[2014-09-04 01:57:35:695] <6818> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:57:35:695] <6818> ===============================================================
+INFO	[2014-09-04 01:57:45:597] <6821> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 01:57:45:597] <6821> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 01:57:45:597] <6821> debug:true
+DEBUG	[2014-09-04 01:57:45:597] <6821> admin:1111
+DEBUG	[2014-09-04 01:57:45:597] <6821> mid:INIpayTest
+DEBUG	[2014-09-04 01:57:45:597] <6821> type:chkfake
+DEBUG	[2014-09-04 01:57:45:597] <6821> enctype:asym
+DEBUG	[2014-09-04 01:57:45:597] <6821> checkopt:false
+DEBUG	[2014-09-04 01:57:45:597] <6821> nointerest:no
+DEBUG	[2014-09-04 01:57:45:597] <6821> price:1000
+DEBUG	[2014-09-04 01:57:45:597] <6821> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 01:57:45:597] <6821> Check Field OK
+INFO	[2014-09-04 01:57:45:597] <6821> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 01:57:45:598] <6821> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 01:57:45:599] <6821> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMTU3NDU1OTgzMjAwNQ==
+
+INFO	[2014-09-04 01:57:45:599] <6821> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 01:57:45:599] <6821> ===============================================================
+INFO	[2014-09-04 02:02:45:497] <6849> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:02:45:497] <6849> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:02:45:497] <6849> debug:true
+DEBUG	[2014-09-04 02:02:45:497] <6849> admin:1111
+DEBUG	[2014-09-04 02:02:45:497] <6849> mid:INIpayTest
+DEBUG	[2014-09-04 02:02:45:497] <6849> type:chkfake
+DEBUG	[2014-09-04 02:02:45:497] <6849> enctype:asym
+DEBUG	[2014-09-04 02:02:45:497] <6849> checkopt:false
+DEBUG	[2014-09-04 02:02:45:497] <6849> nointerest:no
+DEBUG	[2014-09-04 02:02:45:497] <6849> price:1000
+DEBUG	[2014-09-04 02:02:45:497] <6849> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:02:45:497] <6849> Check Field OK
+INFO	[2014-09-04 02:02:45:497] <6849> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:02:45:497] <6849> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:02:45:499] <6849> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjAyNDU0OTc1NzY2Ng==
+
+INFO	[2014-09-04 02:02:45:499] <6849> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:02:45:499] <6849> ===============================================================
+INFO	[2014-09-04 02:03:00:919] <6850> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:03:00:920] <6850> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:03:00:920] <6850> debug:true
+DEBUG	[2014-09-04 02:03:00:920] <6850> admin:1111
+DEBUG	[2014-09-04 02:03:00:920] <6850> mid:INIpayTest
+DEBUG	[2014-09-04 02:03:00:920] <6850> type:chkfake
+DEBUG	[2014-09-04 02:03:00:920] <6850> enctype:asym
+DEBUG	[2014-09-04 02:03:00:920] <6850> checkopt:false
+DEBUG	[2014-09-04 02:03:00:920] <6850> nointerest:no
+DEBUG	[2014-09-04 02:03:00:920] <6850> price:1000
+DEBUG	[2014-09-04 02:03:00:920] <6850> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:03:00:920] <6850> Check Field OK
+INFO	[2014-09-04 02:03:00:920] <6850> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:03:00:920] <6850> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:03:00:921] <6850> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjAzMDA5MjAzMTY1NQ==
+
+INFO	[2014-09-04 02:03:00:921] <6850> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:03:00:921] <6850> ===============================================================
+INFO	[2014-09-04 02:03:08:91] <6851> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:03:08:91] <6851> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:03:08:91] <6851> debug:true
+DEBUG	[2014-09-04 02:03:08:91] <6851> admin:1111
+DEBUG	[2014-09-04 02:03:08:91] <6851> mid:INIpayTest
+DEBUG	[2014-09-04 02:03:08:91] <6851> type:chkfake
+DEBUG	[2014-09-04 02:03:08:91] <6851> enctype:asym
+DEBUG	[2014-09-04 02:03:08:91] <6851> checkopt:false
+DEBUG	[2014-09-04 02:03:08:91] <6851> nointerest:no
+DEBUG	[2014-09-04 02:03:08:91] <6851> price:1000
+DEBUG	[2014-09-04 02:03:08:91] <6851> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:03:08:91] <6851> Check Field OK
+INFO	[2014-09-04 02:03:08:91] <6851> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:03:08:91] <6851> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:03:08:93] <6851> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjAzMDgwOTE3MjU1OA==
+
+INFO	[2014-09-04 02:03:08:93] <6851> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:03:08:93] <6851> ===============================================================
+INFO	[2014-09-04 02:03:50:223] <6867> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:03:50:223] <6867> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:03:50:223] <6867> debug:true
+DEBUG	[2014-09-04 02:03:50:223] <6867> admin:1111
+DEBUG	[2014-09-04 02:03:50:223] <6867> mid:INIpayTest
+DEBUG	[2014-09-04 02:03:50:223] <6867> type:chkfake
+DEBUG	[2014-09-04 02:03:50:223] <6867> enctype:asym
+DEBUG	[2014-09-04 02:03:50:223] <6867> checkopt:false
+DEBUG	[2014-09-04 02:03:50:223] <6867> nointerest:no
+DEBUG	[2014-09-04 02:03:50:223] <6867> price:1000
+DEBUG	[2014-09-04 02:03:50:223] <6867> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:03:50:223] <6867> Check Field OK
+INFO	[2014-09-04 02:03:50:224] <6867> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:03:50:224] <6867> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:03:50:226] <6867> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjAzNTAyMjQ4NTQwOQ==
+
+INFO	[2014-09-04 02:03:50:226] <6867> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 02:03:50:226] <6867> ===============================================================
+INFO	[2014-09-04 02:04:32:800] <6874> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:04:32:801] <6874> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:04:32:801] <6874> debug:true
+DEBUG	[2014-09-04 02:04:32:801] <6874> admin:1111
+DEBUG	[2014-09-04 02:04:32:801] <6874> mid:INIpayTest
+DEBUG	[2014-09-04 02:04:32:801] <6874> type:chkfake
+DEBUG	[2014-09-04 02:04:32:801] <6874> enctype:asym
+DEBUG	[2014-09-04 02:04:32:801] <6874> checkopt:false
+DEBUG	[2014-09-04 02:04:32:801] <6874> nointerest:no
+DEBUG	[2014-09-04 02:04:32:801] <6874> price:1000
+DEBUG	[2014-09-04 02:04:32:801] <6874> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:04:32:801] <6874> Check Field OK
+INFO	[2014-09-04 02:04:32:801] <6874> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:04:32:802] <6874> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:04:32:803] <6874> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjA0MzI4MDIzNDk4Nw==
+
+INFO	[2014-09-04 02:04:32:803] <6874> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 02:04:32:803] <6874> ===============================================================
+INFO	[2014-09-04 02:05:00:802] <6877> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:05:00:802] <6877> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:05:00:802] <6877> debug:true
+DEBUG	[2014-09-04 02:05:00:802] <6877> admin:1111
+DEBUG	[2014-09-04 02:05:00:802] <6877> mid:INIpayTest
+DEBUG	[2014-09-04 02:05:00:802] <6877> type:chkfake
+DEBUG	[2014-09-04 02:05:00:802] <6877> enctype:asym
+DEBUG	[2014-09-04 02:05:00:802] <6877> checkopt:false
+DEBUG	[2014-09-04 02:05:00:802] <6877> nointerest:no
+DEBUG	[2014-09-04 02:05:00:802] <6877> price:1000
+DEBUG	[2014-09-04 02:05:00:802] <6877> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:05:00:802] <6877> Check Field OK
+INFO	[2014-09-04 02:05:00:802] <6877> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:05:00:803] <6877> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:05:00:804] <6877> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjA1MDA4MDM0NjIxOA==
+
+INFO	[2014-09-04 02:05:00:804] <6877> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:05:00:804] <6877> ===============================================================
+INFO	[2014-09-04 02:13:36:465] <6935> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:13:36:465] <6935> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:13:36:465] <6935> debug:true
+DEBUG	[2014-09-04 02:13:36:465] <6935> admin:1111
+DEBUG	[2014-09-04 02:13:36:465] <6935> mid:INIpayTest
+DEBUG	[2014-09-04 02:13:36:465] <6935> type:chkfake
+DEBUG	[2014-09-04 02:13:36:465] <6935> enctype:asym
+DEBUG	[2014-09-04 02:13:36:465] <6935> checkopt:false
+DEBUG	[2014-09-04 02:13:36:465] <6935> nointerest:no
+DEBUG	[2014-09-04 02:13:36:465] <6935> price:1000
+DEBUG	[2014-09-04 02:13:36:465] <6935> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:13:36:465] <6935> Check Field OK
+INFO	[2014-09-04 02:13:36:466] <6935> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:13:36:466] <6935> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:13:36:468] <6935> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjEzMzY0NjYzMzc0Mg==
+
+INFO	[2014-09-04 02:13:36:468] <6935> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 02:13:36:468] <6935> ===============================================================
+INFO	[2014-09-04 02:14:12:896] <6939> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:14:12:896] <6939> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:14:12:896] <6939> debug:true
+DEBUG	[2014-09-04 02:14:12:896] <6939> admin:1111
+DEBUG	[2014-09-04 02:14:12:896] <6939> mid:INIpayTest
+DEBUG	[2014-09-04 02:14:12:896] <6939> type:chkfake
+DEBUG	[2014-09-04 02:14:12:896] <6939> enctype:asym
+DEBUG	[2014-09-04 02:14:12:896] <6939> checkopt:false
+DEBUG	[2014-09-04 02:14:12:896] <6939> nointerest:no
+DEBUG	[2014-09-04 02:14:12:896] <6939> price:1000
+DEBUG	[2014-09-04 02:14:12:896] <6939> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:14:12:896] <6939> Check Field OK
+INFO	[2014-09-04 02:14:12:896] <6939> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:14:12:896] <6939> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:14:12:898] <6939> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE0MTI4OTYxNzY0Ng==
+
+INFO	[2014-09-04 02:14:12:898] <6939> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:14:12:898] <6939> ===============================================================
+INFO	[2014-09-04 02:14:30:336] <6942> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:14:30:336] <6942> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:14:30:336] <6942> debug:true
+DEBUG	[2014-09-04 02:14:30:336] <6942> admin:1111
+DEBUG	[2014-09-04 02:14:30:336] <6942> mid:INIpayTest
+DEBUG	[2014-09-04 02:14:30:336] <6942> type:chkfake
+DEBUG	[2014-09-04 02:14:30:336] <6942> enctype:asym
+DEBUG	[2014-09-04 02:14:30:336] <6942> checkopt:false
+DEBUG	[2014-09-04 02:14:30:336] <6942> nointerest:no
+DEBUG	[2014-09-04 02:14:30:336] <6942> price:1000
+DEBUG	[2014-09-04 02:14:30:336] <6942> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:14:30:337] <6942> Check Field OK
+INFO	[2014-09-04 02:14:30:337] <6942> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:14:30:337] <6942> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:14:30:338] <6942> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE0MzAzMzc3NTcwNg==
+
+INFO	[2014-09-04 02:14:30:338] <6942> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:14:30:338] <6942> ===============================================================
+INFO	[2014-09-04 02:14:45:840] <6948> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:14:45:840] <6948> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:14:45:840] <6948> debug:true
+DEBUG	[2014-09-04 02:14:45:840] <6948> admin:1111
+DEBUG	[2014-09-04 02:14:45:840] <6948> mid:INIpayTest
+DEBUG	[2014-09-04 02:14:45:840] <6948> type:chkfake
+DEBUG	[2014-09-04 02:14:45:840] <6948> enctype:asym
+DEBUG	[2014-09-04 02:14:45:840] <6948> checkopt:false
+DEBUG	[2014-09-04 02:14:45:840] <6948> nointerest:no
+DEBUG	[2014-09-04 02:14:45:840] <6948> price:1000
+DEBUG	[2014-09-04 02:14:45:840] <6948> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:14:45:840] <6948> Check Field OK
+INFO	[2014-09-04 02:14:45:840] <6948> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:14:45:840] <6948> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:14:45:842] <6948> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE0NDU4NDA1NDQ4NQ==
+
+INFO	[2014-09-04 02:14:45:842] <6948> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:14:45:842] <6948> ===============================================================
+INFO	[2014-09-04 02:15:35:290] <6950> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:15:35:290] <6950> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:15:35:290] <6950> debug:true
+DEBUG	[2014-09-04 02:15:35:290] <6950> admin:1111
+DEBUG	[2014-09-04 02:15:35:290] <6950> mid:INIpayTest
+DEBUG	[2014-09-04 02:15:35:290] <6950> type:chkfake
+DEBUG	[2014-09-04 02:15:35:290] <6950> enctype:asym
+DEBUG	[2014-09-04 02:15:35:290] <6950> checkopt:false
+DEBUG	[2014-09-04 02:15:35:290] <6950> nointerest:no
+DEBUG	[2014-09-04 02:15:35:290] <6950> price:1000
+DEBUG	[2014-09-04 02:15:35:290] <6950> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:15:35:290] <6950> Check Field OK
+INFO	[2014-09-04 02:15:35:291] <6950> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:15:35:291] <6950> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:15:35:293] <6950> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE1MzUyOTE2NTQzMQ==
+
+INFO	[2014-09-04 02:15:35:293] <6950> END chkfake  Laptime:[0.004sec]
+INFO	[2014-09-04 02:15:35:293] <6950> ===============================================================
+INFO	[2014-09-04 02:16:16:614] <6959> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:16:16:614] <6959> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:16:16:614] <6959> debug:true
+DEBUG	[2014-09-04 02:16:16:614] <6959> admin:1111
+DEBUG	[2014-09-04 02:16:16:614] <6959> mid:INIpayTest
+DEBUG	[2014-09-04 02:16:16:614] <6959> type:chkfake
+DEBUG	[2014-09-04 02:16:16:614] <6959> enctype:asym
+DEBUG	[2014-09-04 02:16:16:614] <6959> checkopt:false
+DEBUG	[2014-09-04 02:16:16:614] <6959> nointerest:no
+DEBUG	[2014-09-04 02:16:16:614] <6959> price:1000
+DEBUG	[2014-09-04 02:16:16:614] <6959> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:16:16:614] <6959> Check Field OK
+INFO	[2014-09-04 02:16:16:614] <6959> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:16:16:614] <6959> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:16:16:616] <6959> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE2MTY2MTQ3NjQ2Mg==
+
+INFO	[2014-09-04 02:16:16:616] <6959> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:16:16:616] <6959> ===============================================================
+INFO	[2014-09-04 02:16:46:643] <6966> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:16:46:643] <6966> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:16:46:643] <6966> debug:true
+DEBUG	[2014-09-04 02:16:46:643] <6966> admin:1111
+DEBUG	[2014-09-04 02:16:46:643] <6966> mid:INIpayTest
+DEBUG	[2014-09-04 02:16:46:643] <6966> type:chkfake
+DEBUG	[2014-09-04 02:16:46:643] <6966> enctype:asym
+DEBUG	[2014-09-04 02:16:46:643] <6966> checkopt:false
+DEBUG	[2014-09-04 02:16:46:643] <6966> nointerest:no
+DEBUG	[2014-09-04 02:16:46:643] <6966> price:1000
+DEBUG	[2014-09-04 02:16:46:643] <6966> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:16:46:643] <6966> Check Field OK
+INFO	[2014-09-04 02:16:46:644] <6966> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:16:46:644] <6966> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:16:46:646] <6966> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE2NDY2NDQ5NjcxMQ==
+
+INFO	[2014-09-04 02:16:46:646] <6966> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-04 02:16:46:646] <6966> ===============================================================
+INFO	[2014-09-04 02:17:14:997] <6967> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:17:14:998] <6967> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:17:14:998] <6967> debug:true
+DEBUG	[2014-09-04 02:17:14:998] <6967> admin:1111
+DEBUG	[2014-09-04 02:17:14:998] <6967> mid:INIpayTest
+DEBUG	[2014-09-04 02:17:14:998] <6967> type:chkfake
+DEBUG	[2014-09-04 02:17:14:998] <6967> enctype:asym
+DEBUG	[2014-09-04 02:17:14:998] <6967> checkopt:false
+DEBUG	[2014-09-04 02:17:14:998] <6967> nointerest:no
+DEBUG	[2014-09-04 02:17:14:998] <6967> price:1000
+DEBUG	[2014-09-04 02:17:14:998] <6967> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:17:14:998] <6967> Check Field OK
+INFO	[2014-09-04 02:17:14:998] <6967> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:17:14:999] <6967> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:17:15:1] <6967> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE3MTUwMDAxMzY4NQ==
+
+INFO	[2014-09-04 02:17:15:1] <6967> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 02:17:15:1] <6967> ===============================================================
+INFO	[2014-09-04 02:17:51:516] <6974> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:17:51:516] <6974> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:17:51:516] <6974> debug:true
+DEBUG	[2014-09-04 02:17:51:516] <6974> admin:1111
+DEBUG	[2014-09-04 02:17:51:516] <6974> mid:INIpayTest
+DEBUG	[2014-09-04 02:17:51:516] <6974> type:chkfake
+DEBUG	[2014-09-04 02:17:51:516] <6974> enctype:asym
+DEBUG	[2014-09-04 02:17:51:516] <6974> checkopt:false
+DEBUG	[2014-09-04 02:17:51:516] <6974> nointerest:no
+DEBUG	[2014-09-04 02:17:51:516] <6974> price:1000
+DEBUG	[2014-09-04 02:17:51:516] <6974> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:17:51:516] <6974> Check Field OK
+INFO	[2014-09-04 02:17:51:517] <6974> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:17:51:518] <6974> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:17:51:519] <6974> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE3NTE1MTg1OTAzMw==
+
+INFO	[2014-09-04 02:17:51:519] <6974> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 02:17:51:519] <6974> ===============================================================
+INFO	[2014-09-04 02:18:31:913] <6978> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 02:18:31:913] <6978> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 02:18:31:913] <6978> debug:true
+DEBUG	[2014-09-04 02:18:31:913] <6978> admin:1111
+DEBUG	[2014-09-04 02:18:31:913] <6978> mid:INIpayTest
+DEBUG	[2014-09-04 02:18:31:913] <6978> type:chkfake
+DEBUG	[2014-09-04 02:18:31:913] <6978> enctype:asym
+DEBUG	[2014-09-04 02:18:31:913] <6978> checkopt:false
+DEBUG	[2014-09-04 02:18:31:913] <6978> nointerest:no
+DEBUG	[2014-09-04 02:18:31:913] <6978> price:1000
+DEBUG	[2014-09-04 02:18:31:913] <6978> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 02:18:31:913] <6978> Check Field OK
+INFO	[2014-09-04 02:18:31:913] <6978> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 02:18:31:913] <6978> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 02:18:31:914] <6978> CHKFAKE KEY MAKE OK:MjAxNDA5MDQwMjE4MzE5MTM4MTI2Ng==
+
+INFO	[2014-09-04 02:18:31:914] <6978> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 02:18:31:914] <6978> ===============================================================
+INFO	[2014-09-04 13:02:15:914] <7548> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:02:15:915] <7548> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:02:15:915] <7548> debug:true
+DEBUG	[2014-09-04 13:02:15:915] <7548> admin:1111
+DEBUG	[2014-09-04 13:02:15:915] <7548> mid:INIpayTest
+DEBUG	[2014-09-04 13:02:15:915] <7548> type:chkfake
+DEBUG	[2014-09-04 13:02:15:915] <7548> enctype:asym
+DEBUG	[2014-09-04 13:02:15:915] <7548> checkopt:false
+DEBUG	[2014-09-04 13:02:15:915] <7548> nointerest:no
+DEBUG	[2014-09-04 13:02:15:915] <7548> price:1000
+DEBUG	[2014-09-04 13:02:15:915] <7548> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:02:15:915] <7548> Check Field OK
+INFO	[2014-09-04 13:02:15:916] <7548> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:02:15:917] <7548> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:02:15:919] <7548> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzAyMTU5MTc5MDEwMg==
+
+INFO	[2014-09-04 13:02:15:919] <7548> END chkfake  Laptime:[0.006sec]
+INFO	[2014-09-04 13:02:15:919] <7548> ===============================================================
+INFO	[2014-09-04 13:02:38:639] <7551> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:02:38:639] <7551> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:02:38:639] <7551> debug:true
+DEBUG	[2014-09-04 13:02:38:639] <7551> admin:1111
+DEBUG	[2014-09-04 13:02:38:639] <7551> mid:INIpayTest
+DEBUG	[2014-09-04 13:02:38:639] <7551> type:chkfake
+DEBUG	[2014-09-04 13:02:38:639] <7551> enctype:asym
+DEBUG	[2014-09-04 13:02:38:639] <7551> checkopt:false
+DEBUG	[2014-09-04 13:02:38:639] <7551> nointerest:no
+DEBUG	[2014-09-04 13:02:38:639] <7551> price:1000
+DEBUG	[2014-09-04 13:02:38:639] <7551> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:02:38:639] <7551> Check Field OK
+INFO	[2014-09-04 13:02:38:639] <7551> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:02:38:639] <7551> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:02:38:642] <7551> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzAyMzg2MzkxMDY1Ng==
+
+INFO	[2014-09-04 13:02:38:642] <7551> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-04 13:02:38:642] <7551> ===============================================================
+INFO	[2014-09-04 13:02:47:537] <7553> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:02:47:537] <7553> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:02:47:537] <7553> debug:true
+DEBUG	[2014-09-04 13:02:47:537] <7553> admin:1111
+DEBUG	[2014-09-04 13:02:47:537] <7553> mid:INIpayTest
+DEBUG	[2014-09-04 13:02:47:537] <7553> type:chkfake
+DEBUG	[2014-09-04 13:02:47:537] <7553> enctype:asym
+DEBUG	[2014-09-04 13:02:47:537] <7553> checkopt:false
+DEBUG	[2014-09-04 13:02:47:537] <7553> nointerest:no
+DEBUG	[2014-09-04 13:02:47:537] <7553> price:1000
+DEBUG	[2014-09-04 13:02:47:537] <7553> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:02:47:537] <7553> Check Field OK
+INFO	[2014-09-04 13:02:47:537] <7553> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:02:47:537] <7553> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:02:47:538] <7553> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzAyNDc1Mzc0NzA4Nw==
+
+INFO	[2014-09-04 13:02:47:538] <7553> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:02:47:538] <7553> ===============================================================
+INFO	[2014-09-04 13:03:09:994] <7555> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:03:09:994] <7555> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:03:09:994] <7555> debug:true
+DEBUG	[2014-09-04 13:03:09:994] <7555> admin:1111
+DEBUG	[2014-09-04 13:03:09:994] <7555> mid:INIpayTest
+DEBUG	[2014-09-04 13:03:09:994] <7555> type:chkfake
+DEBUG	[2014-09-04 13:03:09:994] <7555> enctype:asym
+DEBUG	[2014-09-04 13:03:09:994] <7555> checkopt:false
+DEBUG	[2014-09-04 13:03:09:994] <7555> nointerest:no
+DEBUG	[2014-09-04 13:03:09:994] <7555> price:1000
+DEBUG	[2014-09-04 13:03:09:994] <7555> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:03:09:994] <7555> Check Field OK
+INFO	[2014-09-04 13:03:09:994] <7555> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:03:09:994] <7555> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:03:09:996] <7555> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzAzMDk5OTQ2ODI1OQ==
+
+INFO	[2014-09-04 13:03:09:996] <7555> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:03:09:996] <7555> ===============================================================
+INFO	[2014-09-04 13:04:27:345] <7562> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:27:345] <7562> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:27:345] <7562> debug:true
+DEBUG	[2014-09-04 13:04:27:345] <7562> admin:1111
+DEBUG	[2014-09-04 13:04:27:345] <7562> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:27:345] <7562> type:chkfake
+DEBUG	[2014-09-04 13:04:27:345] <7562> enctype:asym
+DEBUG	[2014-09-04 13:04:27:345] <7562> checkopt:false
+DEBUG	[2014-09-04 13:04:27:345] <7562> nointerest:no
+DEBUG	[2014-09-04 13:04:27:345] <7562> price:1000
+DEBUG	[2014-09-04 13:04:27:345] <7562> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:27:345] <7562> Check Field OK
+INFO	[2014-09-04 13:04:27:345] <7562> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:27:345] <7562> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:27:347] <7562> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0MjczNDUzMTI5Mg==
+
+INFO	[2014-09-04 13:04:27:347] <7562> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:27:347] <7562> ===============================================================
+INFO	[2014-09-04 13:04:27:463] <7563> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:27:464] <7563> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:27:464] <7563> debug:true
+DEBUG	[2014-09-04 13:04:27:464] <7563> admin:1111
+DEBUG	[2014-09-04 13:04:27:464] <7563> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:27:464] <7563> type:chkfake
+DEBUG	[2014-09-04 13:04:27:464] <7563> enctype:asym
+DEBUG	[2014-09-04 13:04:27:464] <7563> checkopt:false
+DEBUG	[2014-09-04 13:04:27:464] <7563> nointerest:no
+DEBUG	[2014-09-04 13:04:27:464] <7563> price:1000
+DEBUG	[2014-09-04 13:04:27:464] <7563> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:27:464] <7563> Check Field OK
+INFO	[2014-09-04 13:04:27:464] <7563> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:27:464] <7563> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:27:465] <7563> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0Mjc0NjQ4MzI3MA==
+
+INFO	[2014-09-04 13:04:27:465] <7563> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:27:465] <7563> ===============================================================
+INFO	[2014-09-04 13:04:28:32] <7565> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:28:32] <7565> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:28:32] <7565> debug:true
+DEBUG	[2014-09-04 13:04:28:32] <7565> admin:1111
+DEBUG	[2014-09-04 13:04:28:32] <7565> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:28:32] <7565> type:chkfake
+DEBUG	[2014-09-04 13:04:28:32] <7565> enctype:asym
+DEBUG	[2014-09-04 13:04:28:32] <7565> checkopt:false
+DEBUG	[2014-09-04 13:04:28:32] <7565> nointerest:no
+DEBUG	[2014-09-04 13:04:28:32] <7565> price:1000
+DEBUG	[2014-09-04 13:04:28:32] <7565> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:28:32] <7565> Check Field OK
+INFO	[2014-09-04 13:04:28:32] <7565> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:28:32] <7565> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:28:34] <7565> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0MjgwMzI2ODgxNg==
+
+INFO	[2014-09-04 13:04:28:34] <7565> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-04 13:04:28:34] <7565> ===============================================================
+INFO	[2014-09-04 13:04:28:165] <7567> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:28:165] <7567> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:28:165] <7567> debug:true
+DEBUG	[2014-09-04 13:04:28:165] <7567> admin:1111
+DEBUG	[2014-09-04 13:04:28:165] <7567> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:28:165] <7567> type:chkfake
+DEBUG	[2014-09-04 13:04:28:165] <7567> enctype:asym
+DEBUG	[2014-09-04 13:04:28:165] <7567> checkopt:false
+DEBUG	[2014-09-04 13:04:28:165] <7567> nointerest:no
+DEBUG	[2014-09-04 13:04:28:165] <7567> price:1000
+DEBUG	[2014-09-04 13:04:28:165] <7567> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:28:165] <7567> Check Field OK
+INFO	[2014-09-04 13:04:28:165] <7567> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:28:166] <7567> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:28:167] <7567> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0MjgxNjY4OTE5NQ==
+
+INFO	[2014-09-04 13:04:28:167] <7567> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:28:167] <7567> ===============================================================
+INFO	[2014-09-04 13:04:31:41] <7570> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:31:41] <7570> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:31:41] <7570> debug:true
+DEBUG	[2014-09-04 13:04:31:41] <7570> admin:1111
+DEBUG	[2014-09-04 13:04:31:41] <7570> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:31:41] <7570> type:chkfake
+DEBUG	[2014-09-04 13:04:31:41] <7570> enctype:asym
+DEBUG	[2014-09-04 13:04:31:41] <7570> checkopt:false
+DEBUG	[2014-09-04 13:04:31:41] <7570> nointerest:no
+DEBUG	[2014-09-04 13:04:31:41] <7570> price:1000
+DEBUG	[2014-09-04 13:04:31:41] <7570> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:31:41] <7570> Check Field OK
+INFO	[2014-09-04 13:04:31:41] <7570> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:31:41] <7570> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:31:43] <7570> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0MzEwNDExOTY3OA==
+
+INFO	[2014-09-04 13:04:31:43] <7570> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:31:43] <7570> ===============================================================
+INFO	[2014-09-04 13:04:31:154] <7571> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:31:154] <7571> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:31:154] <7571> debug:true
+DEBUG	[2014-09-04 13:04:31:154] <7571> admin:1111
+DEBUG	[2014-09-04 13:04:31:154] <7571> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:31:154] <7571> type:chkfake
+DEBUG	[2014-09-04 13:04:31:154] <7571> enctype:asym
+DEBUG	[2014-09-04 13:04:31:154] <7571> checkopt:false
+DEBUG	[2014-09-04 13:04:31:154] <7571> nointerest:no
+DEBUG	[2014-09-04 13:04:31:154] <7571> price:1000
+DEBUG	[2014-09-04 13:04:31:154] <7571> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:31:154] <7571> Check Field OK
+INFO	[2014-09-04 13:04:31:154] <7571> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:31:154] <7571> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:31:156] <7571> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0MzExNTQ4MDMwMA==
+
+INFO	[2014-09-04 13:04:31:156] <7571> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:31:156] <7571> ===============================================================
+INFO	[2014-09-04 13:04:54:508] <7575> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:04:54:508] <7575> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:04:54:508] <7575> debug:true
+DEBUG	[2014-09-04 13:04:54:508] <7575> admin:1111
+DEBUG	[2014-09-04 13:04:54:508] <7575> mid:INIpayTest
+DEBUG	[2014-09-04 13:04:54:508] <7575> type:chkfake
+DEBUG	[2014-09-04 13:04:54:508] <7575> enctype:asym
+DEBUG	[2014-09-04 13:04:54:508] <7575> checkopt:false
+DEBUG	[2014-09-04 13:04:54:508] <7575> nointerest:no
+DEBUG	[2014-09-04 13:04:54:508] <7575> price:1000
+DEBUG	[2014-09-04 13:04:54:508] <7575> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:04:54:508] <7575> Check Field OK
+INFO	[2014-09-04 13:04:54:508] <7575> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:04:54:508] <7575> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:04:54:510] <7575> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA0NTQ1MDg2NjgzOQ==
+
+INFO	[2014-09-04 13:04:54:510] <7575> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 13:04:54:510] <7575> ===============================================================
+INFO	[2014-09-04 13:05:28:76] <7580> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 13:05:28:76] <7580> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 13:05:28:76] <7580> debug:true
+DEBUG	[2014-09-04 13:05:28:76] <7580> admin:1111
+DEBUG	[2014-09-04 13:05:28:76] <7580> mid:INIpayTest
+DEBUG	[2014-09-04 13:05:28:76] <7580> type:chkfake
+DEBUG	[2014-09-04 13:05:28:76] <7580> enctype:asym
+DEBUG	[2014-09-04 13:05:28:76] <7580> checkopt:false
+DEBUG	[2014-09-04 13:05:28:76] <7580> nointerest:no
+DEBUG	[2014-09-04 13:05:28:76] <7580> price:1000
+DEBUG	[2014-09-04 13:05:28:76] <7580> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 13:05:28:76] <7580> Check Field OK
+INFO	[2014-09-04 13:05:28:76] <7580> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 13:05:28:76] <7580> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 13:05:28:79] <7580> CHKFAKE KEY MAKE OK:MjAxNDA5MDQxMzA1MjgwNzYyODIwOQ==
+
+INFO	[2014-09-04 13:05:28:79] <7580> END chkfake  Laptime:[0.003sec]
+INFO	[2014-09-04 13:05:28:79] <7580> ===============================================================
+INFO	[2014-09-04 23:29:15:180] <9430> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:29:15:180] <9430> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:29:15:180] <9430> debug:true
+DEBUG	[2014-09-04 23:29:15:180] <9430> admin:1111
+DEBUG	[2014-09-04 23:29:15:180] <9430> mid:INIpayTest
+DEBUG	[2014-09-04 23:29:15:180] <9430> type:chkfake
+DEBUG	[2014-09-04 23:29:15:180] <9430> enctype:asym
+DEBUG	[2014-09-04 23:29:15:180] <9430> checkopt:false
+DEBUG	[2014-09-04 23:29:15:180] <9430> nointerest:no
+DEBUG	[2014-09-04 23:29:15:180] <9430> price:1000
+DEBUG	[2014-09-04 23:29:15:180] <9430> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:29:15:181] <9430> Check Field OK
+INFO	[2014-09-04 23:29:15:183] <9430> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:29:15:187] <9430> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:29:15:190] <9430> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzI5MTUxODczNDAxMg==
+
+INFO	[2014-09-04 23:29:15:190] <9430> END chkfake  Laptime:[0.011sec]
+INFO	[2014-09-04 23:29:15:190] <9430> ===============================================================
+INFO	[2014-09-04 23:29:26:365] <9439> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:29:26:365] <9439> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:29:26:365] <9439> debug:true
+DEBUG	[2014-09-04 23:29:26:365] <9439> admin:1111
+DEBUG	[2014-09-04 23:29:26:365] <9439> mid:INIpayTest
+DEBUG	[2014-09-04 23:29:26:365] <9439> type:securepay
+DEBUG	[2014-09-04 23:29:26:365] <9439> subpgip:203.238.3.10
+DEBUG	[2014-09-04 23:29:26:365] <9439> pgid:INIphp
+DEBUG	[2014-09-04 23:29:26:365] <9439> buyername:홍진우
+DEBUG	[2014-09-04 23:29:26:365] <9439> buyertel:1412313
+DEBUG	[2014-09-04 23:29:26:365] <9439> buyeremail:ㅁㅈ대ㅑ럼ㅈㄹ
+DEBUG	[2014-09-04 23:29:26:365] <9439> goodname:123
+DEBUG	[2014-09-04 23:29:26:365] <9439> price:
+DEBUG	[2014-09-04 23:29:26:365] <9439> currency:WON
+DEBUG	[2014-09-04 23:29:26:365] <9439> paymethod:
+DEBUG	[2014-09-04 23:29:26:365] <9439> encrypted:
+DEBUG	[2014-09-04 23:29:26:365] <9439> sessionkey:
+DEBUG	[2014-09-04 23:29:26:365] <9439> enctype:
+DEBUG	[2014-09-04 23:29:26:365] <9439> rn:
+DEBUG	[2014-09-04 23:29:26:365] <9439> uid:
+DEBUG	[2014-09-04 23:29:26:365] <9439> url:http://www.mondayapple.com
+ERROR	[2014-09-04 23:29:26:409] <9439> 필수항목(price)이 누락되었습니다.
+INFO	[2014-09-04 23:29:26:409] <9439> END securepay [TX9207|필수항목(price)이 누락되었습니다.] Laptime:[0.044sec]
+INFO	[2014-09-04 23:29:26:409] <9439> ===============================================================
+INFO	[2014-09-04 23:29:26:505] <9440> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:29:26:505] <9440> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:29:26:505] <9440> debug:true
+DEBUG	[2014-09-04 23:29:26:505] <9440> admin:1111
+DEBUG	[2014-09-04 23:29:26:505] <9440> mid:INIpayTest
+DEBUG	[2014-09-04 23:29:26:505] <9440> type:chkfake
+DEBUG	[2014-09-04 23:29:26:505] <9440> enctype:asym
+DEBUG	[2014-09-04 23:29:26:505] <9440> checkopt:false
+DEBUG	[2014-09-04 23:29:26:505] <9440> nointerest:no
+DEBUG	[2014-09-04 23:29:26:505] <9440> price:1000
+DEBUG	[2014-09-04 23:29:26:505] <9440> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:29:26:505] <9440> Check Field OK
+INFO	[2014-09-04 23:29:26:505] <9440> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:29:26:506] <9440> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:29:26:507] <9440> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzI5MjY1MDY4MTczMg==
+
+INFO	[2014-09-04 23:29:26:507] <9440> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 23:29:26:507] <9440> ===============================================================
+INFO	[2014-09-04 23:30:11:467] <9709> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:30:11:468] <9709> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:30:11:468] <9709> debug:true
+DEBUG	[2014-09-04 23:30:11:468] <9709> admin:1111
+DEBUG	[2014-09-04 23:30:11:468] <9709> mid:INIpayTest
+DEBUG	[2014-09-04 23:30:11:468] <9709> type:chkfake
+DEBUG	[2014-09-04 23:30:11:468] <9709> enctype:asym
+DEBUG	[2014-09-04 23:30:11:468] <9709> checkopt:false
+DEBUG	[2014-09-04 23:30:11:468] <9709> nointerest:no
+DEBUG	[2014-09-04 23:30:11:468] <9709> price:1000
+DEBUG	[2014-09-04 23:30:11:468] <9709> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:30:11:468] <9709> Check Field OK
+INFO	[2014-09-04 23:30:11:469] <9709> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:30:11:470] <9709> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:30:11:471] <9709> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzMwMTE0NzA3MjkyNA==
+
+INFO	[2014-09-04 23:30:11:471] <9709> END chkfake  Laptime:[0.006sec]
+INFO	[2014-09-04 23:30:11:471] <9709> ===============================================================
+INFO	[2014-09-04 23:30:52:400] <9714> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:30:52:400] <9714> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:30:52:400] <9714> debug:true
+DEBUG	[2014-09-04 23:30:52:400] <9714> admin:1111
+DEBUG	[2014-09-04 23:30:52:400] <9714> mid:INIpayTest
+DEBUG	[2014-09-04 23:30:52:400] <9714> type:securepay
+DEBUG	[2014-09-04 23:30:52:400] <9714> subpgip:203.238.3.10
+DEBUG	[2014-09-04 23:30:52:400] <9714> pgid:INIphpISP_
+DEBUG	[2014-09-04 23:30:52:400] <9714> buyername:awef
+DEBUG	[2014-09-04 23:30:52:400] <9714> buyertel:123124
+DEBUG	[2014-09-04 23:30:52:400] <9714> buyeremail:wefaef
+DEBUG	[2014-09-04 23:30:52:400] <9714> goodname:123
+DEBUG	[2014-09-04 23:30:52:400] <9714> price:
+DEBUG	[2014-09-04 23:30:52:400] <9714> currency:WON
+DEBUG	[2014-09-04 23:30:52:400] <9714> paymethod:VCard
+DEBUG	[2014-09-04 23:30:52:400] <9714> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6086,6053)vcard(6078)card(6114,6104)n(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6130)Re(6082)Vr(6006)P(6033)en(6038)&pg1=211.219.96.180&pg2=211.219.96.180&pg1ip=211.219.96.180&pg2ip=211.219.96.180&agreeflag=1111&VCode=040100202438831&VQuota=00&VNoint=0&ip=10.211.55.3&mac=001C4221AFA6&cardpoint=9&custemail=&price=4uDsrkVGcE4gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=YMJ3ORhs1IZaAztRH0Arw6BRW6htmGIO9tznEWYUgLmFyiwLZBsOmmjyZ8yxK1q8%0d%0aXzd9lKj0qoTjFw5Ql9scBU94kWnlxqu5yTFrtpalfdZHe2YXEYppTov4IjySIERT%0d%0a6DwCgj%2beab1UdrPtt3Udbb53A9iss2SkKOr%2be8MQooc%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dUR%252bIuPL2kkTDK8RJaW8ohsHoAAB43dS8f4fOTO8%2f%252bok2Wrxn5RAIsHTSgnaLMaNS%250apN%2fsr5wR5Ot50IUG5YzrbmLM%2fZ5tI7JBXQKzETWn2%2fRyj4CagL2QCZq7OkjQcdYV%250ayS%252bgcJUNtHC5zoVRozGSDfnyUaHmAuRavl2J%252bneONw7K4nbB646o73NBim0L4alX%250aw%2fk4auySyuB1GBsnh6A6Oi3iNsp4cFtNuRMDtaaCyMa3GAGrYB%2ffJZ%2fDERTsXxi%2f%250agXVWbCXBmep0F8bu0dJn3s4yyA4KxE9A3nJ72cdo3px%252bo3D%2fkfj7n8fVkBjcIwXH%250ajYpsivsgrly1w%252b%2fFQs1fKUTsSElfSgsYAPo6Oq9WTIvf%252boQmvqZhi3Vc2O8%2f2EEx%250aoHveP%252bKfRlvmSXsgYCS3Ul0TVTlsmOI8aqrPp2p%2foJGxOa3cU9gsUs2csoToVAqa%250aBjHiz%2f%2fOEeQaYfIgvAvfBzkRgaYDYkPuuP7Dx1V6TBPZx86RhD%252bJe6%2fmB%252blVC7O4%250asTzeWatyc1qawdSwxwgG2%2fe8g8f7GKcsuWuQZ1B7127s1%252bX%2fNWyZgc03yn5IMpaD%250asom722%2fWWKP5TjmLMv5%2f2mjrBdLCOALVnxFJhEne%252bMEf2AzyzOvHCTAlt4sqhdUu%250asCWB04%2f5AP1aVsvh9ZHBeg%2fZCkt7dKn140xAUTEZApPSl%2fVSO8%2fFxHOKAWGRFgyV%250aFUK9xLlfkHadOXssburJlNH7epvgBRoQBhXNO2W7uSHCY56yYATNrK5OIbBvLsqS%250aXG4TYB%2fJcQec0FZFwi1Tp%2fT3AWaLWUFZh%2forGJFUF2dID5MuRAd4hHcIeWn%2fvr1Z%250aDG2I2gwXL2Py32bMDCgjpQ%253d%253d%250a%26PubCert%3d&ts=140904233051qZLqltkA9WZMEJ8JjFB3pQ001382&src_flg=0&OSv=IE11_WinVista 6.03.9600 Professional_64B (CDN) (notray:J) [INIpayTest] (61_secuni_npapi)&ip2=114.70.4.6
+DEBUG	[2014-09-04 23:30:52:400] <9714> sessionkey:VCard
+DEBUG	[2014-09-04 23:30:52:400] <9714> enctype:
+DEBUG	[2014-09-04 23:30:52:400] <9714> rn:
+DEBUG	[2014-09-04 23:30:52:400] <9714> uid:
+DEBUG	[2014-09-04 23:30:52:400] <9714> url:http://www.mondayapple.com
+ERROR	[2014-09-04 23:30:52:413] <9714> 필수항목(price)이 누락되었습니다.
+INFO	[2014-09-04 23:30:52:413] <9714> END securepay [TX9207|필수항목(price)이 누락되었습니다.] Laptime:[0.014sec]
+INFO	[2014-09-04 23:30:52:413] <9714> ===============================================================
+INFO	[2014-09-04 23:30:52:544] <9715> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:30:52:544] <9715> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:30:52:544] <9715> debug:true
+DEBUG	[2014-09-04 23:30:52:544] <9715> admin:1111
+DEBUG	[2014-09-04 23:30:52:544] <9715> mid:INIpayTest
+DEBUG	[2014-09-04 23:30:52:544] <9715> type:chkfake
+DEBUG	[2014-09-04 23:30:52:544] <9715> enctype:asym
+DEBUG	[2014-09-04 23:30:52:544] <9715> checkopt:false
+DEBUG	[2014-09-04 23:30:52:544] <9715> nointerest:no
+DEBUG	[2014-09-04 23:30:52:544] <9715> price:1000
+DEBUG	[2014-09-04 23:30:52:544] <9715> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:30:52:544] <9715> Check Field OK
+INFO	[2014-09-04 23:30:52:552] <9715> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:30:52:553] <9715> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:30:52:554] <9715> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzMwNTI1NTM4NDUzOQ==
+
+INFO	[2014-09-04 23:30:52:554] <9715> END chkfake  Laptime:[0.01sec]
+INFO	[2014-09-04 23:30:52:554] <9715> ===============================================================
+INFO	[2014-09-04 23:31:31:594] <9717> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:31:31:595] <9717> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:31:31:595] <9717> debug:true
+DEBUG	[2014-09-04 23:31:31:595] <9717> admin:1111
+DEBUG	[2014-09-04 23:31:31:595] <9717> mid:INIpayTest
+DEBUG	[2014-09-04 23:31:31:595] <9717> type:chkfake
+DEBUG	[2014-09-04 23:31:31:595] <9717> enctype:asym
+DEBUG	[2014-09-04 23:31:31:595] <9717> checkopt:false
+DEBUG	[2014-09-04 23:31:31:595] <9717> nointerest:no
+DEBUG	[2014-09-04 23:31:31:595] <9717> price:1000
+DEBUG	[2014-09-04 23:31:31:595] <9717> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:31:31:595] <9717> Check Field OK
+INFO	[2014-09-04 23:31:31:595] <9717> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:31:31:596] <9717> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:31:31:599] <9717> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzMxMzE1OTYyNDA3Nw==
+
+INFO	[2014-09-04 23:31:31:599] <9717> END chkfake  Laptime:[0.007sec]
+INFO	[2014-09-04 23:31:31:599] <9717> ===============================================================
+INFO	[2014-09-04 23:40:13:467] <9770> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:40:13:467] <9770> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:40:13:467] <9770> debug:true
+DEBUG	[2014-09-04 23:40:13:467] <9770> admin:1111
+DEBUG	[2014-09-04 23:40:13:467] <9770> mid:INIpayTest
+DEBUG	[2014-09-04 23:40:13:467] <9770> type:chkfake
+DEBUG	[2014-09-04 23:40:13:467] <9770> enctype:asym
+DEBUG	[2014-09-04 23:40:13:467] <9770> checkopt:false
+DEBUG	[2014-09-04 23:40:13:467] <9770> nointerest:no
+DEBUG	[2014-09-04 23:40:13:467] <9770> price:1000
+DEBUG	[2014-09-04 23:40:13:467] <9770> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:40:13:467] <9770> Check Field OK
+INFO	[2014-09-04 23:40:13:468] <9770> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:40:13:468] <9770> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:40:13:470] <9770> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQwMTM0Njg3MjU1MA==
+
+INFO	[2014-09-04 23:40:13:471] <9770> END chkfake  Laptime:[0.006sec]
+INFO	[2014-09-04 23:40:13:471] <9770> ===============================================================
+INFO	[2014-09-04 23:40:17:907] <9771> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:40:17:907] <9771> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:40:17:907] <9771> debug:true
+DEBUG	[2014-09-04 23:40:17:907] <9771> admin:1111
+DEBUG	[2014-09-04 23:40:17:907] <9771> mid:INIpayTest
+DEBUG	[2014-09-04 23:40:17:907] <9771> type:chkfake
+DEBUG	[2014-09-04 23:40:17:907] <9771> enctype:asym
+DEBUG	[2014-09-04 23:40:17:907] <9771> checkopt:false
+DEBUG	[2014-09-04 23:40:17:907] <9771> nointerest:no
+DEBUG	[2014-09-04 23:40:17:907] <9771> price:1000
+DEBUG	[2014-09-04 23:40:17:907] <9771> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:40:17:907] <9771> Check Field OK
+INFO	[2014-09-04 23:40:17:907] <9771> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:40:17:908] <9771> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:40:17:909] <9771> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQwMTc5MDg5ODcyMQ==
+
+INFO	[2014-09-04 23:40:17:909] <9771> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 23:40:17:909] <9771> ===============================================================
+INFO	[2014-09-04 23:40:30:885] <9776> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:40:30:885] <9776> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:40:30:885] <9776> debug:true
+DEBUG	[2014-09-04 23:40:30:885] <9776> admin:1111
+DEBUG	[2014-09-04 23:40:30:885] <9776> mid:INIpayTest
+DEBUG	[2014-09-04 23:40:30:885] <9776> type:chkfake
+DEBUG	[2014-09-04 23:40:30:885] <9776> enctype:asym
+DEBUG	[2014-09-04 23:40:30:885] <9776> checkopt:false
+DEBUG	[2014-09-04 23:40:30:885] <9776> nointerest:no
+DEBUG	[2014-09-04 23:40:30:885] <9776> price:1000
+DEBUG	[2014-09-04 23:40:30:885] <9776> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:40:30:886] <9776> Check Field OK
+INFO	[2014-09-04 23:40:30:887] <9776> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:40:30:887] <9776> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:40:30:889] <9776> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQwMzA4ODc2NDMzOQ==
+
+INFO	[2014-09-04 23:40:30:889] <9776> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 23:40:30:889] <9776> ===============================================================
+INFO	[2014-09-04 23:40:34:5] <9777> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:40:34:6] <9777> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:40:34:6] <9777> debug:true
+DEBUG	[2014-09-04 23:40:34:6] <9777> admin:1111
+DEBUG	[2014-09-04 23:40:34:6] <9777> mid:INIpayTest
+DEBUG	[2014-09-04 23:40:34:6] <9777> type:chkfake
+DEBUG	[2014-09-04 23:40:34:6] <9777> enctype:asym
+DEBUG	[2014-09-04 23:40:34:6] <9777> checkopt:false
+DEBUG	[2014-09-04 23:40:34:6] <9777> nointerest:no
+DEBUG	[2014-09-04 23:40:34:6] <9777> price:1000
+DEBUG	[2014-09-04 23:40:34:6] <9777> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:40:34:6] <9777> Check Field OK
+INFO	[2014-09-04 23:40:34:6] <9777> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:40:34:6] <9777> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:40:34:13] <9777> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQwMzQwMDYyODU2NQ==
+
+INFO	[2014-09-04 23:40:34:13] <9777> END chkfake  Laptime:[0.007sec]
+INFO	[2014-09-04 23:40:34:13] <9777> ===============================================================
+INFO	[2014-09-04 23:41:33:939] <9781> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:41:33:939] <9781> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:41:33:939] <9781> debug:true
+DEBUG	[2014-09-04 23:41:33:939] <9781> admin:1111
+DEBUG	[2014-09-04 23:41:33:939] <9781> mid:INIpayTest
+DEBUG	[2014-09-04 23:41:33:939] <9781> type:chkfake
+DEBUG	[2014-09-04 23:41:33:939] <9781> enctype:asym
+DEBUG	[2014-09-04 23:41:33:939] <9781> checkopt:false
+DEBUG	[2014-09-04 23:41:33:939] <9781> nointerest:no
+DEBUG	[2014-09-04 23:41:33:939] <9781> price:1000
+DEBUG	[2014-09-04 23:41:33:939] <9781> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:41:33:939] <9781> Check Field OK
+INFO	[2014-09-04 23:41:33:940] <9781> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:41:33:940] <9781> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:41:33:942] <9781> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQxMzM5NDE2ODUzMQ==
+
+INFO	[2014-09-04 23:41:33:943] <9781> END chkfake  Laptime:[0.005sec]
+INFO	[2014-09-04 23:41:33:943] <9781> ===============================================================
+INFO	[2014-09-04 23:41:36:578] <9784> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-09-04 23:41:36:578] <9784> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-09-04 23:41:36:578] <9784> debug:true
+DEBUG	[2014-09-04 23:41:36:578] <9784> admin:1111
+DEBUG	[2014-09-04 23:41:36:578] <9784> mid:INIpayTest
+DEBUG	[2014-09-04 23:41:36:578] <9784> type:chkfake
+DEBUG	[2014-09-04 23:41:36:578] <9784> enctype:asym
+DEBUG	[2014-09-04 23:41:36:578] <9784> checkopt:false
+DEBUG	[2014-09-04 23:41:36:578] <9784> nointerest:no
+DEBUG	[2014-09-04 23:41:36:578] <9784> price:1000
+DEBUG	[2014-09-04 23:41:36:578] <9784> quotabase:선택:일시불:2개월:3개월:6개월
+INFO	[2014-09-04 23:41:36:578] <9784> Check Field OK
+INFO	[2014-09-04 23:41:36:578] <9784> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-09-04 23:41:36:578] <9784> MERCHANT PUB KEY LOAD OK []
+INFO	[2014-09-04 23:41:36:580] <9784> CHKFAKE KEY MAKE OK:MjAxNDA5MDQyMzQxMzY1Nzk1NjkyOQ==
+
+INFO	[2014-09-04 23:41:36:580] <9784> END chkfake  Laptime:[0.002sec]
+INFO	[2014-09-04 23:41:36:580] <9784> ===============================================================
