@@ -27,7 +27,7 @@ $opts = getopt(
     array('mid:', 'admin:', 'params:', 'command:')
 );
 
-$commands = array('chkfake', 'securepay', 'cancel');
+$commands = array('chkfake', 'securepay', 'cancel', 'authbill');
 if (false == in_array($opts['command'], $commands)) {
     echo "Invalid command given: {$opts['command']}\n";
     exit(1);
@@ -137,6 +137,44 @@ class INIFactory {
 
         self::assign_params($inipay, $params, $params_keys);
         
+        $inipay->startAction();
+
+        $result = self::sanitize_result($inipay, $result_keys);
+
+        return json_encode($result);
+    }
+
+    static public function authbill($params = array()) {
+        $params_keys = array(
+            'buyername',
+            'goodname',
+            'price',
+
+            'print_msg',
+            'acceptmethod',
+            'encrypted',
+            'sessionkey',
+            
+            'cardcode',
+
+            'uid',
+            'MerchantReserved3',
+        );
+        $result_keys     = array(
+            'ResultCode', 'ResultMsg', 'ResultErrorCode',
+
+            'TID',       // 거래번호
+            'BillKey',
+            'CardPass',
+            'CardKind'
+        );
+        $inipay = self::get_instance();
+        $inipay->SetField('type',    'auth_bill');
+        $inipay->SetField('subpgip', '203.238.3.10');
+        $inipay->SetField('pgid',    'INIphp'.self::$PGID);
+
+        self::assign_params($inipay, $params, $params_keys);
+
         $inipay->startAction();
 
         $result = self::sanitize_result($inipay, $result_keys);
