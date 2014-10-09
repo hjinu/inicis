@@ -1,0 +1,272 @@
+<!------------------------------------------------------------------------------
+ FILE NAME : INIreqrealbill.html
+ AUTHOR : izzylee@inicis.com
+ DATE : 2005/07
+ USE WITH : INIreqrealbill.php
+ 
+ * 실시간 휴대폰 빌링
+ * 이 페이지는 자체 보안성이 없으므로, 반드시 Secure Web Server에서 사용하십시오.
+ * 코드에 대한 자세한 설명은 매뉴얼을 참조하십시오.
+ * <주의> 구매자의 세션을 반드시 체크하도록하여 부정거래를 방지하여 주십시요.
+
+
+
+                                                          http://www.inicis.com
+                                                      http://support.inicis.com
+                                 Copyright 2002 Inicis, Co. All rights reserved
+------------------------------------------------------------------------------->
+
+
+
+
+<html>
+<head>
+
+<title>INIpay 실시간 빌링 데모</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<style type="text/css">
+	BODY{font-size:9pt; line-height:160%}
+	TD{font-size:9pt; line-height:160%}
+	A {color:blue;line-height:160%; background-color:#E0EFFE}
+	INPUT{font-size:9pt;}
+	SELECT{font-size:9pt;}
+	.emp{background-color:#FDEAFE;}
+</style>
+	
+<script language="javascript">
+
+var openwin;
+
+function repay()
+{
+	// 더블클릭으로 인한 중복승인을 방지하려면 반드시 confirm()을
+	// 사용하십시오.
+	if(confirm("빌링 하시겠습니까?"))
+	{
+		disable_click();
+		openwin = window.open("childwin.html","childwin","width=299,height=149");
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+
+function enable_click()
+{
+	document.ini.clickcontrol.value = "enable"
+}
+
+function disable_click()
+{
+	document.ini.clickcontrol.value = "disable"
+}
+
+function focus_control()
+{
+	if(document.ini.clickcontrol.value == "disable")
+		openwin.focus();
+}
+</script>
+
+</head>
+
+<body onload="javascript:enable_click()" onFocus="javascript:focus_control()">
+<form name=ini method=post action=INIreqrealbill.php onSubmit="return repay()">
+
+<table border=0 width=600>
+	<tr>
+	<td>
+	<hr noshade size=1>
+	<b>신용카드실시간 빌링 샘플</b>
+	<hr noshade size=1>
+	</td>
+	</tr>
+	
+	
+	
+	
+
+</table>
+<br>
+
+<table border=0 width=600>
+<tr>
+<td align=center>
+<table width=500 cellspacing=0 cellpadding=0 border=0 bgcolor=#6699CC>
+<tr>
+<td>
+<table width=100% cellspacing=1 cellpadding=2 border=0>
+<tr bgcolor=#BBCCDD height=25>
+<td align=center>
+ BillKey와 새로 승인할 정보를 입력하십시오.
+</td>
+</tr>
+<tr bgcolor=#FFFFFF>
+<td valign=top>
+<table width=100% cellspacing=0 cellpadding=2 border=0>
+<tr>
+<td align=center>
+<br>
+<table>
+
+	<tr>
+	<td>BillKey : </td>
+	<td><input type=text name=billkey size=42 value=""></td>
+	</tr>
+	
+	<tr>
+	<td>상품명 : </td>
+	<td><input type=text name=goodname size=20 value="축구공"></td>
+	</tr>
+	
+	<tr>
+	<td>가격 : </td>
+	<td><input type=text name=price size=20 value="1000"></td>
+	</tr>
+	
+	<tr>
+	<td>성명 : </td>
+	<td><input type=text name=buyername size=20 value="홍길동"></td>
+	</tr>
+
+    <tr>
+    <td>주문번호 : </td>
+    <td><input type=text name=oid size=40 value="merchant_oid"></td>
+    </tr>
+	
+	<tr>
+	<td>주민번호(사업자 번호) : </td>
+	<td><input type=text name=regnumber size=13 maxlength=13 value=""></td>
+	</tr>
+	
+	<tr>
+	<td>비밀번호 앞2자리: </td>
+	<td><input type=text name=cardpass size=2 maxlength=2 value=""></td>
+	</tr>
+		
+	<tr>
+	<td>전자우편 : </td>
+	<td>
+	<input type=text name=buyeremail size=20 value="test@test.com">
+	</td>
+	</tr>
+	
+	<tr>
+	<td>이동전화 : </td>
+	<td>
+	<input type=text name=buyertel size=20 value="01112345678">
+	</td>
+	</tr>
+	
+	<tr>
+	<td>할부기간 : </td>
+	<td>
+		<select name="cardquota">
+			<option value="00">일시불
+			<option value="02">2개월
+			<option value="03">3개월
+			<option value="04">4개월
+			<option value="05">5개월
+			<option value="06">6개월
+			<option value="07">7개월
+			<option value="08">8개월
+			<option value="09">9개월
+			<option value="10">10개월
+			<option value="11">11개월
+			<option value="12">12개월
+			<option value="13">13개월
+			<option value="14">14개월
+			<option value="15">15개월
+			<option value="16">16개월
+			<option value="17">17개월
+			<option value="18">18개월
+			<option value="19">19개월
+			<option value="20">20개월
+			<option value="21">21개월
+			<option value="22">22개월
+			<option value="23">23개월
+			<option value="24">24개월
+		</select>
+	</td>
+	</tr>
+	
+	<tr>
+	<td>화폐단위 : </td>
+	<td>
+		<select name=currency>
+			<option value="WON">원
+			<option value="USD">US Cent
+		</select>
+	</td>
+	</tr>
+	
+	<tr>
+	<td>무이자할부여부 : </td>
+	<td>
+		<select name=quotainterest>
+			<option value=0>일반할부
+			<option value=1>무이자할부
+		</select>
+	</td>
+	</tr>
+  <tr>
+  <td>본인인증유무 </td>
+  <td>
+    <select name=authentification>
+      <option value=00>본인인증함
+      <option value=01 selected>본인인증안함
+    </select>
+  </td>
+  </tr>
+  <tr>
+	<td>Tax/TaxFree 설정<br>(예:Tax=100&TaxFree=200) </td>
+	<td>
+    	<input type=text name=merchantReserved1>
+  	</td>
+  </tr>
+	<tr>
+	<td colspan=2 align=center>
+	<br>
+	<input type="submit" value=" 확 인 ">
+	<br><br>
+	</td>
+	</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+
+<table border=0 width=600>
+	<tr>
+	<td><hr noshade size=1></td>
+	</tr>
+</table>
+
+<!-- 
+상점아이디.
+테스트를 마친 후, 발급받은 아이디로 바꾸어 주십시오.
+-->
+<input type=hidden name=mid value=INIBillTst>
+
+<!--
+지불수단
+실시간 빌링은 신용카드 전용으로 "Card"로 고정
+-->
+<input type=hidden name=paymethod value="Card">
+
+<input type=hidden name=clickcontrol value="">
+</form>
+</body>
+</html>

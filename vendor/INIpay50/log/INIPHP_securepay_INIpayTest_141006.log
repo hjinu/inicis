@@ -1,0 +1,183 @@
+INFO	[2014-10-06 16:52:53:494] <5799> START INIPHP securepay (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-06 16:52:53:495] <5799> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-06 16:52:53:495] <5799> debug:true
+DEBUG	[2014-10-06 16:52:53:495] <5799> admin:1111
+DEBUG	[2014-10-06 16:52:53:495] <5799> mid:INIpayTest
+DEBUG	[2014-10-06 16:52:53:495] <5799> type:securepay
+DEBUG	[2014-10-06 16:52:53:495] <5799> subpgip:203.238.3.10
+DEBUG	[2014-10-06 16:52:53:495] <5799> pgid:INIphpISP_
+DEBUG	[2014-10-06 16:52:53:495] <5799> buyername:waef
+DEBUG	[2014-10-06 16:52:53:495] <5799> buyertel:123
+DEBUG	[2014-10-06 16:52:53:495] <5799> buyeremail:WEFWAF
+DEBUG	[2014-10-06 16:52:53:495] <5799> goodname:과일로 건강을
+DEBUG	[2014-10-06 16:52:53:495] <5799> price:42900
+DEBUG	[2014-10-06 16:52:53:495] <5799> currency:WON
+DEBUG	[2014-10-06 16:52:53:495] <5799> paymethod:VCard
+DEBUG	[2014-10-06 16:52:53:495] <5799> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=oid_1234567890&ver_trace=main(6086,6053)vcard(6079)card(6115,6105)n(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)P(6033)en(6039)&pg1=211.219.96.180&pg2=211.219.96.180&pg1ip=211.219.96.180&pg2ip=211.219.96.180&agreeflag=1111&VCode=000100393937461&VQuota=00&VNoint=0&ip=10.211.55.3&mac=001C4221AFA6&cardpoint=9&custemail=&price=4uDsrkVGdUwpjm3e9sgrB7OBpLxSv2re
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=az7C8UOGD90cmaQbRlP0fgyxAWbYR2u9wwzGXiVOgVctcCuyU%2bZaN5sffzGEEx5O%0d%0amzUPYQl%2f52rqAoPqwOsa4XOx6MfuLG2UFqyHzK%2fyl%2bnOkA5bU1Ti%2b3mhh1pi2cMN%0d%0apk1GfthoREpuLKfC%2bX7UQf21UeI32eI2BgK%2fnXyXOb0%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3d3XolltTdJ4E4%252bWW8Jmi3tKZipH5x%252bO4YRFGiGSHEPP0E%2fZIk373C0oktZBiHe3tu%250aV7c8sf1%252bdaPOIG6XT8KLcggslqqWhqv0m3Dg6StY9Ckei5ts1d41XoiB605l8uNZ%250ayQvdTzBeIDX7VIokBStN4KSHQCwtoZjV%252bfoLGj5G3gTvv1shJ5ecLFpg6rM1luKn%250az5bLfMfL8W7QGKIvhYG0zD%252bdioCDZyZ2o05tJ1NcaAiesd9iwEieOKC%252bVxf7Pziq%250aC5GWkoExGfj9%252b5ostHqgS0VtZlDHd3hshx%252bxPHNNgz%2fLBt37x5at6Nr7jTH5BEnK%250awNEc3cG2xwpxYufR6I5mYMPN1jehlgN%252bMi5PUOvqcLdzvo8uJXoi0igY4OvswcTz%250aBoSJMNYZPpeHBqpiHgRhuEaLIc5GMGl%252bgUzR26%252bH3RgwVO9u3%252brzo%2fJjBoqCQxqZ%250a19Ftjalf2WbvpQvRNeILT2tVseWpwNRaZcLDZfOMzKW5g%252bjpHVcgS44Tk2BerGg8%250abS%252bf1Pa1kmNDHVeW%2fUxhy2RgFAXECZkTfUw%252bKHbT2kTWkB2l%252b%2fowZLnO2epgbji%252b%250apnyUyWnr9MMamBfkeOPWuLy1QuejMZ%2fNzS2WXNIEedM%253d%250a%26PubCert%3d&ts=1410061652529cWIKu6MM3RSPPDa7bTbQg001424&src_flg=0&OSv=IE11_WinVista 6.03.9600 Professional_64B (CDN) (notray:J) [INIpayTest] (61_secuni_npapi)&ip2=114.70.4.5
+DEBUG	[2014-10-06 16:52:53:495] <5799> sessionkey:VCard
+DEBUG	[2014-10-06 16:52:53:495] <5799> enctype:
+DEBUG	[2014-10-06 16:52:53:495] <5799> rn:
+DEBUG	[2014-10-06 16:52:53:495] <5799> uid:
+DEBUG	[2014-10-06 16:52:53:495] <5799> url:http://www.mondayapple.com
+INFO	[2014-10-06 16:52:53:495] <5799> Check Field OK
+INFO	[2014-10-06 16:52:53:495] <5799> Make TID OK INIphpISP_INIpayTest20141006165253959626
+INFO	[2014-10-06 16:52:53:495] <5799> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-06 16:52:53:496] <5799> PG PUB KEY LOAD OK [30]
+INFO	[2014-10-06 16:52:53:497] <5799> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-06 16:52:53:498] <5799> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-06 16:52:53:499] <5799> MAKE BODY OK
+INFO	[2014-10-06 16:52:53:501] <5799> SIGN OK
+INFO	[2014-10-06 16:52:53:501] <5799> MAKE HEAD OK
+INFO	[2014-10-06 16:52:53:501] <5799> MSG_TO_PG:[0332400175R SHA1                   0                  39                  300200INIpayTest               42900INIphpISP_INIpayTest20141006165253959626<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>INIpayTest</SMID>
+	      <GoodsName urlencode="1">%B0%FA%C0%CF%B7%CE+%B0%C7%B0%AD%C0%BB</GoodsName>
+	      <GoodsPrice>42900</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">waef</BuyerName>
+	    <BuyerTel>123</BuyerTel>
+	    <BuyerEmail urlencode="1">WEFWAF</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3Doid_1234567890%26ver_trace%3Dmain%286086%2C6053%29vcard%286079%29card%286115%2C6105%29n%286008%29Cs%286022%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286131%29Re%286083%29Vr%286006%29P%286033%29en%286039%29%26pg1%3D211.219.96.180%26pg2%3D211.219.96.180%26pg1ip%3D211.219.96.180%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26VCode%3D000100393937461%26VQuota%3D00%26VNoint%3D0%26ip%3D10.211.55.3%26mac%3D001C4221AFA6%26cardpoint%3D9%26custemail%3D%26price%3D4uDsrkVGdUwpjm3e9sgrB7OBpLxSv2re%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3Daz7C8UOGD90cmaQbRlP0fgyxAWbYR2u9wwzGXiVOgVctcCuyU%252bZaN5sffzGEEx5O%250d%250amzUPYQl%252f52rqAoPqwOsa4XOx6MfuLG2UFqyHzK%252fyl%252bnOkA5bU1Ti%252b3mhh1pi2cMN%250d%250apk1GfthoREpuLKfC%252bX7UQf21UeI32eI2BgK%252fnXyXOb0%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253d3XolltTdJ4E4%25252bWW8Jmi3tKZipH5x%25252bO4YRFGiGSHEPP0E%252fZIk373C0oktZBiHe3tu%25250aV7c8sf1%25252bdaPOIG6XT8KLcggslqqWhqv0m3Dg6StY9Ckei5ts1d41XoiB605l8uNZ%25250ayQvdTzBeIDX7VIokBStN4KSHQCwtoZjV%25252bfoLGj5G3gTvv1shJ5ecLFpg6rM1luKn%25250az5bLfMfL8W7QGKIvhYG0zD%25252bdioCDZyZ2o05tJ1NcaAiesd9iwEieOKC%25252bVxf7Pziq%25250aC5GWkoExGfj9%25252b5ostHqgS0VtZlDHd3hshx%25252bxPHNNgz%252fLBt37x5at6Nr7jTH5BEnK%25250awNEc3cG2xwpxYufR6I5mYMPN1jehlgN%25252bMi5PUOvqcLdzvo8uJXoi0igY4OvswcTz%25250aBoSJMNYZPpeHBqpiHgRhuEaLIc5GMGl%25252bgUzR26%25252bH3RgwVO9u3%25252brzo%252fJjBoqCQxqZ%25250a19Ftjalf2WbvpQvRNeILT2tVseWpwNRaZcLDZfOMzKW5g%25252bjpHVcgS44Tk2BerGg8%25250abS%25252bf1Pa1kmNDHVeW%252fUxhy2RgFAXECZkTfUw%25252bKHbT2kTWkB2l%25252b%252fowZLnO2epgbji%25252b%25250apnyUyWnr9MMamBfkeOPWuLy1QuejMZ%252fNzS2WXNIEedM%25253d%25250a%2526PubCert%253d%26ts%3D1410061652529cWIKu6MM3RSPPDa7bTbQg001424%26src_flg%3D0%26OSv%3DIE11_WinVista+6.03.9600+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5BINIpayTest%5D+%2861_secuni_npapi%29%26ip2%3D114.70.4.5</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.mondayapple.com</URL>
+	    <TXVersion>5034B120709securDarwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack></ManageInfo></INIpay>5be+TX7i/R/Ldkf84f+QF2YwmzLpMGljhkh0DQp1xdsVJhk6FryMIGBthAQOOXVg
+bT4RqZ3js7bQTTnSdtcZfgPfURUrMsIGrt3dIHGT49UqUbvkcaUYdiy+4Yrhlddi
+Xw5CbS48DWsL7AN+Oc9boujfQkiFxWwFgDcsVsO1Iq4=
+]
+INFO	[2014-10-06 16:52:53:501] <5799> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2014-10-06 16:52:53:515] <5799> SOCKET CONNECT OK
+INFO	[2014-10-06 16:52:53:515] <5799> SEND OK
+INFO	[2014-10-06 16:52:55:736] <5799> RECV OK
+INFO	[2014-10-06 16:52:55:736] <5799> MSG_FROM_PG:[0273800175D SHA1                   0                  39                  300210INIpayTest               42900INIphpISP_INIpayTest20141006165253959626<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">oid_1234567890</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>INIpayTest</SMID>
+      <GoodsName urlencode="1">%B0%FA%C0%CF%B7%CE+%B0%C7%B0%AD%C0%BB</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>42900</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>TuMh0c2U18PRoz7pTyhRUjb7AMiIpXSozdl4cxdXwsg2VmJwogwXhfkd4iZvYQLD
+sxbWZqbrCsUUc1oJxarxHxYEULCcTPbyCLZnvUoYpgHUWQwjk/lg3jvLXCObzIco
+r3iYbWHfqcW0nRE+LcVrNxlbD20+LIRmhgtxaBmFWdyJAbYImOLbsA==
+</SessionKey>
+      <Encrypted>kiRo7fWjduimheRWhYZKxuFaQiE+wYS4DsVgL95np35GdRwjG+SRyRbPyIa79yEB
+UpKvWDu5T5eew4nZ67iAFHhF9xEN+Tsf3sZ0b5QBhXGsAx6VTriQoEpM0rBlAIMi
+6dTNR8NTYEKYcC9rmh8Wg6rCo053d0rnNetz1y3XCIvI3yHSXWRrZDZxHFPfbMAa
+5O/6aZ6zxrzIfgmEpx5cJnJpszORcf7uU6OpUHWZBeTB4MtSzv3hFE4+3imTKG5G
+NRAAbboRGM5ZJnQRKqU8aOKQLyoYXzi0V09PjeECwW8+S5T1A+n67QZyZ6/fSLHx
+/tcmfROBTPGNIYTQbts0aUt7yjJIRFPrhSc+nUgJqjyqvzw76jVsTrITPSdaPN5S
+LLfSK+SEAhi9VjTlLAoPzcTNv60WwLCf5MyjdIH67LQoMMIpP4oPsNW+Nz+R+8VP
+8XRGl6586+5ur7SSnfndbwhlifbG3p745Gzzyix0NvSodQM6xOExhDUbElDO3DZw
+7AyAfWSaL8/AeS7ZqmH+RwahkkNs5qC9/kLAJiuyYuyG3xqfN71AkArKfjiUhKiS
+9gij9pYHT0uwOWDQJRDgl7S03wCuKX1w99Nx9mncvwjAg/ZZFgfDCwTTyY7oy5xL
+sDRP8wha3V7+BRfC8iI+GwwyQtbVHSi+biDcJ/57MA8oUKF5OKVAFg6qs3H7eiiT
+6Go3NMjHXiUgyFB3TPQI77x8owIU0KBMBI6VbC6SFFsJw8cLr6XOSsW5FIonFEFe
+flK39CXcygnT8xJneVeXKP+dgW7jMBF9P397EHKFXQapU2wD4Oa0cB5KE7R245cL
+mWGpUCn/iPLLMBEHM6+97zrio8QI8TffDxSocU9gtl6wmVNV5/05j2T15nY2B23w
+W8HuUe1d+DszXkPKdNm7UK+yGNS0Wn6rAlqm3vHsUJG9QMmrdJl8XLfj7e/eeEsU
+L1isDmaOS6Df8UOOYgSU5hAwFkng5+xKukshj89aEZxW4XAWaGFRvC+l+8IMcGLe
+qQeLNGXrAwiKN8lI6BWtkolng2llpzLmjb+w9IeBs23F4RHtz8DDTTE/bCnq0dGd
+WUvr88EuPRwBflbRz4xXN0dXeOonodEcict9JSa4qe3tOztXTBsI25a1nlLDWTNN
+nUNWL4MBRat895rjSVcpgcO3B+vTUrUU5aXdPs9aGQIpUW/Cep3DxO4uqLtcwA+R
+3UHr5u9TKGzpBm4TzgVFciYO2IE+8PIgn638dkGxJdsQzWorX7+b14yEq9JdDtV1
+fJcwPZdEvAUZM1td8hVdkgHyDXWBkFZV8kwlhcntzmlacPHrmtNcwLs76Ch1+U6b
+sYE0yWZXvjUwM2AbB6vawkkTufirR6p+2TYtyAryYEAUNeveuOb3wuHDqRa1zznE
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+J+iuXKnE07DKWvTL1QyflFXX2lR2b/asRQpZRIVpEsm/PpGmppROM6uHi+ocYkqs
+nedD5+N5U/JWDQjdD1zTSDJ19bzmVtAYCwqqkbJfFXUx+hkon1ihMOOdnGUmgxSk
+4Sr2UpbjZMoANOflf5mRRhM0B2ZN4lmmoWfL4pBe20E=
+]
+INFO	[2014-10-06 16:52:55:736] <5799> VERIFY OK
+INFO	[2014-10-06 16:52:55:736] <5799> PARSE HEAD OK
+INFO	[2014-10-06 16:52:55:738] <5799> PARSE BODY OK
+INFO	[2014-10-06 16:52:55:748] <5799> DECRYPT OK
+DEBUG	[2014-10-06 16:52:55:748] <5799> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>42900</ISP_ApplPrice>
+      <ISP_BankCode>00</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>11</ISP_CardCode>
+      <ISP_CardNum>94403930****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20141006</ISP_ApplDate>
+      <ISP_ApplTime>165253</ISP_ApplTime>
+      <ISP_ApplNum>33956173</ISP_ApplNum>
+      <ISP_TerminalNum>019058I000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1">BC%C4%AB%B5%E5</ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1">%BA%F1%BE%BE%C4%AB%B5%E5</ISP_IssuerName>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2014-10-06 16:52:55:750] <5799> DECRYPT PARSE OK
+INFO	[2014-10-06 16:52:55:750] <5799> WAIT ACK INVOKING
+DEBUG	[2014-10-06 16:52:55:750] <5799> MAKE HEAD OK
+INFO	[2014-10-06 16:52:55:785] <5799> SUCCESS ACK INVOKING
+INFO	[2014-10-06 16:52:55:786] <5799> END securepay 정상완료 Laptime:[2.293sec]
+INFO	[2014-10-06 16:52:55:786] <5799> ===============================================================

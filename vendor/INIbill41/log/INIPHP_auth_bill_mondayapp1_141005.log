@@ -1,0 +1,2449 @@
+INFO	[2014-10-05 21:29:21:514] <2684> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:29:21:514] <2684> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:29:21:514] <2684> debug:true
+DEBUG	[2014-10-05 21:29:21:514] <2684> admin:1111
+DEBUG	[2014-10-05 21:29:21:514] <2684> mid:mondayapp1
+DEBUG	[2014-10-05 21:29:21:514] <2684> type:auth_bill
+DEBUG	[2014-10-05 21:29:21:514] <2684> pgid:INIphp
+DEBUG	[2014-10-05 21:29:21:514] <2684> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:29:21:514] <2684> billtype:Card
+DEBUG	[2014-10-05 21:29:21:514] <2684> keyPw:1111
+DEBUG	[2014-10-05 21:29:21:514] <2684> buyername:aef
+DEBUG	[2014-10-05 21:29:21:514] <2684> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:29:21:514] <2684> price:34900
+DEBUG	[2014-10-05 21:29:21:514] <2684> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:29:21:514] <2684> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:29:21:514] <2684> encrypted:
+DEBUG	[2014-10-05 21:29:21:514] <2684> sessionkey:
+DEBUG	[2014-10-05 21:29:21:514] <2684> uid:
+DEBUG	[2014-10-05 21:29:21:514] <2684> MerchantReserved3:
+INFO	[2014-10-05 21:29:21:514] <2684> Check Field OK
+ERROR	[2014-10-05 21:29:21:514] <2684> TID생성에 실패했습니다.::INIphpmondayapp120141005212921148288
+INFO	[2014-10-05 21:29:21:531] <2684> END auth_bill [TX9401|TID생성에 실패했습니다.::INIphpmondayapp120141005212921148288] Laptime:[0.017sec]
+INFO	[2014-10-05 21:29:21:531] <2684> ===============================================================
+INFO	[2014-10-05 21:29:41:723] <2685> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:29:41:723] <2685> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:29:41:723] <2685> debug:true
+DEBUG	[2014-10-05 21:29:41:723] <2685> admin:1111
+DEBUG	[2014-10-05 21:29:41:723] <2685> mid:mondayapp1
+DEBUG	[2014-10-05 21:29:41:723] <2685> type:auth_bill
+DEBUG	[2014-10-05 21:29:41:723] <2685> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:29:41:723] <2685> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:29:41:723] <2685> billtype:Card
+DEBUG	[2014-10-05 21:29:41:723] <2685> keyPw:1111
+DEBUG	[2014-10-05 21:29:41:723] <2685> buyername:aef
+DEBUG	[2014-10-05 21:29:41:723] <2685> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:29:41:723] <2685> price:34900
+DEBUG	[2014-10-05 21:29:41:723] <2685> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:29:41:723] <2685> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:29:41:723] <2685> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=qoXsPW0Zv2y4QdK1pNdrmV/fAGzMZ1bUMz/PWn547Ac6BGAw4hWkruKQgbgkCo12
+mdFBiaEi68QEnEXCAg0p6kb8UdVVpwu6jLjo6xqCv29MtjfXbtn1yh1j3ecMJ8dd
+Vd4T5GdgcP6JIXUqMjA94LGB3M/tADIzqG3UFf4rUEnP728G3X0fui+HS02Ob9MK
+CvzWNH7ZViOLT++5gmvP9A88Ip+YrOwWc5HdeQlzU9yR4tfnz0AoO3cBFj8CG9ju
+Lk8VmR9iVJhZm1LAUkY7KC2hMQRLzDMc31SP5ZmK+YngJ+Qyrfp95rN1KMnEYNJ5
+mLbHLiz5CIpb4gy1V7kw65i7TlF9BmLbgT6X8CIWlskKf1AVs5jgnEOKxybpO1d5
+YDMuJCYkZRe1VtY9rs1yugBvw2dLKJmMmpZQs3gJPAc4KLBo7TLoTgwyDJf9HFxU
+ORBIoAwh2QRv53ZfZWhA0Ni051g+sVarsjEhfcXWseCcDmtReb/Cz4grCLWBQyUK
+XeNdsv6oFSYyD1u6BubguIJCSnkpNKoT6HcJ4P8gfQF9mCJm3vh+ID3oZlee7Njh
+oUJZm/wOAQJ1bq/oBHxdsUuexKrbD7jBsgpA3CdM2TgFOKpStRKm2M5MMWlnEB/R
+tZTLX9WtN5WVsmLoGbUzQsv81n75gtcVPG34IFB9Bza4uFoozO9SGxeaeEXCCGCq
+yUpa+oQNQKVC36/qH7msNwrlbuFru09MI+rD6UdJypi+bRcLATx8F4nSSjD9qD2G
+xrmsReQK6LWc+0yOugS1edXOv/Pnc4VFYw3se/901UymSbhid25hYNndWEI8ZjNp
+VsdzSfr1yOhcyZzFxsiYB9zNJZEneryJp4rIz9SAz6vOAD4tqaGpZ31TFzOqEbPz
+mxXsmXxmW1vJOdtlcVzZPNEVJ/0jKE+ictdK2RkJKmACfgDucDb4+YooURNE5Grj
+JNu79N++zOVK+AWw/HHdN5pcAra0DopJenvDHz1KePUugB+pd61tv7OHbjqmdWgp
+m7bMqA61YRTrZA6cR5qiZvLJvnS6/FfjYDYrsBxIGSwcdUn4nCVYo1EktH569KFV
+NUukdt63ef1RwpRDp+EviHStLO7MzeilM2nATZcoQew=
+
+DEBUG	[2014-10-05 21:29:41:723] <2685> sessionkey:JObkeU5aYRcZPktSaZPv+sTCoU34wgb5mwfT39W6NJI8UAdjTY52+vRV4b9IXXyv
+WwjV+RyBebCEUsej/wi9DME3nvVxKH1B1O3STTIpTr8KTUNmrt8oXGg1FLItvABQ
+LIlIB2wqWhEGOeYqfMZ5Tvx9D5++aZ1lTGvPJtkKp8A=
+
+DEBUG	[2014-10-05 21:29:41:723] <2685> uid:
+DEBUG	[2014-10-05 21:29:41:723] <2685> MerchantReserved3:
+INFO	[2014-10-05 21:29:41:723] <2685> Check Field OK
+INFO	[2014-10-05 21:29:41:723] <2685> Make TID OK INIphpAuthmondayapp120141005212941235662
+INFO	[2014-10-05 21:29:41:724] <2685> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:29:41:724] <2685> PG PUB KEY LOAD OK [39]
+ERROR	[2014-10-05 21:29:41:724] <2685> 상점개인키 로드오류
+INFO	[2014-10-05 21:29:41:738] <2685> END auth_bill [TX9301|상점개인키 로드오류] Laptime:[0.015sec]
+INFO	[2014-10-05 21:29:41:738] <2685> ===============================================================
+INFO	[2014-10-05 21:30:37:826] <2695> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:30:37:826] <2695> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:30:37:826] <2695> debug:true
+DEBUG	[2014-10-05 21:30:37:826] <2695> admin:1111
+DEBUG	[2014-10-05 21:30:37:826] <2695> mid:mondayapp1
+DEBUG	[2014-10-05 21:30:37:826] <2695> type:auth_bill
+DEBUG	[2014-10-05 21:30:37:826] <2695> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:30:37:826] <2695> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:30:37:826] <2695> billtype:Card
+DEBUG	[2014-10-05 21:30:37:826] <2695> keyPw:1111
+DEBUG	[2014-10-05 21:30:37:826] <2695> buyername:aef
+DEBUG	[2014-10-05 21:30:37:826] <2695> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:30:37:826] <2695> price:34900
+DEBUG	[2014-10-05 21:30:37:826] <2695> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:30:37:826] <2695> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:30:37:826] <2695> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=id3LMWrzbBrs7JZxk4LomS+rt+ORG8DNOrsAfHj+laqmP/wPyN406gMQR7Z0QiZu
+k76mYXjU93PMWW5SlBKl+f7uNGBHa87NZXM2aImyQylb5mT88beCbHCXfuYO2PoM
+JL1LfCE1bnisHtLWsGhRT8DytzfZ7Azh1EPac0jY2BrrApA/c6wzCORkDCdg8uu5
+QfJl0XpzIzfmatmqujEFb1H4aUiZepksAgi+NPO4XzsLDBeGi/VT4rMLwEmzeJkj
+dvk65Bt/ZLiN6RKm7dL6DwhAlKqc24upC7pFZoeHqL4VViSfz2P5XmjbW3QJgCPF
+/nyAArZgO3B2Y92Yq0pD7I9HA4cXTUd/Dp1EZ0yABHSGOeDITZLq47J0vwmP1cq7
+Ds/zDcygqP1wp3CXQpaJ/aZZKYAe0QDb7xQI56T55VCoiNQEQdphbjxLvtXidc5F
+FN22VxdshJtnrEOTf2Q6ZrNMgxaXcKGfosKB2E0abilTeZ6gIy8JhQo8GY0UpSZ3
+ZeCjoUtz1BYas/0P/mIwFrcgspT953dnndRapbLQ38QHgtkujrg5+88CPPbSwX38
+FuQKBZu4A+BPfSLgRX6FY9WAXm0RkZtAZxyZ/33H31uc1AWuM2kJWBO20atFalF5
+EtkTpSpgul4ggQ0q4L4zRCTQ6mwpIhuz5Tr2OnLskgpo7uhq48UGjMY5RxlIzaXa
+oXdbTx8yEYJ0W18JMqSr5f5FgYDQZlVe7GnR4f+UFKa+ItGvCXUEaX9TOYlG1wmS
+Ij/KUM7RRA1cGE3WA+DvxHzvQVSJO24qdoZZlM6JoobLZ6ZiSxrTJtXMAaGuIYLN
+StaCUCmJsR1kj2WBgUVaUx01ibGVgl4foyME7aVMhcysD2Tj71tSDNeUBZ3TKC2q
+0HVmFUe9gpwKPX/EbXc5UytT6EqlMSY0Jfoz+EKYBlVD3TKb3MUIxjZYqsOnXkQa
+1jEe9ab+HzNIZlREQ3JuAEGuPwMCSkWFJk397kOoaxVB/qnWo5PSdSIi2aUuH8H2
+jYdiMzlyFxKXBjuZRpX59/T44n2WRQdWUCWA46IPqg9H0eT7BJEXTnmTEefvWNeW
+TXVeoihXuxxhmldSTuYKrv0h+fFiSU0CCx0HT8GxgJk=
+
+DEBUG	[2014-10-05 21:30:37:826] <2695> sessionkey:PaHzxN0Bos0Ytza8ot+ZwhB5Ug06g2OAIyiadls2S0QLFVzFmjkPR+tpIRTKqh11
+T+IuAo2ahG56ythDsIzEiJ2iku8CpNq7t0lgS1nQLRu/LWZsuKXZJcjLryfDHtsU
+74THfFRHicv2Mv2PmNx0WxE36K3B6wNpPbTOWRzbKZ4=
+
+DEBUG	[2014-10-05 21:30:37:826] <2695> uid:
+DEBUG	[2014-10-05 21:30:37:826] <2695> MerchantReserved3:
+INFO	[2014-10-05 21:30:37:826] <2695> Check Field OK
+INFO	[2014-10-05 21:30:37:826] <2695> Make TID OK INIphpAuthmondayapp120141005213037267037
+INFO	[2014-10-05 21:30:37:826] <2695> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:30:37:827] <2695> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:30:37:834] <2695> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:30:37:835] <2695> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:30:37:835] <2695> MAKE BODY OK
+INFO	[2014-10-05 21:30:37:837] <2695> SIGN OK
+INFO	[2014-10-05 21:30:37:838] <2695> MAKE HEAD OK
+INFO	[2014-10-05 21:30:37:838] <2695> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005213037267037<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:30:37:838] <2695> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:30:37:850] <2695> SOCKET CONNECT OK
+INFO	[2014-10-05 21:30:37:850] <2695> SEND OK
+INFO	[2014-10-05 21:30:37:911] <2695> RECV OK
+INFO	[2014-10-05 21:30:37:911] <2695> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005213037267037<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:30:37:911] <2695> VERIFY OK
+INFO	[2014-10-05 21:30:37:911] <2695> PARSE HEAD OK
+INFO	[2014-10-05 21:30:37:912] <2695> PARSE BODY OK
+ERROR	[2014-10-05 21:30:37:913] <2695> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:30:37:926] <2695> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:30:37:926] <2695> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:30:37:926] <2695> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.1sec]
+INFO	[2014-10-05 21:30:37:926] <2695> ===============================================================
+INFO	[2014-10-05 21:33:00:743] <2718> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:33:00:743] <2718> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:33:00:743] <2718> debug:true
+DEBUG	[2014-10-05 21:33:00:743] <2718> admin:1111
+DEBUG	[2014-10-05 21:33:00:743] <2718> mid:mondayapp1
+DEBUG	[2014-10-05 21:33:00:743] <2718> type:auth_bill
+DEBUG	[2014-10-05 21:33:00:743] <2718> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:33:00:743] <2718> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:33:00:743] <2718> billtype:Card
+DEBUG	[2014-10-05 21:33:00:743] <2718> keyPw:1111
+DEBUG	[2014-10-05 21:33:00:743] <2718> buyername:awef
+DEBUG	[2014-10-05 21:33:00:743] <2718> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:33:00:743] <2718> price:34900
+DEBUG	[2014-10-05 21:33:00:743] <2718> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:33:00:743] <2718> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:33:00:743] <2718> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=8sqH2gZAMvNylMlCdW0SHqPSX2KbUbc6iy+M/5Wj7GyK9ZY4SLfoFAyL8xfoQodg
+XL46LpOElLMF4RsRVWGU7+AQTGJkAXm1ZmJ8kR6FZlrYoEWT2nlWKfZkxzoiq5x5
+NzEAKVWVlpkVGo4ijccDZOGIPzFClV9YOSJHNkyquthvu5qYU+4JrHZTomBowznR
+qt7KdyZw6uAIyRfSKoW4Ca8QnBcaARFcsT0oJEv/S5xHmdgQsV8XyloSodzQOT3R
+SqbOjMTPQRIjnOakK4Ruymm8cHxhJnL4DWWf4dbnOTCY4u7F8NRCzVh/6Nut0cyY
+ftKFQCB13bmIk9rVczmz3thw7LQd9QaILxCmPLzbjLWrAhXVbr30iLR9SJU7D2cZ
+M8xh2MYMFd4dAyWcq+Dqb5VDSpxWKzU9Ms1LXLofyry0AGsWEtiWxEUcsxzMcY4/
+qB6w68NCtYMXlzNrgOijJl2b/b1Xp8zkNUNlxOfhOFpyfIkE8yMYi8+RlBB1d5VX
+CcrHTH0BM1ECRz5FZxr542+KunK79qT4E1mNeGF2TgtaLHHtlL1gXcqgAsm1KBQ2
+yEEcKtak+qLvdaonhmK6A/b7QZJN4ATlq4fTTlGIoSC5PyXF9opV+DRcHGhNVGd8
+RzV6lc7dnrZRcGYMTqtlfJutaP8eFwv820q1JnuTq/uHZ9+EbShMaVm2K//QE3I6
+XDPCwuaEuwqHEHrtLuQagBlQBvjnlWzdvLNY8H9BommpLWbQHZEYjUFKyAmg4Q0l
+pNLlhxWy+zRyRumXq8EIqT2/yt6NPaLPEYNdbtQJNIBYOaQbOfx0khLkgAj3lFUM
+AVr44g3tB4GSIQG6VyMU8RQUBe/Cmuf0R6S7MRjHIGyoyxNttruQchS10bcEauqX
+sQk9XwLd0hIwR34F42ex5GD0IqAuDZpvTwWWOuoVnTJ49GTGrsX2s3OKTdVp+e1V
+oNyj6Kl6ZLgHkZuoerv09FJkxT1p7WSDQ387v8ah4DbhBJr9WT+dtqtIByaTc7/O
+lxf7ZNna6zRtgUIasHfovqTN5FI7Mm5Ul8NkmEp4DAS14wt3HluqpsOtxx0/kJqd
+1ue8c7k+CfcS/F6CWGFsu9Z4135omEKixyT11OU6gR8=
+
+DEBUG	[2014-10-05 21:33:00:743] <2718> sessionkey:0WE+NI9+5wkImpj194Mht2r23wGsesycxsR+7tlClVCV6SCYi/CowWA46Rj6wDku
+6PBrY0sNZj0Zw+ie6SrsKSxbDRi0jkN19nQOb80XHJqXR0iwfkOs98o2G6hRNRUB
+JsSqL2gOlQhFowkqPsaaTQtZqBWnES9diA3baQh7LKw=
+
+DEBUG	[2014-10-05 21:33:00:743] <2718> uid:
+DEBUG	[2014-10-05 21:33:00:743] <2718> MerchantReserved3:
+INFO	[2014-10-05 21:33:00:743] <2718> Check Field OK
+INFO	[2014-10-05 21:33:00:743] <2718> Make TID OK INIphpAuthmondayapp120141005213300433466
+INFO	[2014-10-05 21:33:00:743] <2718> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:33:00:744] <2718> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:33:00:744] <2718> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:33:00:744] <2718> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:33:00:744] <2718> MAKE BODY OK
+INFO	[2014-10-05 21:33:00:746] <2718> SIGN OK
+INFO	[2014-10-05 21:33:00:746] <2718> MAKE HEAD OK
+INFO	[2014-10-05 21:33:00:746] <2718> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005213300433466<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:33:00:746] <2718> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:33:00:766] <2718> SOCKET CONNECT OK
+INFO	[2014-10-05 21:33:00:766] <2718> SEND OK
+INFO	[2014-10-05 21:33:00:824] <2718> RECV OK
+INFO	[2014-10-05 21:33:00:824] <2718> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005213300433466<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:33:00:824] <2718> VERIFY OK
+INFO	[2014-10-05 21:33:00:824] <2718> PARSE HEAD OK
+INFO	[2014-10-05 21:33:00:825] <2718> PARSE BODY OK
+ERROR	[2014-10-05 21:33:00:825] <2718> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:33:00:850] <2718> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:33:00:850] <2718> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:33:00:850] <2718> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.107sec]
+INFO	[2014-10-05 21:33:00:850] <2718> ===============================================================
+INFO	[2014-10-05 21:37:36:311] <2760> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:37:36:311] <2760> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:37:36:311] <2760> debug:true
+DEBUG	[2014-10-05 21:37:36:311] <2760> admin:1111
+DEBUG	[2014-10-05 21:37:36:311] <2760> mid:mondayapp1
+DEBUG	[2014-10-05 21:37:36:311] <2760> type:auth_bill
+DEBUG	[2014-10-05 21:37:36:311] <2760> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:37:36:311] <2760> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:37:36:311] <2760> billtype:Card
+DEBUG	[2014-10-05 21:37:36:311] <2760> keyPw:apple4U!
+DEBUG	[2014-10-05 21:37:36:311] <2760> buyername:awef
+DEBUG	[2014-10-05 21:37:36:311] <2760> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:37:36:311] <2760> price:34900
+DEBUG	[2014-10-05 21:37:36:311] <2760> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:37:36:311] <2760> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:37:36:311] <2760> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=4M5T+wd08dbCZXh673AOGR8rGqjFhRW5baPtLXDjntygg2twoeGC7ukeH7jEcmGC
+9Afz8qlQKFfj+53iaLmwF5TIW7wTbrIz3zN7HfTQPwMQOIGfFQGOSFNtOaji8AK2
+uDB0iWRJ3I2CG6xnFcV5MiqZDUG9SqMk6bepbXP4zDoFDgiWzj3uJWNnD0YKqpiP
+S0o+pS+bHw0vY9FrfU7E1NbbFa1LPzkwa4KvhSP1R35Da5MDj7xq8bgIO+opzTAE
+koMFLZL/terEXFKN2MkKz3WG0DbmqAQ5FGP78unO30AlYOS59iLD1Ne+yGsjNsOG
+ZCpRovFfGG6kFfdLlGx+D5p3S3iJrbBwuhPhzwRHNjxlz4po1h5KwexLORGkYdbT
+aAomZm4ZzXJSqmLlXwn+4qDs/MKZ1pwFU6UxiXJx/JzIk237SZPikb4LXiGrQa6K
+8LoxOqTIYVpPwD7jY6hAg5VaV9IbbMQr09/uAOnO2Kt8Z5148ua/8ISjLjZKB5Sx
+iTCEW/1wGzERvOCmxOCNE+M0EiNgAj0QC9vZQx/NrfL3a+PhFydGXiGzg1CeLUEP
+gXVJ1n8pwXo7NkkrsbjH674xSCK0DoDRJeM5kJ1pC2tuOdcoTz6Z1fPjz1MoFuUk
+a5ZHkfl7wceUW4cQrwDlJr7rQauFwjGrbv6m9J6kVMWg04ajn8BCZeNgy6n6LBLg
+Kh135a9D2Iy+5fNhLVjSDae4Eh2oYbIhJvWMs3b7pODssZg4JSVtJUZGHAIz7OMy
+r5EM/YqXLm2x9K/tD/pMNgVlTdClj3pnSr2V9FU27gd2LGEY+E6EGWvp4xeVoF6R
+D0Kj60LLCaRF85gZEHnOfi2d1ArykmfPiFHPKn5dpN7EUVItMbEiXAaEtMO80XMT
+ixhICYaAoCxCWpToO+4HTkbvV7zSzgng1km9uTiIkUJFARlab3N1Oax1ukzsTSpB
+zv2wAwVs/G6FLgWnrf07CCDLcbhYDFCroc2ZlI3hGvtcxLiCNTbHBevTxBFE21WG
+PrPTmCUU9TPsd3UK76tjft+OFM7QHi07Eeg6Tfz4R6zirfQ9BtdTd5FjsxI8sDG0
+fz+XFhOlUZstfjgn8QuGNoVOkeL1G3jxpUxHU45dRsY=
+
+DEBUG	[2014-10-05 21:37:36:311] <2760> sessionkey:MQ5gsSAHf7LGaHZaGOFBjlBvmxbDTU3gX7QEA3TYofZowmm/TD7ZgIy3dX8FON8q
+OyeryvMhGJgFCjmSrf8G8E9rPw3Kekkr4JM03CJqatyhn8QZ/4UL2i50HT3AMo31
+8K8ACba3DwEZ1znxncG53uy5MIn+wEhj1OcP5/oVtts=
+
+DEBUG	[2014-10-05 21:37:36:311] <2760> uid:
+DEBUG	[2014-10-05 21:37:36:311] <2760> MerchantReserved3:
+INFO	[2014-10-05 21:37:36:311] <2760> Check Field OK
+INFO	[2014-10-05 21:37:36:311] <2760> Make TID OK INIphpAuthmondayapp120141005213736111382
+INFO	[2014-10-05 21:37:36:311] <2760> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:37:36:311] <2760> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:37:36:312] <2760> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:37:36:312] <2760> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:37:36:312] <2760> MAKE BODY OK
+INFO	[2014-10-05 21:37:36:314] <2760> SIGN OK
+INFO	[2014-10-05 21:37:36:314] <2760> MAKE HEAD OK
+INFO	[2014-10-05 21:37:36:314] <2760> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005213736111382<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:37:36:314] <2760> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:37:36:328] <2760> SOCKET CONNECT OK
+INFO	[2014-10-05 21:37:36:328] <2760> SEND OK
+INFO	[2014-10-05 21:37:36:377] <2760> RECV OK
+INFO	[2014-10-05 21:37:36:377] <2760> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005213736111382<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:37:36:377] <2760> VERIFY OK
+INFO	[2014-10-05 21:37:36:378] <2760> PARSE HEAD OK
+INFO	[2014-10-05 21:37:36:378] <2760> PARSE BODY OK
+ERROR	[2014-10-05 21:37:36:379] <2760> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:37:36:391] <2760> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:37:36:391] <2760> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:37:36:391] <2760> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.08sec]
+INFO	[2014-10-05 21:37:36:391] <2760> ===============================================================
+INFO	[2014-10-05 21:41:57:567] <2782> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:41:57:567] <2782> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:41:57:567] <2782> debug:true
+DEBUG	[2014-10-05 21:41:57:567] <2782> admin:1111
+DEBUG	[2014-10-05 21:41:57:567] <2782> mid:mondayapp1
+DEBUG	[2014-10-05 21:41:57:567] <2782> type:auth_bill
+DEBUG	[2014-10-05 21:41:57:567] <2782> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:41:57:567] <2782> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:41:57:567] <2782> billtype:Card
+DEBUG	[2014-10-05 21:41:57:567] <2782> keyPw:apple4U!
+DEBUG	[2014-10-05 21:41:57:567] <2782> buyername:awef
+DEBUG	[2014-10-05 21:41:57:567] <2782> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:41:57:567] <2782> price:34900
+DEBUG	[2014-10-05 21:41:57:567] <2782> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:41:57:567] <2782> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:41:57:567] <2782> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=htJAkO/2BHPKgc7k8XvdH1WkutkdATrdmO4Lb05WYYx9cVpo0UCmNcwpjeI3I7IJ
+nfInIQB8tJnhNXv53kVhi3lxZMmKhDlkE3gAkN4nLRB08kTtzTWhUk55of4yHArB
+d6q9XDSY5wt9nApoQ6nfEqP//sFbJosbYquIYJI7vx4JRxODHfCfWIj+ZwoDaOpV
+YcrdR9bXLK6JfU9P7PEpV117lijTEoOSTHYG9DOSLsZaLgysP6fJWB4g7KPw1p3B
+FOLnhA4Bha5GbbzD0nkfhVoutF2btfWSghWaXsiHqmswpfL8VhYvW7lR/4XMzV6f
+HGutJEBUFGtu0qYJ5XakX8RLUZ2BZuWl3lXgmJCrBpJkPdQrXbF0bS1o/Wt5seJv
+9Z6nT2lfVOnCxKJuFFZVUOBxXMpRlV3IgoQlOGnn2d4iPfmPl3MrVhWsQ7YGmAkV
+m4t+jJFJyZShvBm0kEt7jz8TaWMrmRzHWVat2m9iB2Kc9QH5F6VSPzRrqkAelfcN
+qQ5sCrYJLbujaW7JovTiiCTXjcvmSDFZ5JE2irF3AN71XasLIWGeR0Z3yCazvOyJ
+924aIOv+dUNkVrH/M6fj9VLZcqvp85kp1QjGQUNF6RVu7ot7pPtthKjeHu+orbOT
+ekuqcfURqpjF9KBtwDjsF0qcIi9tlBV98CXolhsNSITjLsUvUb0FpO2QBo8MxYph
+5qhyKMEL8vZh/bjQSZu8np+Ys4gG42BfMcY+PZRD67wc7LwDuEvYO7G+KjNu+wU+
+w/1D1ZMUk77Ogl70I7PqDm637PCO3Q5ZVAhv7u15eGmcLbgSreyWSEYwpqHmvxMi
+T92B5F71ucKegAjWmmxHsVKFjA7f4zxF9GVB6+G38Ve4k5tBQcQKo1iIXmAmrers
+ITPuReYjYp8i72scl6c83Q8ph8DCrNd3j2mKXrnL6U/PNDFS4+5PIbi+J+Q5tm3H
+x0hwuQBNQaKq7ScjdT1lXB1/xOw4asi93+qlllLt/Qkm+rCaCyWtZE3rwKWKxJLu
+eUV6/SlM7KdXuvBbAeOYUSOZqIQRbB5sMHOlqFwOW45DTx6j+R1021RQ4OzH54ZL
+wzaaJO2o+M7GM/aC6HkZHDZGG+ltkoTGPj/VNVvHE00=
+
+DEBUG	[2014-10-05 21:41:57:567] <2782> sessionkey:AnZF3n5OH0hrpeTlDNgwhPwstAz0HsYa2dEHQDc63IKjlqx9XXgNntLKvNt+Qofo
+zKSVPYrnJ1Ht816pP8Xs/oeb0EMkrNX9AVNJg5CgBfsmf/TkPYpK9LQNiiHfIEoW
+cxVODds75l5+IhXBVeHwllWLbgx+XAI5ZRdJ2UwbuI4=
+
+DEBUG	[2014-10-05 21:41:57:567] <2782> uid:
+DEBUG	[2014-10-05 21:41:57:567] <2782> MerchantReserved3:
+INFO	[2014-10-05 21:41:57:567] <2782> Check Field OK
+INFO	[2014-10-05 21:41:57:567] <2782> Make TID OK INIphpAuthmondayapp120141005214157678856
+INFO	[2014-10-05 21:41:57:567] <2782> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:41:57:568] <2782> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:41:57:568] <2782> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:41:57:568] <2782> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:41:57:569] <2782> MAKE BODY OK
+INFO	[2014-10-05 21:41:57:571] <2782> SIGN OK
+INFO	[2014-10-05 21:41:57:571] <2782> MAKE HEAD OK
+INFO	[2014-10-05 21:41:57:571] <2782> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005214157678856<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:41:57:571] <2782> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:41:57:584] <2782> SOCKET CONNECT OK
+INFO	[2014-10-05 21:41:57:584] <2782> SEND OK
+INFO	[2014-10-05 21:41:57:643] <2782> RECV OK
+INFO	[2014-10-05 21:41:57:643] <2782> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005214157678856<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:41:57:643] <2782> VERIFY OK
+INFO	[2014-10-05 21:41:57:643] <2782> PARSE HEAD OK
+INFO	[2014-10-05 21:41:57:644] <2782> PARSE BODY OK
+ERROR	[2014-10-05 21:41:57:644] <2782> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:41:57:657] <2782> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:41:57:657] <2782> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:41:57:657] <2782> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.091sec]
+INFO	[2014-10-05 21:41:57:657] <2782> ===============================================================
+INFO	[2014-10-05 21:43:38:686] <2798> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:43:38:687] <2798> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:43:38:687] <2798> debug:true
+DEBUG	[2014-10-05 21:43:38:687] <2798> admin:1111
+DEBUG	[2014-10-05 21:43:38:687] <2798> mid:mondayapp1
+DEBUG	[2014-10-05 21:43:38:687] <2798> type:auth_bill
+DEBUG	[2014-10-05 21:43:38:687] <2798> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:43:38:687] <2798> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:43:38:687] <2798> billtype:Card
+DEBUG	[2014-10-05 21:43:38:687] <2798> keyPw:apple4U!
+DEBUG	[2014-10-05 21:43:38:687] <2798> buyername:awef
+DEBUG	[2014-10-05 21:43:38:687] <2798> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:43:38:687] <2798> price:34900
+DEBUG	[2014-10-05 21:43:38:687] <2798> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:43:38:687] <2798> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:43:38:687] <2798> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=fmHE0YIhjDsQiAUFradQOpVj6n3ntQuvWgVnCJiQfUwX6b1jN/uqmkihi5DyJgNB
+rpi23CUcaUr/l24wMMQq1xgb+9alyX5uaPF+y86voNd32piRxhfXSBSuDE/9xqp5
+xaTvr2XMkCAFGkTvaM2VKAbC7WfNMXmN+m8SDElQDC1hy7X+GbYwWjBMq1XgdCjI
+eRa3yYXjsx7JwVFcKD+8f1ikBBnArOFetkMJWHnh8db/PFctnJwAjGxm42DT2cqI
+JK0laoGiDiatdKmGHwqEYTF2rL0HJ//XcslzY8LqAlZywGZEtVhpEeRC4DOREdr2
+ygmRZUrlJsZZ1aQDvr93bqLOHL72xpI6UG8mjh4f4pWo0RJ30v8WQ1oyPmnPLPZW
+UUNQ7i1PsvkndA/xpzgyV9aNj+6Q9B72xwH3Qf1XN2/cIBtFTv/lrABDYu7bJ92B
+WfcxpHSuKzHaL4hOuZmGNK3oHH5qOwMQVKlnSs4kDnBVT2ICKGBVYPxenS22bFsR
+mj06/chQJsKxY6b7CdYYe8lFqX+0B8o6457VGphlWoayIcGGAqpra/7GZ99ogL5i
+ytqTwvQZcbW4kWnpwXc9csb4KqOy2V3wrKDviKhuw9NiRHz8YMEo7h03BynqHayN
+GTczQk34tHOuwSIdM6U6OwqZN8+cEhagXpHjVDoGK1Kt3EJEt6tjkfPCGqwG6XwZ
+i0VVr7w8CSFdsfAKlBKEfJ3ugnE8pJhVVcIx1bEHpyuiAPwKancA1eF6AhE0GsRx
+ZW4MrIbOt+lDD5+Y9/treGqmAqghi7/6EGHQuXvc4JlF4nQkmpO4SxNUouD+Ynk1
+614rctNFwycdChJqOIZjlvn+kOgoB/x5el5pCNdZZfjg/0NelWaoZUFeAOYFt4QP
+IT0EcdL/RwqLcE0hEv46xr+rnMB+9NZwcjAy7aSADIFOvZQxfipYLD8fkoeCEmrP
+kRmW50mM29gtIcM+tSePoSv1zIITjleaKo37eNi4VnO9JNgjiByF5MNzRwMOYr8O
+P8nO9yMgTmC3UKoRUWSUEOrCfi9zDc5wECdHE7wKAkFVImN3Gugfmcco7KaHiyoU
+mH6Kg1HBM8+6S7in91RHNRa/syi6VNRm+DYcMJ5eENI=
+
+DEBUG	[2014-10-05 21:43:38:687] <2798> sessionkey:ud0gfKdRQ9nEpX3n309fLk+jlXkvcW7474po9gKz/SL0qpmFbvWcwp3DI+U0qGJO
+pQblG68CBDlvctnsE3slWhmRs3j7Eqy4bDTdxNpwT50Z9pEqdFGcEB/MHDeBfjzU
+5gkSOWhu4/0LYeQ+E5Nh20LgHy1wvkXc5b24OOE4AOM=
+
+DEBUG	[2014-10-05 21:43:38:687] <2798> uid:
+DEBUG	[2014-10-05 21:43:38:687] <2798> MerchantReserved3:
+INFO	[2014-10-05 21:43:38:687] <2798> Check Field OK
+INFO	[2014-10-05 21:43:38:687] <2798> Make TID OK INIphpAuthmondayapp120141005214338872526
+INFO	[2014-10-05 21:43:38:687] <2798> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:43:38:687] <2798> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:43:38:688] <2798> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:43:38:688] <2798> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:43:38:689] <2798> MAKE BODY OK
+INFO	[2014-10-05 21:43:38:691] <2798> SIGN OK
+INFO	[2014-10-05 21:43:38:692] <2798> MAKE HEAD OK
+INFO	[2014-10-05 21:43:38:692] <2798> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005214338872526<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:43:38:693] <2798> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:43:38:706] <2798> SOCKET CONNECT OK
+INFO	[2014-10-05 21:43:38:706] <2798> SEND OK
+INFO	[2014-10-05 21:43:38:768] <2798> RECV OK
+INFO	[2014-10-05 21:43:38:769] <2798> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005214338872526<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:43:38:769] <2798> VERIFY OK
+INFO	[2014-10-05 21:43:38:769] <2798> PARSE HEAD OK
+INFO	[2014-10-05 21:43:38:770] <2798> PARSE BODY OK
+ERROR	[2014-10-05 21:43:38:770] <2798> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:43:38:784] <2798> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:43:38:785] <2798> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:43:38:785] <2798> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.1sec]
+INFO	[2014-10-05 21:43:38:785] <2798> ===============================================================
+INFO	[2014-10-05 21:44:34:898] <2807> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:44:34:898] <2807> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:44:34:898] <2807> debug:true
+DEBUG	[2014-10-05 21:44:34:898] <2807> admin:1111
+DEBUG	[2014-10-05 21:44:34:898] <2807> mid:mondayapp1
+DEBUG	[2014-10-05 21:44:34:898] <2807> type:auth_bill
+DEBUG	[2014-10-05 21:44:34:898] <2807> pgid:INIphpAuth
+DEBUG	[2014-10-05 21:44:34:898] <2807> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:44:34:898] <2807> billtype:Card
+DEBUG	[2014-10-05 21:44:34:898] <2807> keyPw:apple4U!
+DEBUG	[2014-10-05 21:44:34:898] <2807> buyername:awef
+DEBUG	[2014-10-05 21:44:34:898] <2807> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:44:34:898] <2807> price:34900
+DEBUG	[2014-10-05 21:44:34:898] <2807> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:44:34:898] <2807> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:44:34:898] <2807> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=j9tdW7sHQ4NtPxYyz9Qc+9OOrvqP6cUZtvSKzZHlqAJnsCZ7889lyjS8WJXFKp/i
+/PnXQbmuZ0rimmKDT/IOCLmjnyB+W8M3sD1L1exrJBZRB6I5Mcsfw4wOOqO6sgXt
+MrXhgkCW+F0VBImlQp5/r/HNXPgM8Yv2t3rcJ3nGeXqVvi0/iYlAq+PWKS5gi1mv
+jqHicIA8sODjZpm6fGvoxodhk/Bqf2yexslBpwd3Xsx0jF22g2PxTqlvA2eiGoIY
+Wrnp2P1IkTR1rnoejxjZCYwrd3vbVnfmr+fg9/EpLy0xLOzP0x4BiC3Xw/MhxYiT
+Y/kcDCtrFSAxrd2MEW7sIj70735kyUQ8HPBDgkDW52OFtHJg44Nb9WqNCWjnkYNe
+qGuWyEHg9CQzW7mcFrjZAD0oVngtuwPhrNL9lGm3f6n+eVcyuuPHU3F3foQGRE6I
+AxK3Zw4W5Yt+Fx/1WQ619938UgoZO0ysyOQdjsZsvkz7NtfowmlqWHT27Dzyh5u+
+BDhN0wCFF0YK8rhXWoU6En9DXFnu1ltjEU28XFEwCxB/MnT8ppDdPTjetmd/OI5S
+GUet2hWX3Lk5zIaTBtgmeYJdMk2VOx4UXMLuTFmTUgvk4bCEgCUiLmhsUQFSqdTI
+/iWATdtHFqh3gdWfY/EzK2qhnfIIZf5unw0VVoibg4dSi4Wa6buQyEbPLkjwWN/H
+dG6P2J1Zi5PRrfpOR2eP21ueV8/Skn9qd/pxhuNvDKjNKpyQHnyGVO0qb463e/LM
+TQdN3jWq7aMbapwyyl1yYa9NLEjn0XCE5kNo8v/osPE2RaaIMftemwD91q8eUjVK
+FrP1v2mMsdM60I8aqS8KxSuM1dN1iLPLB/vWKXUL/S9MKvAyqDhdoZioqm3LJjqk
++1CS7UhRqbw5oZg9iqhIwR/i6in6oVC1DceXSRgyedwXo+NAX4XBAZM9uv8Bpoc3
+5VJw451qwKUXtnx6meWDJ3IReRIYu/fC5tmoErevXp4EXAKvCV4jGLjiY2Jxcs1e
+nQSaCpJqOmnmPLjveXd1JOa80nMwrn1oTnHf1cBUPG3gGDsuyQTrN7JPJP5lbi4O
+ISxuaiiNrwY5BQ9WFQeUoV2De0tJa34N0xpC482+jDI=
+
+DEBUG	[2014-10-05 21:44:34:898] <2807> sessionkey:y4zqqwvUSeK/Bp/2jzJSGCfnyp8/JIrSDIsGc7GtYaR9JnKqRnNqe0vwpFjPJjdy
+zRCUmOgub4YMgmQgfWscgue7GfIIlfEKytiSi1RaL5RxuyDfmozwgfOylObia0KH
+DBtp0hhdS8a5+85vA01mC93l5XR6aIE4FhHYofEDCpg=
+
+DEBUG	[2014-10-05 21:44:34:898] <2807> uid:
+DEBUG	[2014-10-05 21:44:34:898] <2807> MerchantReserved3:
+INFO	[2014-10-05 21:44:34:898] <2807> Check Field OK
+INFO	[2014-10-05 21:44:34:898] <2807> Make TID OK INIphpAuthmondayapp120141005214434984203
+INFO	[2014-10-05 21:44:34:899] <2807> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:44:34:899] <2807> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:44:34:899] <2807> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:44:34:899] <2807> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:44:34:900] <2807> MAKE BODY OK
+INFO	[2014-10-05 21:44:34:901] <2807> SIGN OK
+INFO	[2014-10-05 21:44:34:901] <2807> MAKE HEAD OK
+INFO	[2014-10-05 21:44:34:902] <2807> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005214434984203<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:44:34:902] <2807> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:44:34:915] <2807> SOCKET CONNECT OK
+INFO	[2014-10-05 21:44:34:915] <2807> SEND OK
+INFO	[2014-10-05 21:44:34:966] <2807> RECV OK
+INFO	[2014-10-05 21:44:34:966] <2807> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005214434984203<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:44:34:967] <2807> VERIFY OK
+INFO	[2014-10-05 21:44:34:967] <2807> PARSE HEAD OK
+INFO	[2014-10-05 21:44:34:969] <2807> PARSE BODY OK
+ERROR	[2014-10-05 21:44:34:970] <2807> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:44:35:49] <2807> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:44:35:49] <2807> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:44:35:49] <2807> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.151sec]
+INFO	[2014-10-05 21:44:35:49] <2807> ===============================================================
+INFO	[2014-10-05 21:47:06:276] <2826> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:47:06:277] <2826> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:47:06:277] <2826> debug:true
+DEBUG	[2014-10-05 21:47:06:277] <2826> admin:1111
+DEBUG	[2014-10-05 21:47:06:277] <2826> mid:mondayapp1
+DEBUG	[2014-10-05 21:47:06:277] <2826> type:auth_bill
+DEBUG	[2014-10-05 21:47:06:277] <2826> pgid:INIPayBill
+DEBUG	[2014-10-05 21:47:06:277] <2826> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:47:06:277] <2826> billtype:Card
+DEBUG	[2014-10-05 21:47:06:277] <2826> keyPw:apple4U!
+INFO	[2014-10-05 21:47:06:277] <2826> Check Field OK
+INFO	[2014-10-05 21:47:06:277] <2826> Make TID OK INIPayBillmondayapp120141005214706771335
+INFO	[2014-10-05 21:47:06:277] <2826> PI PUB KEY LOAD OK []
+INFO	[2014-10-05 21:47:06:278] <2826> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:47:06:278] <2826> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:47:06:279] <2826> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:47:06:280] <2826> MAKE BODY OK
+INFO	[2014-10-05 21:47:06:281] <2826> SIGN OK
+INFO	[2014-10-05 21:47:06:282] <2826> MAKE HEAD OK
+INFO	[2014-10-05 21:47:06:282] <2826> MSG_TO_PG:[0033600175D SHA1                   0                                      390200mondayapp1                    INIPayBillmondayapp120141005214706771335<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:47:06:283] <2826> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:47:06:295] <2826> SOCKET CONNECT OK
+INFO	[2014-10-05 21:47:06:295] <2826> SEND OK
+INFO	[2014-10-05 21:47:06:436] <2826> RECV OK
+INFO	[2014-10-05 21:47:06:436] <2826> MSG_FROM_PG:[0218000175D SHA1                   0                                      390210mondayapp1                    INIPayBillmondayapp120141005214706771335<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:47:06:437] <2826> VERIFY OK
+INFO	[2014-10-05 21:47:06:437] <2826> PARSE HEAD OK
+INFO	[2014-10-05 21:47:06:438] <2826> PARSE BODY OK
+ERROR	[2014-10-05 21:47:06:439] <2826> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:47:06:453] <2826> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:47:06:453] <2826> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:47:06:453] <2826> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.178sec]
+INFO	[2014-10-05 21:47:06:453] <2826> ===============================================================
+INFO	[2014-10-05 21:49:26:761] <2843> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:49:26:761] <2843> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:49:26:761] <2843> debug:true
+DEBUG	[2014-10-05 21:49:26:761] <2843> admin:1111
+DEBUG	[2014-10-05 21:49:26:761] <2843> mid:mondayapp1
+DEBUG	[2014-10-05 21:49:26:761] <2843> type:auth_bill
+DEBUG	[2014-10-05 21:49:26:761] <2843> pgid:INIPayBill
+DEBUG	[2014-10-05 21:49:26:761] <2843> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:49:26:761] <2843> billtype:Card
+DEBUG	[2014-10-05 21:49:26:761] <2843> keyPw:apple4U!
+DEBUG	[2014-10-05 21:49:26:761] <2843> buyername:awef
+DEBUG	[2014-10-05 21:49:26:761] <2843> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:49:26:761] <2843> price:34900
+DEBUG	[2014-10-05 21:49:26:761] <2843> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:49:26:761] <2843> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:49:26:761] <2843> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=KTiXXTiv6bXCxfEVg82qMUC9CrvujUg7hFE3PlAWiRGlcuIXJaj1udJ7OdV/NiSC
+OO24P/rcn2kyeUwTPSI83cDPdsIy2Lp6MIfOpFEwWI72qnYKEhbyjTm8QBLN+JnU
+W6uGbmwpIDdmPqxocvWvIsGd2q48rOZ3VxfFPZfpUv0YpQ9Lk64z0dCDp+lAc2Fd
+Ww68+O/86lK/JUrFkCHdEngGRE0bXQU4qrI5F2PFAO1RUi964k8+wKnLcEQvS/rp
+2yPqBRTiVBQ5yTKyM2dFdLj1KY3CBOt9eHYQWOFjPS9U7dVaZo3D6HKI9JLvHIcu
+k50Frt8UbNU22zCTwtmENNQkMMoGD8DS98YcyH6uZmmLCkDKbtMIj/I37djV129A
+qRDpFQD6/21ssJgQxUbfbg4ZKjBUnoL60IQrr6ZybKKZYgqtUT6Ke6+tj6aZF8z6
+aDiQDR2zFYQ+JRrtPGK1rWv4uaaPBP5Ux26xivd0yTjzbpJoRU2GwyItXQAWfeE9
+vO+gt63tLAf0sOeV9PUMoIR5h56gVZu0rtnkGZbfdGmg1e9L6487HkzFUHD8ebkF
+y1XsiCHAExKG/O3aAmsoNjzPIO3GCctOepYfvYy/LEEh57tdKwn56I+AUtYsQG96
+Z1NHWLqg8P89Lv17fpBA4mN1JI41JU9XNKfrM1430oawuNWR1WJmg+BdU8g0QmPG
+VAYMu+Up3wloGBBvdKJFjpj6K/RBd+B9dRbzfK3jfLec/MkecuU/kwzRGoTUZEvk
+I3G5Vnp0uo8e8blWSuqaP7ERwds8+aolqxWLTvUMx8C796hU20xrCI1D9zAzdAw2
+zdDzSvO1Ghw7S8/PF14upfhSKQU+JTL8Vx0w37i4/WXvNjD/B7aG3TyuzWKHK47U
+r+5tmpBRfZP0wNwlBhF4ZXMxohcy10jWVpanzOQUWfTC75RNcJWDPD0J6LetIyEk
+FIN9hCTekvQn8R+xwmKyLbwQd469uUBlhBTl07acChxhvRmpIjQRy/uHysMP7bMY
+1e7QXQVVnnND5dtJCCNlWDgcXRVOvHnKi4rDpNj3ZO7qRFUH2tpayYMSrotE8SOw
+C6zsOHKHnZMgvE5MLUNqu8yHPeM+LWsB+BLrW+K9ooA=
+
+DEBUG	[2014-10-05 21:49:26:761] <2843> sessionkey:2tZLvMQupI7vQHW7Jqf9r8OeYrhGhzvSTN9E1se1n5+L9L4avjD+eCcl+58PQalu
+wH6ZhSJMcx46jljA1vWqFIFMKMGP3dQRDT/rJzSSBEa/QCI7l3FKr5jc91QuqGcl
+rPbcIcBQI8r4sJRlfWgD18r7pbndZQ/dID3ySsd2ikw=
+
+DEBUG	[2014-10-05 21:49:26:761] <2843> uid:
+DEBUG	[2014-10-05 21:49:26:761] <2843> MerchantReserved3:
+INFO	[2014-10-05 21:49:26:761] <2843> Check Field OK
+INFO	[2014-10-05 21:49:26:761] <2843> Make TID OK INIPayBillmondayapp120141005214926612656
+INFO	[2014-10-05 21:49:26:761] <2843> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:49:26:762] <2843> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:49:26:763] <2843> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:49:26:763] <2843> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:49:26:764] <2843> MAKE BODY OK
+INFO	[2014-10-05 21:49:26:765] <2843> SIGN OK
+INFO	[2014-10-05 21:49:26:766] <2843> MAKE HEAD OK
+INFO	[2014-10-05 21:49:26:766] <2843> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIPayBillmondayapp120141005214926612656<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:49:26:766] <2843> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:49:26:778] <2843> SOCKET CONNECT OK
+INFO	[2014-10-05 21:49:26:779] <2843> SEND OK
+INFO	[2014-10-05 21:49:26:827] <2843> RECV OK
+INFO	[2014-10-05 21:49:26:827] <2843> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIPayBillmondayapp120141005214926612656<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:49:26:827] <2843> VERIFY OK
+INFO	[2014-10-05 21:49:26:827] <2843> PARSE HEAD OK
+INFO	[2014-10-05 21:49:26:828] <2843> PARSE BODY OK
+ERROR	[2014-10-05 21:49:26:828] <2843> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:49:26:845] <2843> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:49:26:845] <2843> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:49:26:845] <2843> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.086sec]
+INFO	[2014-10-05 21:49:26:846] <2843> ===============================================================
+INFO	[2014-10-05 21:56:57:861] <2882> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:56:57:869] <2882> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:56:57:869] <2882> debug:true
+DEBUG	[2014-10-05 21:56:57:869] <2882> admin:1111
+DEBUG	[2014-10-05 21:56:57:869] <2882> mid:mondayapp1
+DEBUG	[2014-10-05 21:56:57:869] <2882> keyPw:1111
+DEBUG	[2014-10-05 21:56:57:869] <2882> type:auth_bill
+DEBUG	[2014-10-05 21:56:57:869] <2882> pgid:INIPayBill
+DEBUG	[2014-10-05 21:56:57:869] <2882> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:56:57:869] <2882> billtype:Card
+DEBUG	[2014-10-05 21:56:57:869] <2882> buyername:waefwef
+DEBUG	[2014-10-05 21:56:57:869] <2882> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:56:57:869] <2882> price:34900
+DEBUG	[2014-10-05 21:56:57:869] <2882> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:56:57:869] <2882> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 21:56:57:869] <2882> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=SGinFXYKnjY4SKFBrBzXN1tezXwfkX2Aj8TKMnIUNe2jeT/xBGcHHLAyNB4bzWPc
+cuk4yOOsWH12PEkGKgUl4JXLOOjfc4614q62k90Qt/HFw5Bih/SzA+7sN7t1XJ5G
+0J5UxdjjVzYWRfbqwRHjxjgGchcnFLusfio9hCxd9tQ+2/bzC7qStvG9mCYymU7b
+otJ4sSynP42oIyEx1bW5fjaVwjigDua7ugai1vR6NKGGIFXNCHAdXEQYbS2rp69d
+KDwRpx4Y1ym9eYb9bNhgnG2JZewG0gcZJJ3/gWtOWpXAj1vdtcLOL6hGul3WfLhZ
+EXepicpsbJiZ7qqAQPf9/jhOpPKJ/Dy+Np/pOGXd71euBvru5IWQVL+egYd3PaDG
+mPatA6Id3e4125TR2mOBargVxDsAdZIk0Dni8zI2xZzjCZF/0j48qEzQX9qSAZmA
+vh1D+f2+YLnvUhcQQhJxnrrgKB3kGDnwjHk/bKUHH5qpIFotOk3NIke7BdD0PezX
+PjWZ42mSnEC/D9Bj0zxjxtrCI4fX+2LiOhx5Jm9YKqvy4vtEEx94WEC/YPuKG/KN
+u+HE2c8cf+5Qn5NcqyA+u8SHc3IuaSq7NB/Al/yAtpYzYIialOinERh/8HZXVUec
+KySy967xNYZDVWF2iDs8tFJq68xQVLr5CKYmgaLvvywKme3+b09IpON3dejQS+U8
+n84bdYsTnYs99o6Zs/YctklPOAaRm11IUmkK4gFJkAfVRTFMLNd5b3rX6IZJ931w
+SDk2n09/d47m0LX/N4BVcbTfscFeccAGMYrA7VJAlxWYfuhk5//HtNrQ7Aqkqx1R
+FXe/0edIdNSd66YrsbC3iCpw3zcDyCOyuW5elGK5n89nNI5LdKgTm/t98SWsvY3M
+fRpqeXVqVKYF/JMfeR0Qnu9blO2V5+4a4ITbJFJAT9pqoiYXZ0h36SKsckNRIHk4
+CTGuJI7Fdod7tn43x8KHkOUvyxgHq8Lz8jlVekkGIYx6X0YOmD8St8HLc6+dnRYz
+rdU8cK/IvaDGhDC2pwoy5oD81xaO8qeK1EcJtTaBMAcuhK8Tn9lnX4UvEVDOIHRo
+PXRYmjvtQ2Ffqg/n1ugRzm7xMN1QCZq7lmOUXgj/uJ8=
+
+DEBUG	[2014-10-05 21:56:57:869] <2882> sessionkey:xQCTyWWPuF/5K/JijXQlp2PkVFAosefsQmq9tRIxL8b28Vbpyk8uxNAk7ASkxRfg
+iEXi1apk/tSR/lLUEHyD6+/cqgXRP8HqSE2IxoMSxVopADFtjy1M1sV4Ztqkm2R6
+k0A9FOQev/vTg873bRy6NuXgQD7QYwwYUSgcIvDslq4=
+
+DEBUG	[2014-10-05 21:56:57:869] <2882> uid:
+DEBUG	[2014-10-05 21:56:57:869] <2882> MerchantReserved3:
+INFO	[2014-10-05 21:56:57:869] <2882> Check Field OK
+INFO	[2014-10-05 21:56:57:869] <2882> Make TID OK INIPayBillmondayapp120141005215657693609
+INFO	[2014-10-05 21:56:57:869] <2882> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:56:57:870] <2882> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:56:57:871] <2882> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:56:57:871] <2882> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:56:57:872] <2882> MAKE BODY OK
+INFO	[2014-10-05 21:56:57:874] <2882> SIGN OK
+INFO	[2014-10-05 21:56:57:874] <2882> MAKE HEAD OK
+INFO	[2014-10-05 21:56:57:874] <2882> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIPayBillmondayapp120141005215657693609<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:56:57:876] <2882> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:56:57:888] <2882> SOCKET CONNECT OK
+INFO	[2014-10-05 21:56:57:888] <2882> SEND OK
+INFO	[2014-10-05 21:56:57:947] <2882> RECV OK
+INFO	[2014-10-05 21:56:57:947] <2882> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIPayBillmondayapp120141005215657693609<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:56:57:947] <2882> VERIFY OK
+INFO	[2014-10-05 21:56:57:947] <2882> PARSE HEAD OK
+INFO	[2014-10-05 21:56:57:949] <2882> PARSE BODY OK
+ERROR	[2014-10-05 21:56:57:949] <2882> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:56:58:10] <2882> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:56:58:10] <2882> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:56:58:10] <2882> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.149sec]
+INFO	[2014-10-05 21:56:58:10] <2882> ===============================================================
+INFO	[2014-10-05 21:58:21:596] <2902> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 21:58:21:603] <2902> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 21:58:21:603] <2902> debug:true
+DEBUG	[2014-10-05 21:58:21:603] <2902> admin:1111
+DEBUG	[2014-10-05 21:58:21:603] <2902> mid:mondayapp1
+DEBUG	[2014-10-05 21:58:21:603] <2902> keyPw:1111
+DEBUG	[2014-10-05 21:58:21:603] <2902> type:auth_bill
+DEBUG	[2014-10-05 21:58:21:603] <2902> pgid:INIPayBill
+DEBUG	[2014-10-05 21:58:21:603] <2902> subpgip:203.238.3.10
+DEBUG	[2014-10-05 21:58:21:603] <2902> billtype:Card
+DEBUG	[2014-10-05 21:58:21:603] <2902> buyername:waefaw
+DEBUG	[2014-10-05 21:58:21:603] <2902> goodname:과일로 건강을
+DEBUG	[2014-10-05 21:58:21:603] <2902> price:34900
+DEBUG	[2014-10-05 21:58:21:603] <2902> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 21:58:21:603] <2902> acceptmethod:BILLAUTH
+DEBUG	[2014-10-05 21:58:21:603] <2902> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=X8Rl7pvIUyF8gKgMZOCbfutJfUe9/EF0XgEt6TdjrZvdpMEVsY5fpG+plRVvH++i
+KyD7KkQjaSSEOEPAJZOJdEhWovv0au+MS5cvGVZLiLY5rRMb08ZwDzXIePSRDR1k
+2DT4CYsLp2zqH4DFud4RS45dcP2Y7k/KZ1XiPEsoKT5xyh1OyYDUBa+1msP1eaq1
+PNnNnXjVgZDUga0FXUDfdjW831kSpzmkVCl+3+vTbNvU9SvCyG2BMNDRDVNmMrQq
+HvyOaO0IKn7BHahvsLBLUFMNFOHEjbiqojEIed3Y/fCqLHzckCd2prpnB8+N1fTj
+KCoWfbmb/96pErdKwFwTY3XmkLKK4jSGzK0upk0rbqli1+K7oAnpvp/xjWpXgQja
+3oZSd+hicZ3EdJBHVEtYGiPdAwcHUgruyRyGXBQfeQt6E354w1ozVrX9SheF4EwL
+FRJ/ldT33LEnIiRgoSNMlEjaQ5CHEb4nAuWPwAj4ihIFANECqLdzog7WfVIbUvWt
+46/GA/4rGmQiusnPObkK4PovOmWeVv1/+ey6FErnZ4NdlOjSLmMYffyCCGx/r5Py
+OIWs/4bV8nqdmpanJ24QqvnFcDtEECepkajXeWNKuHla4usqlhwomqywgxRzU7Jk
+1fadBBAlPFSAiZFHdDDCJpQpUU30QgZ2X7YXd3sJAdP2FSC3qKZcvTCRxXSiOmMr
+qpNruK8ftSftNZkwadRoiQpe2C9hCNPpMMqdFSAO3+gv5uu8h//1DMXY0B2kVY1n
+iMTTIwvoc55aQX7BXAhnx7iBfnEZD+N4j7vcwDJWKx0dguQvWrFUrapiiNmCi8Cl
+VK+ubXka9SzzV/7k90fsfHks8LYavQouTN0cUmJmedfNJu95y5nr50S3Fc6/SAv6
+8Qyssl7vz6mNCqlLDbntXr13p/chMqrmS24Kg5PUbznq+DRFHGWm5M7r31dxNWu1
+DRTlE8MneZo0OR+MvNU9cEmIvXy1I+SGxMZBWC+YDatNA+vBD3mqV9FiBtQrMl5q
+EG7vHSiHqfTdomq8fkFVAOgd46PI3d4o9aITz/pZ3HnFGc6P9af02wDB3srRpLuZ
+YBMftwQo3e5SRbVxFjINdgmwOiov+KGAG4UCL4P+9WY=
+
+DEBUG	[2014-10-05 21:58:21:603] <2902> sessionkey:A3J8Vg0pbl1E7xCAIBOmoOj3oNzOf1vlVPsVcaUQN1j4tO0YYaf56Xc7A+GZVC4L
+vUovYvEGnRTituloYV+zumEWevSXqursohQMocjbx9A2885DjTlJ9R1UbavkR4ra
+hQWNB4bd22TbWrkHankazHW5ANUVhLDU/xNDoZ/ZpAQ=
+
+DEBUG	[2014-10-05 21:58:21:603] <2902> uid:
+DEBUG	[2014-10-05 21:58:21:603] <2902> MerchantReserved3:
+INFO	[2014-10-05 21:58:21:603] <2902> Check Field OK
+INFO	[2014-10-05 21:58:21:603] <2902> Make TID OK INIPayBillmondayapp120141005215821037743
+INFO	[2014-10-05 21:58:21:603] <2902> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:58:21:605] <2902> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 21:58:21:605] <2902> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 21:58:21:606] <2902> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 21:58:21:606] <2902> MAKE BODY OK
+INFO	[2014-10-05 21:58:21:607] <2902> SIGN OK
+INFO	[2014-10-05 21:58:21:607] <2902> MAKE HEAD OK
+INFO	[2014-10-05 21:58:21:607] <2902> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIPayBillmondayapp120141005215821037743<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 21:58:21:609] <2902> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 21:58:21:621] <2902> SOCKET CONNECT OK
+INFO	[2014-10-05 21:58:21:621] <2902> SEND OK
+INFO	[2014-10-05 21:58:21:683] <2902> RECV OK
+INFO	[2014-10-05 21:58:21:683] <2902> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIPayBillmondayapp120141005215821037743<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 21:58:21:683] <2902> VERIFY OK
+INFO	[2014-10-05 21:58:21:683] <2902> PARSE HEAD OK
+INFO	[2014-10-05 21:58:21:684] <2902> PARSE BODY OK
+ERROR	[2014-10-05 21:58:21:684] <2902> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 21:58:21:706] <2902> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 21:58:21:706] <2902> DON'T NEED NETCANCEL
+INFO	[2014-10-05 21:58:21:706] <2902> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.111sec]
+INFO	[2014-10-05 21:58:21:706] <2902> ===============================================================
+INFO	[2014-10-05 22:06:16:805] <2948> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:06:16:812] <2948> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:06:16:812] <2948> debug:true
+DEBUG	[2014-10-05 22:06:16:812] <2948> admin:1111
+DEBUG	[2014-10-05 22:06:16:812] <2948> mid:mondayapp1
+DEBUG	[2014-10-05 22:06:16:812] <2948> keyPw:1111
+DEBUG	[2014-10-05 22:06:16:812] <2948> type:auth_bill
+DEBUG	[2014-10-05 22:06:16:812] <2948> pgid:INIPayBill
+DEBUG	[2014-10-05 22:06:16:812] <2948> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:06:16:812] <2948> billtype:Card
+DEBUG	[2014-10-05 22:06:16:812] <2948> buyername:awef
+DEBUG	[2014-10-05 22:06:16:812] <2948> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:06:16:812] <2948> price:34900
+DEBUG	[2014-10-05 22:06:16:812] <2948> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:06:16:812] <2948> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:06:16:812] <2948> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=PgxVPDNHsL6VpG1+BhAn4T33hT7liFDTlEI4YM7PNznWy0MD6rOb96FY4ddS6D+8
+d4jZWKbQCrX7sdMuJCqSA8pqCkZNSOJerM5MxKn3jypqW649zhIKlw4zxffB/REt
+QuvQcB+v98PCqXMcssJKlHzeDGG4zqN1NpHgi00h4XOpihekd4MFihBqqZyiaMr/
+YufJny9ehhxbTGTcjkZvb+a+9sIA8YxxG+Vsd9sxj2w7EgLgg45N5HFyffxHHMpQ
+qtDNgwYTrVe2/Ve/hXggh4i9M2tFOOoTzVZepsX+VBm+PawiS4M5AQuHfFhn7SPn
+D5yKgV8KsnMd+a/vr5WsA4rRfFRoLDdAOKU1W9A4vY/9au1JrzPyl33FTNeTvDjc
+PHAn15qj2clyd2lWLZ0TmAJcM0/s290d1BdjrMhwzHin3kenh5EQBh2m2Xc+Qqd6
+lRlsWC6KFCSFLtXJJ+6O3tSIYHGTuC+bT6E8OuGBDf8qbYyOFcZwVgPlyqog0DFq
+Qi2prShkEcjl4v7WAZDf85YnlX3xtHNplw/OVh+y9Q1XtttmRbXwaQ8XapW7U8u8
+ALvWItioldVWoL+d2DXIVkVWYXoAhlT9KFtl4x+ILE22/UkwSqYflZBGKEw9EZ3q
++qg801PimGQIJ93Fe4QgtZ3kzHYfI0q/20zTmLc7CwZ1MOmUly4G8WW/cOkH3PbZ
+lTT1btgPNv5yuB2XPMDdDczpdEneMB3BOAe+Bfy7LpgfCXKuSeN2UicoP+PJLliU
++I1Sa8dt3TKbPWINNG8iQi4QLaGnaKIK5EfubI8YsEaZWbdNG+XM1FjROuFM6D/N
+QERXtpmIbMNcXGt1FnUwqUWPByH6voPXhNAZ8Op5c89uOcktgkqQZR/6bbTNscSw
+2VofNl5txgnLwBnwQgG1JfNS9Yj7hQIABPqIEigarB9iP9UKcK398ngYcKx42VZb
+JsOPWXG81YgJfb1/4uppEA+Jlc0FobOuQp9TabwBGxG3x9iJ8SuLB05GAaqY2GeT
+sEwgfYL2qmAV1CiKuMo1Xd12+TEUuigduO+LWn8WxC5bp94aMYy5sgSLqkgSiO1I
+tGTpoyTh1tGgR8dxyVuoXaBFHB7tvRxqO9xRB37kdBA=
+
+DEBUG	[2014-10-05 22:06:16:812] <2948> sessionkey:MlXa+8HTHlTvZzfd91jk70rQy+gdx2RuOm8tYZ9PTmar8WG1VKBamiipuO8F187j
+LwuDoFWw2RC4/O/v8gKjCkIzDl6AM5FZ0b2d/xp/tTteUkY0dvCME04yZCEY0O5V
+CVSaOn8FXyzCDBzpRV8INzNCnlb+2nsmhM7V2WCW2Oo=
+
+DEBUG	[2014-10-05 22:06:16:812] <2948> cardcode:
+DEBUG	[2014-10-05 22:06:16:812] <2948> uid:
+DEBUG	[2014-10-05 22:06:16:812] <2948> MerchantReserved3:
+INFO	[2014-10-05 22:06:16:813] <2948> Check Field OK
+INFO	[2014-10-05 22:06:16:813] <2948> Make TID OK INIPayBillmondayapp120141005220616131264
+INFO	[2014-10-05 22:06:16:813] <2948> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:06:16:814] <2948> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:06:16:814] <2948> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:06:16:815] <2948> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:06:16:815] <2948> MAKE BODY OK
+INFO	[2014-10-05 22:06:16:818] <2948> SIGN OK
+INFO	[2014-10-05 22:06:16:818] <2948> MAKE HEAD OK
+INFO	[2014-10-05 22:06:16:818] <2948> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIPayBillmondayapp120141005220616131264<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:06:16:820] <2948> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0.001
+INFO	[2014-10-05 22:06:16:833] <2948> SOCKET CONNECT OK
+INFO	[2014-10-05 22:06:16:833] <2948> SEND OK
+INFO	[2014-10-05 22:06:16:975] <2948> RECV OK
+INFO	[2014-10-05 22:06:16:975] <2948> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIPayBillmondayapp120141005220616131264<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:06:16:975] <2948> VERIFY OK
+INFO	[2014-10-05 22:06:16:975] <2948> PARSE HEAD OK
+INFO	[2014-10-05 22:06:16:977] <2948> PARSE BODY OK
+ERROR	[2014-10-05 22:06:16:977] <2948> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:06:16:991] <2948> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:06:16:992] <2948> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:06:16:992] <2948> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.187sec]
+INFO	[2014-10-05 22:06:16:992] <2948> ===============================================================
+INFO	[2014-10-05 22:09:19:13] <2972> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:09:19:21] <2972> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:09:19:21] <2972> debug:true
+DEBUG	[2014-10-05 22:09:19:21] <2972> admin:1111
+DEBUG	[2014-10-05 22:09:19:21] <2972> mid:mondayapp1
+DEBUG	[2014-10-05 22:09:19:21] <2972> keyPw:1111
+DEBUG	[2014-10-05 22:09:19:21] <2972> type:auth_bill
+DEBUG	[2014-10-05 22:09:19:21] <2972> pgid:INIPayBill
+DEBUG	[2014-10-05 22:09:19:21] <2972> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:09:19:21] <2972> billtype:Card
+DEBUG	[2014-10-05 22:09:19:21] <2972> buyername:awef
+DEBUG	[2014-10-05 22:09:19:21] <2972> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:09:19:21] <2972> price:34900
+DEBUG	[2014-10-05 22:09:19:21] <2972> ini_offer_period:
+DEBUG	[2014-10-05 22:09:19:21] <2972> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:09:19:21] <2972> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:09:19:21] <2972> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=Jt3TfShL8AXgF2WSojzdmlVpAmcdXzrpKffGFxFMEjGwsCLGsPUsVMd3rDGEGwWW
+UvH6qdqOAiRadSGyW/7l5NedC78ur54JPwVohLWK9k2M7bXw+VFVBjvhT3MpaSmM
+OK8tLX2aC+teAQiCatxLcwaXTgrgNuinvrlADN1mQ/fJBgqUdP7sMRz+hIKJtNmv
+QguE0xzSnomt3HBtZ5y8KAe2GNs4MNMHw5wDyr/6ngXPU0dLk+1fPFy0QYQwB8bn
+gVrso+fMgPw2A4zJPaoAZLLgymMC/mgm+MGZ/rCEVJOkixBIpBS2Zw43lvDWoO18
+5dBaSzTGz43wuGMsuK+oqfO39PC8xMqeOW1kuN+mn7+xj7/v48xFtCLApzcXjaWo
+OQRFvreeDlZf76VqHCrnJWLWc8SNgGyD1SPCQ1aa9LOnn3jetZaCGi1m7JzamNmO
+qeCxlXYX6uL7nQ4K8z5ZKqU4kjysWMNznrnw/sT+VozfzPF1CPS51JnVSpXyuqao
+c1qVJ3VUSQ+b8vwqKDMRlDtStWBIjUzVIF0xkyshPCmaCjc7+IrXic2a0XIrMN+A
+Ma31Rhtjegoh/3IM9X4KjAI1yt26HnE2rXPjmb/2ZmyqDaeCDiEz25UqctgCdBK4
+SYocLvZEG2OuEdmUcUl8QPBUVlcM6gvGefVT1wqsXmQxeesvUxz35LMfGZpCG2n8
+4yhtB7waVQI/GzAf6jGiV48hQlFGdiLyGiUN+hk4aWrZHz2YGUmYYUg/wSYjBiA0
+BwNrYhOyWH4+ZCF5/hU2ZN7886AlFtdHXPmETMusKM+GW3OFLFtPJN2FTlEjnzyp
+apV0EatYhLREHOMwRwPOU1bzPYGES8dhicwM91CCLBjhkGJFq4kZEoc+OJQgnvdZ
+MbmtQSY1ChWV8ANjCmKyeTBiZpnmei3SUWjcWL3wg3cS/zxPgwD3aw0cJhF34KY3
+SQOWcj2EnVvrxNIs9d9NR45j5DXJTvYQJXeYyFD4CY9VDOm9WjeonGl6wrWl2mcL
+dISwVoNCzoKBYjfUKdQQe8mYsS8+C9x6UrW1gBo+lRsjB1b3GrANyqWxm4LDwbPR
+ed4vTKDNPsg1BKSTR8SOTayZJbEf1l9cmdJzpCdHlqM=
+
+DEBUG	[2014-10-05 22:09:19:21] <2972> sessionkey:1d4VRPmzygy1w50r7R++lUOnM+93GhifGsSvKSQjJPM20ryCHYE6w2Benkks6Exy
+LVlit63TBy2343gCuyx2bR2BJ3amBrhTYAZkDiJ14uFD2fb4ym4Q+16+fzSlVwhV
+lEyMqDM6ra7ndp16CsDCTDNnZ/Lpk4VOQzc9rYycj38=
+
+DEBUG	[2014-10-05 22:09:19:21] <2972> cardcode:
+DEBUG	[2014-10-05 22:09:19:21] <2972> uid:
+DEBUG	[2014-10-05 22:09:19:21] <2972> MerchantReserved3:
+INFO	[2014-10-05 22:09:19:21] <2972> Check Field OK
+INFO	[2014-10-05 22:09:19:21] <2972> Make TID OK INIPayBillmondayapp120141005220919212854
+INFO	[2014-10-05 22:09:19:21] <2972> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:09:19:22] <2972> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:09:19:22] <2972> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:09:19:23] <2972> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:09:19:24] <2972> MAKE BODY OK
+INFO	[2014-10-05 22:09:19:25] <2972> SIGN OK
+INFO	[2014-10-05 22:09:19:25] <2972> MAKE HEAD OK
+INFO	[2014-10-05 22:09:19:25] <2972> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIPayBillmondayapp120141005220919212854<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:09:19:27] <2972> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:09:19:39] <2972> SOCKET CONNECT OK
+INFO	[2014-10-05 22:09:19:39] <2972> SEND OK
+INFO	[2014-10-05 22:09:19:101] <2972> RECV OK
+INFO	[2014-10-05 22:09:19:101] <2972> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIPayBillmondayapp120141005220919212854<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:09:19:101] <2972> VERIFY OK
+INFO	[2014-10-05 22:09:19:101] <2972> PARSE HEAD OK
+INFO	[2014-10-05 22:09:19:102] <2972> PARSE BODY OK
+ERROR	[2014-10-05 22:09:19:102] <2972> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:09:19:136] <2972> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:09:19:136] <2972> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:09:19:136] <2972> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.123sec]
+INFO	[2014-10-05 22:09:19:136] <2972> ===============================================================
+INFO	[2014-10-05 22:13:41:205] <3003> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:13:41:205] <3003> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:13:41:205] <3003> debug:true
+DEBUG	[2014-10-05 22:13:41:205] <3003> admin:1111
+DEBUG	[2014-10-05 22:13:41:205] <3003> mid:mondayapp1
+DEBUG	[2014-10-05 22:13:41:205] <3003> keyPw:1111
+DEBUG	[2014-10-05 22:13:41:205] <3003> type:auth_bill
+DEBUG	[2014-10-05 22:13:41:205] <3003> pgid:INIphpAuth
+DEBUG	[2014-10-05 22:13:41:205] <3003> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:13:41:205] <3003> billtype:Card
+DEBUG	[2014-10-05 22:13:41:205] <3003> buyername:awef
+DEBUG	[2014-10-05 22:13:41:205] <3003> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:13:41:205] <3003> price:34900
+DEBUG	[2014-10-05 22:13:41:205] <3003> ini_offer_period:
+DEBUG	[2014-10-05 22:13:41:205] <3003> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:13:41:205] <3003> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:13:41:205] <3003> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=534HUXOEMhaiDZGHTh96lP/XWvlrOur6TgmR39uSOSJ6Io1cOg8NzNaTHrt7oNhj
+9P+LTRLp9tF1lNAlyVabBAQyG34N8lDVN80mNott3P2DgWkMMviBa3NBQ5LR1P4w
+eYqYyroho1pw/puoT7NdHsujz0N6+oGFjxxb48hLRenFUEmnXBegKUp5FR6bSDxK
+bfgCVoTiV7LWN7C+x5isZf5R210oQf1EdSi19lwHsgmgYUGKjpIJ0TfJi8aFnLQ6
+UoTUnYe4ZsFHbPIq0b/VCFRnOArZPBNGFp2IKB0YZjHSKRjh5cPh97FyYfmpek9J
+bjpO/WSQqaDVvEbHN4BWKgu6EWdg7B5Ozz3fJW9iDSV8rFZN1xJPu9aNh5n5GFcY
+AOgg2qMgOvOYQDhMhjX6BLSyP0WkerbPTueB8nYSQHUQSis0XJlyRBmeEDEUwwfM
+Mdquc7TgLarxCVxknLMDL9NI7oz5WgEyuACQ1WASeaLDdGExeLpemL87bt7SYMEL
+nCz0Sn7RFNYjOi3x+kDlBkN+d4Ma8mtkdRZozx9iDRKY6mUq+65CmY+Jefd2OVod
+dUpf1kUs23tNmaz28LQ09a/P3G5ielOV/2MXiJ+QRjx9iehK0nby+e+R3SqJRVw1
+DqndkRoxIcOK3Ch3nb14pMfLWF1eHr8PhZgHE37euA9T9lmagCbOnlhcNcMsM06F
+jyAn9pG/hlHlrJFv8ff3cPOIFclu1vrptNtrEeRAaDUcJeUOEUTr25lWggtLiMys
+8RyLkBnScsLvHmocTgtKITPZbGj7kxwPP/avOyuqTDvWZpa2QHh4NzKSwB5cPxrP
+MpasEYRfw/nEkGlK802/9EGE/ShFqmLgxW8c/XWCTRAXqUEJhnWwCTBcQmLO51wP
+1S0IVHljYCe7CaJD+OvqsS8sllnzbIlupHUgOvTGAXiyTvLoEF5xMz88Oebl+4ce
+vTG6NVROWRa4IlpKeIL8OqXnHe5i/3qHkmMBz37SJSdkcyRerBEs+6ds4tmWFR9G
+neV+JcjRX69ZEjADOe+BIHOTcISsKW05Rjzn7bPgroksRXjynqQ6m9pm2tFMf5fi
+FxERlZgWl5oGIu6qd/KAX8ngaBFHagojsvcxxEuPHS8=
+
+DEBUG	[2014-10-05 22:13:41:205] <3003> sessionkey:m8tkGjZucFP6K3WMF7n880om/6QW9Uf4LdnxyJ7vIKcwCQOzWAYm/Kn8BAyWJ0hn
+VmkGGbn0QGXoDECsd6cb+w45r9ghR71dPUG4CSKnTkGmBkZzuP4KlSNeWpM8uez7
+P4VUncOTRv/KYiZuCrbwa8yQPTjoxOQTw7Bk+xyLmI8=
+
+DEBUG	[2014-10-05 22:13:41:205] <3003> cardcode:
+DEBUG	[2014-10-05 22:13:41:205] <3003> uid:
+DEBUG	[2014-10-05 22:13:41:205] <3003> MerchantReserved3:
+INFO	[2014-10-05 22:13:41:205] <3003> Check Field OK
+INFO	[2014-10-05 22:13:41:206] <3003> Make TID OK INIphpAuthmondayapp120141005221341058889
+INFO	[2014-10-05 22:13:41:206] <3003> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:13:41:206] <3003> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:13:41:207] <3003> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:13:41:208] <3003> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:13:41:209] <3003> MAKE BODY OK
+INFO	[2014-10-05 22:13:41:211] <3003> SIGN OK
+INFO	[2014-10-05 22:13:41:211] <3003> MAKE HEAD OK
+INFO	[2014-10-05 22:13:41:211] <3003> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIphpAuthmondayapp120141005221341058889<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:13:41:212] <3003> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:13:41:225] <3003> SOCKET CONNECT OK
+INFO	[2014-10-05 22:13:41:225] <3003> SEND OK
+INFO	[2014-10-05 22:13:41:285] <3003> RECV OK
+INFO	[2014-10-05 22:13:41:285] <3003> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIphpAuthmondayapp120141005221341058889<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:13:41:285] <3003> VERIFY OK
+INFO	[2014-10-05 22:13:41:285] <3003> PARSE HEAD OK
+INFO	[2014-10-05 22:13:41:286] <3003> PARSE BODY OK
+ERROR	[2014-10-05 22:13:41:286] <3003> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:13:41:299] <3003> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:13:41:299] <3003> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:13:41:299] <3003> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.095sec]
+INFO	[2014-10-05 22:13:41:299] <3003> ===============================================================
+INFO	[2014-10-05 22:19:10:623] <3054> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:19:10:624] <3054> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:19:10:624] <3054> debug:true
+DEBUG	[2014-10-05 22:19:10:624] <3054> admin:1111
+DEBUG	[2014-10-05 22:19:10:624] <3054> mid:mondayapp1
+DEBUG	[2014-10-05 22:19:10:624] <3054> keyPw:1111
+DEBUG	[2014-10-05 22:19:10:624] <3054> type:auth_bill
+DEBUG	[2014-10-05 22:19:10:624] <3054> pgid:INIpayBill
+DEBUG	[2014-10-05 22:19:10:624] <3054> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:19:10:624] <3054> billtype:Card
+DEBUG	[2014-10-05 22:19:10:624] <3054> buyername:awef
+DEBUG	[2014-10-05 22:19:10:624] <3054> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:19:10:624] <3054> price:34900
+DEBUG	[2014-10-05 22:19:10:624] <3054> ini_offer_period:
+DEBUG	[2014-10-05 22:19:10:624] <3054> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:19:10:624] <3054> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:19:10:624] <3054> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=w0umu8oKRM+YQNPUIGcYWNsmCuYW1DU7JxiIaSh7rO19sClAtXermBKtUOBzp/jT
+OrRCKY1EUdg95S1hqCRJrFVv+4XYrTxj7HbpwmDf+k54vygri9Znuh2AJainSpZ/
+OBVIwK4q4jLcMp4n58y8m3dGc5+n4ZZZPLJ05UOFtwjH4AC6803qDO6ZtrcCiFRp
+A3Qdwge7rfkb4TSmDbTE5N7NnlBa7TcnzMDXOcIWoiw+VNGQjeNhYSq6jWIYFRv2
+gSf4GZ8aUpeV1ys0gWnytjSrFxd0MAf1TH+XZt42mhesssnZlqQOWumradsSqIlw
+ZF0k7Y4XkVv5PkE2zVw4TvqpPwyyKK00rTUcg9IEepLQLKdA188JE2OthErifR6B
+11aPr4czpQ9FedeJuqEVIG3yWN3piAdvkUISb/T1HPb2Z1Yq4ATHKzB6Lz9zPhHC
+shjzeDW18bDXjx6qA1MPr6ND1IpmNJ/aCCaCgfyg/YXYdnGfLfdo8LE5QzdxvjKI
+BBYKv/7zBHV2vFycbUyYG/4govCmZbvpgNJXugTZq3R9pN26iS3xgDljpQ7mygIz
+kSkjmWoW7MgpBA56ugSo9OK1ZjAtme6jfJCLlxjvOnls3sLl/tVLA9n+SfwmRiFV
+2RzitDyEagrHA+fDufw6+5RSUKID5YVab/Qi/yswxwJKD0YKXEyDiq1EJBhybZ9r
+qgCTNzhzrtn4wHj7UlzY/2W5/g47nzLO4dRUNHjjdHLPBupK7xl2jm0rN+uA2Qag
+XYOPoJhKdCciKqpuIvnKXN2mphwMIHuHMffEDSCeH9VOtAHPkxc8y0SKm2IVPdFx
+ZTBot5KLYsYEU8TKNjVBXZ7vROahDqj5K22Ad1lwEFh/3894osaYOup6aOqVrXUX
+o5u7FWiOsArzAJfMOcTOQPztLTANeQvtanoERoO7mDilJzADgPCSl/t5LiYxZznj
+0rc551Trudw0hM6YB/Eh/wajxYP5/kQLDn05bcNHKtj2NZ+CkEpSKPn0+ic9JtdV
+CuydF+f0AHLMXuQ5bSe+1bGWL4zMI2XDX3v/OEjwQ/QFXTCV3WW7oyXnMSTlin9u
+voFKxmfMfxIQyCOlu4jPv9UO6nZmsf+Y6UjwKF/I
+
+DEBUG	[2014-10-05 22:19:10:624] <3054> sessionkey:CaGaxx3GnFhACKjKJcXvxmFHq9oZ22Fjh4BrLiMBBkr7chWzTHxMZzGbeXFC6wvY
+jwbonXTOc4rsbZpqUz8eeIPxTIs/43frRE4sHDMTsD4VZrCZRynk6YZ7UiWmjRZt
+kBCLcuy12aVjUlNRNEiKxYg6HXVCWoBuCuHJBnNKhVg=
+
+DEBUG	[2014-10-05 22:19:10:624] <3054> cardcode:
+DEBUG	[2014-10-05 22:19:10:624] <3054> uid:
+DEBUG	[2014-10-05 22:19:10:624] <3054> MerchantReserved3:
+INFO	[2014-10-05 22:19:10:624] <3054> Check Field OK
+INFO	[2014-10-05 22:19:10:624] <3054> Make TID OK INIpayBillmondayapp120141005221910247443
+INFO	[2014-10-05 22:19:10:624] <3054> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:19:10:625] <3054> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:19:10:626] <3054> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:19:10:626] <3054> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:19:10:628] <3054> MAKE BODY OK
+INFO	[2014-10-05 22:19:10:631] <3054> SIGN OK
+INFO	[2014-10-05 22:19:10:631] <3054> MAKE HEAD OK
+INFO	[2014-10-05 22:19:10:631] <3054> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIpayBillmondayapp120141005221910247443<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:19:10:632] <3054> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:19:10:645] <3054> SOCKET CONNECT OK
+INFO	[2014-10-05 22:19:10:645] <3054> SEND OK
+INFO	[2014-10-05 22:19:10:708] <3054> RECV OK
+INFO	[2014-10-05 22:19:10:708] <3054> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIpayBillmondayapp120141005221910247443<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:19:10:708] <3054> VERIFY OK
+INFO	[2014-10-05 22:19:10:708] <3054> PARSE HEAD OK
+INFO	[2014-10-05 22:19:10:710] <3054> PARSE BODY OK
+ERROR	[2014-10-05 22:19:10:711] <3054> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:19:10:724] <3054> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:19:10:724] <3054> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:19:10:724] <3054> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.102sec]
+INFO	[2014-10-05 22:19:10:724] <3054> ===============================================================
+INFO	[2014-10-05 22:21:34:447] <3077> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:21:34:447] <3077> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:21:34:447] <3077> debug:true
+DEBUG	[2014-10-05 22:21:34:447] <3077> admin:1111
+DEBUG	[2014-10-05 22:21:34:447] <3077> mid:mondayapp1
+DEBUG	[2014-10-05 22:21:34:447] <3077> keyPw:1111
+DEBUG	[2014-10-05 22:21:34:447] <3077> type:auth_bill
+DEBUG	[2014-10-05 22:21:34:447] <3077> pgid:INIpayBill
+DEBUG	[2014-10-05 22:21:34:447] <3077> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:21:34:447] <3077> billtype:Card
+DEBUG	[2014-10-05 22:21:34:447] <3077> buyername:awef
+DEBUG	[2014-10-05 22:21:34:447] <3077> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:21:34:447] <3077> price:34900
+DEBUG	[2014-10-05 22:21:34:447] <3077> ini_offer_period:
+DEBUG	[2014-10-05 22:21:34:447] <3077> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:21:34:447] <3077> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:21:34:447] <3077> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=OF9OCkgS/P5C9MWt7sdPGaJAFHJ9c+Jbjo2LBh/7BL9FSg+5oLppky9kAeSv6Cd+
+v+IS8iwIgULOXzYobg8ExoM14vqp7Ku+vefY5cHb3fLukWgKwqAs57NsMwesjRLZ
+Vwc+A64luARPRlLhRv0/kUsW09y041dXOBjT7Dx4bJosddYnG0rZGwFOaHyD6tpw
+29TAONLXfrtTgxf4KzWG3rKLyZvr9pnV7+d6yPj79nSkwLH7AMxHVGgxLfemiih4
+r6uKPp8GX5uO8QyIfX+rQDVbamyy/IQm6j/yBe4Y5n3Dr9hmrGPweyfe+i+puW2J
+Zf1r9MhXRQuTtj4IUK4lVWLYGTcKvydZ28uioR1iKdvWdzqMHAK/d82rQbHd8PCU
+CkrK6TATBOJVMdl6S3kim9xOfG7w9ayA0hQypUYkAaaKkrAPkAB1dILdLTTb/iXC
+ctK1q178j0uf/J06l5LdEew8dZkDuRxP3EI3jaGvze/9wxHZAz9sFhJamaBA+Cpm
+/KHTu1JlAw4/EQfnSoyvJidtw0o6G3s5RLiCKN+ubrYmGkG68RzViozMNh+eV3ce
+2wTMJDNZcBiVGA2VCE4TvQ8D5TU+XntiWzEC35rwOrABU5KSlx7N+O5XgoLEIe6S
+zlAF2EXWAmF0LxFIy0uuNjnkQR/tUzNe/PsGrpsm5gb5AxgB/hhmuw/Q5uZ/X71I
+0NwasjqadmJKzJx7Ooeq5vZL00YLPsoEbhyYd/IhWE/gPZ0/99FAT34mylm5NdME
+OQxb4EYpit+0L4lQjAIRJhBh4/tTUo9j0Szk8MF/h/GjIVcyJoT8DSbnfkPwBwv1
+uxpB14HsS6IhvB/n0evV6svXHbAOaMTF6RbORG9DyMR2Rm+rJ1KqfRkz4L9eB47J
+bCyU2P1by11a+BOS1/xnd51YqSlquoQmGauFstTZ4zynQNIohhtz+/NO6/Ew5B9b
+VYoAqICwSSabQcBfDQjDkryu58BhOyNOD1lFQ3zyoyqd8LqHFycuX6Xy+Qm8lhX+
+Qib5RgXaq5rLpy99Pn7EDDGwYwX0CakB84I1K5AtQYYgbnMyAvTDcxC1XtWoab5r
+44yOle0VPWxX5hA8fyGn9idzvEXzjlkT7IROpjHuOic=
+
+DEBUG	[2014-10-05 22:21:34:447] <3077> sessionkey:EKnQm6XAMzx1vIU8Zhzu2Rk+5l6pDie7kESDnwebeVwvFMQInxOGFAmeQd4R4bQo
+0YIXMi1j6dOb9gpBUIwCyqVQZ/6hCRDYK1tmV+KLOz9FGPeTsRCNv94dmNFcufUI
+/PJUfCTHIlWkoHytRIh8Y6NxTj/ByxyBUK0hMWlgnVM=
+
+DEBUG	[2014-10-05 22:21:34:447] <3077> cardcode:
+DEBUG	[2014-10-05 22:21:34:447] <3077> uid:
+DEBUG	[2014-10-05 22:21:34:447] <3077> MerchantReserved3:
+INFO	[2014-10-05 22:21:34:447] <3077> Check Field OK
+INFO	[2014-10-05 22:21:34:447] <3077> Make TID OK INIpayBillmondayapp120141005222134477335
+INFO	[2014-10-05 22:21:34:447] <3077> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:21:34:448] <3077> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:21:34:448] <3077> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:21:34:448] <3077> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:21:34:449] <3077> MAKE BODY OK
+INFO	[2014-10-05 22:21:34:450] <3077> SIGN OK
+INFO	[2014-10-05 22:21:34:450] <3077> MAKE HEAD OK
+INFO	[2014-10-05 22:21:34:450] <3077> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIpayBillmondayapp120141005222134477335<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:21:34:450] <3077> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:21:34:466] <3077> SOCKET CONNECT OK
+INFO	[2014-10-05 22:21:34:466] <3077> SEND OK
+INFO	[2014-10-05 22:21:34:515] <3077> RECV OK
+INFO	[2014-10-05 22:21:34:515] <3077> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIpayBillmondayapp120141005222134477335<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:21:34:516] <3077> VERIFY OK
+INFO	[2014-10-05 22:21:34:516] <3077> PARSE HEAD OK
+INFO	[2014-10-05 22:21:34:516] <3077> PARSE BODY OK
+ERROR	[2014-10-05 22:21:34:517] <3077> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:21:34:529] <3077> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:21:34:529] <3077> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:21:34:529] <3077> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.082sec]
+INFO	[2014-10-05 22:21:34:529] <3077> ===============================================================
+INFO	[2014-10-05 22:24:27:759] <3098> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:24:27:759] <3098> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:24:27:759] <3098> debug:true
+DEBUG	[2014-10-05 22:24:27:759] <3098> admin:1111
+DEBUG	[2014-10-05 22:24:27:759] <3098> mid:mondayapp1
+DEBUG	[2014-10-05 22:24:27:759] <3098> keyPw:1111
+DEBUG	[2014-10-05 22:24:27:759] <3098> type:auth_bill
+DEBUG	[2014-10-05 22:24:27:759] <3098> pgid:INIpayBill
+DEBUG	[2014-10-05 22:24:27:759] <3098> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:24:27:759] <3098> billtype:Card
+DEBUG	[2014-10-05 22:24:27:759] <3098> buyername:awef
+DEBUG	[2014-10-05 22:24:27:759] <3098> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:24:27:759] <3098> price:34900
+DEBUG	[2014-10-05 22:24:27:759] <3098> ini_offer_period:
+DEBUG	[2014-10-05 22:24:27:759] <3098> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:24:27:759] <3098> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:24:27:759] <3098> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=tGmjo0/Bs+GAwmReisvymWMDPIe0mC68ZRjvwluvDbKXJLc/E2AnmpzD4bT8+rmM
+yunmBRFetkmWTzxMwuOQwdqPCXggCTYduTO52+HWhmhc52dKroh48ReMlyhtR4Mk
+Dte/07uu3l8q0mybJJzAjb2ZJEYGjnu/IJPLqHsj1O17ZYRHZ9oVBz09wBpFDBGh
+44M96tuSiYeyBvqetKWvFt0bagCa3gNrsv2IaT53cWLsnn5kt/cSMU++BN2sLNls
+9sgVVB7FaCMJZdiUlC57SSj5iVCfxfIFvL9s2X9L8PyJOBDNVH++gMCpRETpNN6R
+VhjCrM5penkwUVMr0f4/3755emZdZnajjD1CyAaKT+5Gy+YdDSr+hV8Z2sAZIcOn
+L1HxG/sgZTz0zTWpHUazDbZZMS7Aw0tmVjiOBORaij/WFnrsX3i0F6w5xoKMawjx
+iPBn8epIuU2KB44DnT8x6uYo0ejgAZn+2ixlRIS7EnKq0LcjFzp6ZF3Y6/l2kk25
+BXXl9eJu+uN0pcVg6uul8iRHyOm/8JB0t1PjfSyziK4jOm1/klVQ/eYlgFCgA3+L
+XvWw/oxxexGEl0z7t5gvFnbw32/7I7O/ZLkujy8x9+inr4BjK5ZGcYTP/d0j4IzL
+/KCeeAvAKzrgQ2bUN6DHOxIZ85b6akSAg9MPG5Z+81Ta5ng3jc59wDDbOryPKKzE
+pxQxl/duJIDbjJy7WBzycU76N13hM2Jvr23avJiC1yi64SJCPSTYw5mMHS9Fx/hL
+/8KYfnTjpnLflOfJB/nnOmTJSN+/pVqVHBO08p5QjBUK+avZKu9Idiku2KsEFnNh
+rBCflcCpusmA1KjLsN2guIMJKCiPO5BTRTpozzSNh1s8D1mElxP2D+02GgMJMWlt
+E5J9AiNJolacu0tilZYMbUUYy7tV+NmfcI4MWXdWyCJA+wFoFxx9G3daDc4O8Bpl
+5YHOkZXpm8y2suKOpUBn0amfI3JpqqXGFrnsdQyfrmj0V+e7AVWRiyjxTAW0SraK
+R9WUMQXLfM0U2TPENoVgA6fpxH2QglbVcBLmMefzWwMksExZaVi3yyfQCysa1Kvj
+cTwnmgTSYkFylkHv9/41GN2Je24DQ5SKOSxSDK4N
+
+DEBUG	[2014-10-05 22:24:27:759] <3098> sessionkey:ZLSdYTemFPwb0Dmt6ctHC5eo+PupNignxAOVx6elHRLvmY7JSwxgBUh1cITHnKYm
+W7JeOHVYNYnI8RUYfRUw89zMvHg+83xzF1gdAZuOLfV8AM13PPvjqF5IYcrEvOJQ
+dAnp+yoMxzrB5vsCOMKVU2aW8hvBcsNsQ+CZW+VFXNs=
+
+DEBUG	[2014-10-05 22:24:27:759] <3098> cardcode:
+DEBUG	[2014-10-05 22:24:27:759] <3098> uid:
+DEBUG	[2014-10-05 22:24:27:759] <3098> MerchantReserved3:
+INFO	[2014-10-05 22:24:27:760] <3098> Check Field OK
+INFO	[2014-10-05 22:24:27:760] <3098> Make TID OK INIpayBillmondayapp120141005222427602982
+INFO	[2014-10-05 22:24:27:760] <3098> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:24:27:761] <3098> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:24:27:762] <3098> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:24:27:762] <3098> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:24:27:763] <3098> MAKE BODY OK
+INFO	[2014-10-05 22:24:27:765] <3098> SIGN OK
+INFO	[2014-10-05 22:24:27:765] <3098> MAKE HEAD OK
+INFO	[2014-10-05 22:24:27:765] <3098> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIpayBillmondayapp120141005222427602982<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:24:27:766] <3098> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:24:28:843] <3098> SOCKET CONNECT OK
+INFO	[2014-10-05 22:24:28:843] <3098> SEND OK
+INFO	[2014-10-05 22:24:28:909] <3098> RECV OK
+INFO	[2014-10-05 22:24:28:909] <3098> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIpayBillmondayapp120141005222427602982<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:24:28:909] <3098> VERIFY OK
+INFO	[2014-10-05 22:24:28:909] <3098> PARSE HEAD OK
+INFO	[2014-10-05 22:24:28:910] <3098> PARSE BODY OK
+ERROR	[2014-10-05 22:24:28:911] <3098> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:24:28:981] <3098> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:24:28:981] <3098> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:24:28:981] <3098> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[1.224sec]
+INFO	[2014-10-05 22:24:28:981] <3098> ===============================================================
+INFO	[2014-10-05 22:26:49:293] <3116> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 22:26:49:293] <3116> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 22:26:49:293] <3116> debug:true
+DEBUG	[2014-10-05 22:26:49:293] <3116> admin:1111
+DEBUG	[2014-10-05 22:26:49:293] <3116> mid:mondayapp1
+DEBUG	[2014-10-05 22:26:49:293] <3116> keyPw:1111
+DEBUG	[2014-10-05 22:26:49:293] <3116> type:auth_bill
+DEBUG	[2014-10-05 22:26:49:293] <3116> pgid:INIpayBill
+DEBUG	[2014-10-05 22:26:49:293] <3116> subpgip:203.238.3.10
+DEBUG	[2014-10-05 22:26:49:293] <3116> billtype:Card
+DEBUG	[2014-10-05 22:26:49:293] <3116> buyername:awef
+DEBUG	[2014-10-05 22:26:49:293] <3116> goodname:과일로 건강을
+DEBUG	[2014-10-05 22:26:49:293] <3116> price:34900
+DEBUG	[2014-10-05 22:26:49:293] <3116> ini_offer_period:
+DEBUG	[2014-10-05 22:26:49:293] <3116> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 22:26:49:293] <3116> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 22:26:49:293] <3116> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=K2VUJdUmN6FmJgGXjiA1kOwZuk3rw2UnHm39q9y/95uEEiK7ys+irtUUuKwCrRrH
+mILM4CB8QMDkaYOo16v/TNRAqKHvN2vIg6pKjdBFF7nzbKWo/3V3I5aL2EtHrzb7
+fbJ3LxazkKOnbAB2mSYIGL6J0pJE+zw5Ff6/hJwT6JFLBQ+MX3qm6szGiV8JGMk1
+y7IrRnGeIXVclUO7cT8IUoqOw3B5Xss16PdkDmNoV58CoH5XTYbQem6LS2E2zALf
+vbLbVXa7YftqbbchiXHWPYou/MTJTGVMwj/qqlxSjCj1uX5iALsi+EYRQ27SmX8/
+UqWc6qqQYR/NhZbSK6AeZVm7JD88yHzmrhDMajqllDSr86OKiwAF82OwkHmDj11G
+rk4jwTdJgAJGpxsfNl2a8MD7m7tpDK+IYDc4YM9jX4maHdhQE5Gn0WtYTOxh6Y+5
+t3UIaEuQrc3MlVAtMWt8Be9zhISjAlAHPSKaUAGnh6w8OMlJ2V4P//P7r7OSSM0o
+hBN2F4fjwGfH3RdAwLZ43U76eTr/0lf7lkAFPUeKHsNd6nmSzSwBkMAGRIaItTy0
+89IZL9KxjSIpRY6l2y1PmySiHXkysTwGwiZbYvQNQHf/JcwMDUlkVY8wVnqzeNBv
+HKLsYtNzjkKBEMsFIWUZuwgYMTSKsXY8MdcM0XWPQudemPUu3EFsJeJE2h9vTbo7
+cYiT5X1TlATZbrZVjiBd7FHAz6LgYAMCKzzb7xNNOFwhINsj0rNlPwwqoVe2J616
+i6jQJ7DvGgnxBz002F+K/jUFU1BWifaYvYw5W6Wlh7fAhz+YIfNs4PjxE4SDr8Oj
+qU3XzHsE4TQIRbd9Ak9JpZMYe/kKroqbQGm8f1fxleCoYUXnepBXa36cGYIjRPTB
+GDZBrRr4TNLsLIHAssRxy7HKrMf0AqXkglpu/CfrsvUFtlY8LTTLvIAKtPmpl7Mc
+uCXEAYYhxuPv/LGKfVJ7bb0vM/KgeFC80o1BKzXI3Xqhvc2/Vwz6H+rnvcWqjcZE
+jZ+qJoxL0LfBKtSEgwaosxEpf7DNWVo4Hh3/HnjP0Gi3UZ0/yn7RLXnz3TUplcs0
+2Rl+snBNQHKTFD4TK4aRNlOKvvotvuuXKYP2hE0eBLM=
+
+DEBUG	[2014-10-05 22:26:49:293] <3116> sessionkey:t/xCAhzMZmtkSnfee3HfyFzh1850/VUov8Ex8SH29xdn5dP8cDM5vhtdNXFlyi3A
+Kf442Pur6EgPBRcljPD85FDb4RkWeEB4z2P/Ot97QdXB1johPDXcqYUJtTpbANb8
+hGaHgWh9H+jo6Zb1WEqKwygTR7+X0jWAhMjaKFRwwxI=
+
+DEBUG	[2014-10-05 22:26:49:293] <3116> cardcode:
+DEBUG	[2014-10-05 22:26:49:293] <3116> uid:
+DEBUG	[2014-10-05 22:26:49:293] <3116> MerchantReserved3:
+INFO	[2014-10-05 22:26:49:293] <3116> Check Field OK
+INFO	[2014-10-05 22:26:49:294] <3116> Make TID OK INIpayBillmondayapp120141005222649936193
+INFO	[2014-10-05 22:26:49:294] <3116> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:26:49:295] <3116> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 22:26:49:295] <3116> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 22:26:49:296] <3116> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 22:26:49:297] <3116> MAKE BODY OK
+INFO	[2014-10-05 22:26:49:298] <3116> SIGN OK
+INFO	[2014-10-05 22:26:49:299] <3116> MAKE HEAD OK
+INFO	[2014-10-05 22:26:49:299] <3116> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIpayBillmondayapp120141005222649936193<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 22:26:49:300] <3116> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 22:26:49:312] <3116> SOCKET CONNECT OK
+INFO	[2014-10-05 22:26:49:312] <3116> SEND OK
+INFO	[2014-10-05 22:26:49:369] <3116> RECV OK
+INFO	[2014-10-05 22:26:49:369] <3116> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIpayBillmondayapp120141005222649936193<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 22:26:49:370] <3116> VERIFY OK
+INFO	[2014-10-05 22:26:49:370] <3116> PARSE HEAD OK
+INFO	[2014-10-05 22:26:49:371] <3116> PARSE BODY OK
+ERROR	[2014-10-05 22:26:49:372] <3116> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 22:26:49:792] <3116> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 22:26:49:792] <3116> DON'T NEED NETCANCEL
+INFO	[2014-10-05 22:26:49:792] <3116> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.501sec]
+INFO	[2014-10-05 22:26:49:792] <3116> ===============================================================
+INFO	[2014-10-05 23:04:51:95] <3355> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-05 23:04:51:95] <3355> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-05 23:04:51:95] <3355> debug:true
+DEBUG	[2014-10-05 23:04:51:95] <3355> admin:1111
+DEBUG	[2014-10-05 23:04:51:95] <3355> mid:mondayapp1
+DEBUG	[2014-10-05 23:04:51:95] <3355> keyPw:1111
+DEBUG	[2014-10-05 23:04:51:95] <3355> type:auth_bill
+DEBUG	[2014-10-05 23:04:51:95] <3355> pgid:INIpayBill
+DEBUG	[2014-10-05 23:04:51:95] <3355> subpgip:203.238.3.10
+DEBUG	[2014-10-05 23:04:51:95] <3355> billtype:Card
+DEBUG	[2014-10-05 23:04:51:95] <3355> buyername:awef
+DEBUG	[2014-10-05 23:04:51:95] <3355> goodname:과일로 건강을
+DEBUG	[2014-10-05 23:04:51:95] <3355> price:34900
+DEBUG	[2014-10-05 23:04:51:95] <3355> ini_offer_period:
+DEBUG	[2014-10-05 23:04:51:95] <3355> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-05 23:04:51:95] <3355> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-05 23:04:51:95] <3355> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=GKGQ5AymtEPk3pAKsKtaD433EXBjp5Lg0zhypWJb/ySSU3iK4BMokX9Yi0GRy2Cb
+IMgXJ4M0DeGUDjlECr4RjvV7sVIOJbUXQOQmigbs+tDZ67V35Y7tl6AI3xM2/+Z1
+CmsdCqMoujEQQP3ke6XlRUSgythN9Yt8Tsjku/QunT6fUNrREkoXYEBTI5fCezR3
+5nxkvSgYmxOlGxBSFT84MYKZjZYTGPgEN54iOAqRjSkwCb0WR8un1kQQ+AipQPIH
+Qi8xH9MK2+N+gIU51yyUo/L1hltIPM/GoUlJAVeol+CrPjX6taWscMDu9OeBo4US
+WYEGPMGCNFRvp3qg9nEgPTkKCQ+HksNsvCQqzS3t+XzAryQEfdrB+BUu4qh4e4Ez
+R2JGBGTnD92vJvtOT7zS4/sWr3HLeVuGL9YkN4ESH1z3SZbof/xmE2a0Zhud1kgs
+IhFAwAsgTtvKOzoT3Uu/Js9axXUwiU/iS8oabyTayGcylhDndRsZQhmYtPmVCnlb
+iGDefYKmosjftahxPkkwPTO+eHa/r8IPPjzJyBTADNuqkUL7hWTjpTXL2ZlhLtu+
+vq/5YWmpnn6/qxMfQJjZgr11yOaABlHDPHzGdHFMvy/tt2/bnDXa+u68vOmrlHiA
+MR9UKov8FAV9pWiDJXkyUW7CJEDCdgfkENp3ZJt+p/YsduImtyWs1oVtQJVXFJ7R
+OAY6eb29TAH8yBfv2zBzKDk7NRKQTostptOVDJTaSUDMaNVq663CrnglvvAjWUhU
+UAzwYnLRZ4PGQGM4c3htTdytvncDrrdButaQg8uduqc3SWZJSvBF0LI4Pw1MZ9af
+owOezDDeEHPz3ulpVItrIauaoo7ciRo30wqqLcsiWg2QHmwySgSylKN7HXajHHEy
+OeDuTo4zKlkV8OYlhoLXToRO58F8V+o2P25rtoKBgMXS1/+NnIZVxol3yet+0Ejz
+d7gWQLOdAqjEl+WHwP44tT8Lkxb3YuvhpgmSwNGMXvvqTWgw9wU0L50kTJ1Cl9Wy
+sU6avk5Fywmpt8pinpahYNceXPjFDKeil9MicXnk6dF4gJpXyybU+wePAj0HbnKH
+m1U33vPyrAGWQnXWvQleSMloobgsDE5SibjWyP5jHio=
+
+DEBUG	[2014-10-05 23:04:51:95] <3355> sessionkey:mRrRCtcHK0Uht8y7yjHBkwBQCYau4OeIj06MwuZDQPKMuJmdMUAlcewzMi5evMiO
+XcYvr+nk/HGV2p0V6Y55sH7jSF/ANTBF/PR5LvUb9bnIgfY5Yin/WNh/+9D1UkAW
+RSQGcnmJTs1tdyv74Z4xUK473AhuBjZDfjZlYSCnz+o=
+
+DEBUG	[2014-10-05 23:04:51:95] <3355> cardcode:
+DEBUG	[2014-10-05 23:04:51:95] <3355> uid:
+DEBUG	[2014-10-05 23:04:51:95] <3355> MerchantReserved3:
+INFO	[2014-10-05 23:04:51:96] <3355> Check Field OK
+INFO	[2014-10-05 23:04:51:96] <3355> Make TID OK INIpayBillmondayapp120141005230451961059
+INFO	[2014-10-05 23:04:51:96] <3355> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-05 23:04:51:97] <3355> PG PUB KEY LOAD OK [39]
+INFO	[2014-10-05 23:04:51:97] <3355> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-05 23:04:51:98] <3355> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-05 23:04:51:101] <3355> MAKE BODY OK
+INFO	[2014-10-05 23:04:51:103] <3355> SIGN OK
+INFO	[2014-10-05 23:04:51:103] <3355> MAKE HEAD OK
+INFO	[2014-10-05 23:04:51:103] <3355> MSG_TO_PG:[0033600175D SHA1                   0                  39                  390200mondayapp1               34900INIpayBillmondayapp120141005230451961059<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AUBmWNspa5/MZF0YR2dx5j+FbAkqJWfBHg1fbctDhURHwk0UdBbLLFOrgKJyUD4c
+gYbR6r0T0rKvelOHlUf9x8OzVgxkGygmPCkEohobdNcuZx+Za/qFsZKESe5CmpyF
+7yQVIKyNCSSou9AFYKqk/1Rai23J8VbkG8MMlpJnsEb/
+]
+INFO	[2014-10-05 23:04:51:105] <3355> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-05 23:04:51:118] <3355> SOCKET CONNECT OK
+INFO	[2014-10-05 23:04:51:118] <3355> SEND OK
+INFO	[2014-10-05 23:04:51:181] <3355> RECV OK
+INFO	[2014-10-05 23:04:51:181] <3355> MSG_FROM_PG:[0218000175D SHA1                   0                  39                  390210mondayapp1               34900INIpayBillmondayapp120141005230451961059<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+    <PGcertKey>-----BEGIN CERTIFICATE-----
+MIIDcTCCAtqgAwIBAgIBHjANBgkqhkiG9w0BAQQFADCBiDELMAkGA1UEBhMCS1Ix
+DjAMBgNVBAgTBVNlb3VsMRgwFgYDVQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNV
+BAsTBklOSXBheTEfMB0GA1UEAxMWSU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsG
+CSqGSIb3DQEJARYOZGV2QGluaWNpcy5jb20wHhcNMDcwOTA2MDYxNTI0WhcNMTcw
+OTAzMDYxNTI0WjCBiDELMAkGA1UEBhMCS1IxDjAMBgNVBAgTBVNlb3VsMRgwFgYD
+VQQKEw9JbmljaXMgQ28sIEx0ZC4xDzANBgNVBAsTBklOSXBheTEfMB0GA1UEAxMW
+SU5JcGF5IFBheW1lbnQgR2F0ZXdheTEdMBsGCSqGSIb3DQEJARYOZGV2QGluaWNp
+cy5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOC8v1rxqoo7tonq7t4d
+c3FVfIlLyA9ku+l9+d5pUQrbiUXDe8NoJZnoSyud4WhOUrN2ZpzNmjGxuPquYrT/
+LkXoR+ib9OAhFBp7izstjHEA+oUNTVO24MRRvOHWWaLrCeTNX9PeaZl9ploojyHc
+Uxm5/gIlPEojiaWNc3HVnb55AgMBAAGjgegwgeUwHQYDVR0OBBYEFGgqMfJUMSUQ
+pjyGnurepI+NUf6JMIG1BgNVHSMEga0wgaqAFGgqMfJUMSUQpjyGnurepI+NUf6J
+oYGOpIGLMIGIMQswCQYDVQQGEwJLUjEOMAwGA1UECBMFU2VvdWwxGDAWBgNVBAoT
+D0luaWNpcyBDbywgTHRkLjEPMA0GA1UECxMGSU5JcGF5MR8wHQYDVQQDExZJTklw
+YXkgUGF5bWVudCBHYXRld2F5MR0wGwYJKoZIhvcNAQkBFg5kZXZAaW5pY2lzLmNv
+bYIBHjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4GBANUj8vYzU2Q9pebQ
+yX+6U9e36DeO/+15iDgU2PRK63uPaEa6vMqN2ibI8twolZB2t2oqIRgO44Hf3Nyf
+1XKNzCP1eRF1XreGOnrPZtJ5UeUs3RNBqvQkIAdSW80jkXw0i/7i95BYxRIJWSIE
+2fLjemy6r8gAQgWRAPv32F0xwRRT
+-----END CERTIFICATE-----
+</PGcertKey>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+2tmb4xm7KHcTAEZl9T1XU7Hp/2y5jvaTqb0EaImFSM3MUM1yCnnfqnU4G08wVs66
++OrtG0C3IzDK7Qc34Tu3xWKcyIRuW0qK0V4DQV7qDRSzZ/aTAx7+TkRhlGE++3Ly
+NAqf9tKIVPqzY6sZvQyIdxfNOd2TscKvaXCUN4QNTn8=
+]
+INFO	[2014-10-05 23:04:51:182] <3355> VERIFY OK
+INFO	[2014-10-05 23:04:51:182] <3355> PARSE HEAD OK
+INFO	[2014-10-05 23:04:51:183] <3355> PARSE BODY OK
+ERROR	[2014-10-05 23:04:51:183] <3355> 복호화 실패[지불수단오류]
+INFO	[2014-10-05 23:04:51:860] <3355> WAIT NETCANCEL INVOKING
+INFO	[2014-10-05 23:04:51:860] <3355> DON'T NEED NETCANCEL
+INFO	[2014-10-05 23:04:51:860] <3355> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.767sec]
+INFO	[2014-10-05 23:04:51:860] <3355> ===============================================================

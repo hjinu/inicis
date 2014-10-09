@@ -1,0 +1,28 @@
+INFO	[2014-10-07 17:13:21:63] <8700> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-07 17:13:21:64] <8700> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-07 17:13:21:64] <8700> debug:true
+DEBUG	[2014-10-07 17:13:21:64] <8700> admin:1111
+DEBUG	[2014-10-07 17:13:21:64] <8700> mid:
+DEBUG	[2014-10-07 17:13:21:64] <8700> type:chkfake
+DEBUG	[2014-10-07 17:13:21:64] <8700> enctype:asym
+DEBUG	[2014-10-07 17:13:21:64] <8700> checkopt:false
+DEBUG	[2014-10-07 17:13:21:64] <8700> nointerest:no
+DEBUG	[2014-10-07 17:13:21:64] <8700> price:34900
+DEBUG	[2014-10-07 17:13:21:64] <8700> quotabase:선택:일시불
+ERROR	[2014-10-07 17:13:21:346] <8700> 필수항목(mid)이 누락되었습니다.
+INFO	[2014-10-07 17:13:21:346] <8700> END chkfake [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.284sec]
+INFO	[2014-10-07 17:13:21:346] <8700> ===============================================================
+INFO	[2014-10-07 22:19:10:264] <9879> START INIPHP chkfake (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-07 22:19:10:264] <9879> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-07 22:19:10:264] <9879> debug:true
+DEBUG	[2014-10-07 22:19:10:264] <9879> admin:1111
+DEBUG	[2014-10-07 22:19:10:264] <9879> mid:
+DEBUG	[2014-10-07 22:19:10:264] <9879> type:chkfake
+DEBUG	[2014-10-07 22:19:10:264] <9879> enctype:asym
+DEBUG	[2014-10-07 22:19:10:264] <9879> checkopt:false
+DEBUG	[2014-10-07 22:19:10:264] <9879> nointerest:no
+DEBUG	[2014-10-07 22:19:10:264] <9879> price:34900
+DEBUG	[2014-10-07 22:19:10:264] <9879> quotabase:선택:일시불
+ERROR	[2014-10-07 22:19:10:306] <9879> 필수항목(mid)이 누락되었습니다.
+INFO	[2014-10-07 22:19:10:306] <9879> END chkfake [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.044sec]
+INFO	[2014-10-07 22:19:10:307] <9879> ===============================================================

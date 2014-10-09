@@ -1,0 +1,22 @@
+INFO	[2014-10-06 16:53:14:307] <5800> START INIPHP cancel (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-06 16:53:14:307] <5800> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-06 16:53:14:307] <5800> debug:true
+DEBUG	[2014-10-06 16:53:14:307] <5800> admin:1111
+DEBUG	[2014-10-06 16:53:14:307] <5800> mid:
+DEBUG	[2014-10-06 16:53:14:307] <5800> type:cancel
+DEBUG	[2014-10-06 16:53:14:307] <5800> tid:INIphpISP_INIpayTest20141006165253959626
+DEBUG	[2014-10-06 16:53:14:307] <5800> message:
+ERROR	[2014-10-06 16:53:14:320] <5800> 필수항목(mid)이 누락되었습니다.
+INFO	[2014-10-06 16:53:14:320] <5800> END cancel [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.013sec]
+INFO	[2014-10-06 16:53:14:320] <5800> ===============================================================
+INFO	[2014-10-06 16:55:18:677] <5820> START INIPHP cancel (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-06 16:55:18:677] <5820> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-06 16:55:18:677] <5820> debug:true
+DEBUG	[2014-10-06 16:55:18:677] <5820> admin:1111
+DEBUG	[2014-10-06 16:55:18:677] <5820> mid:
+DEBUG	[2014-10-06 16:55:18:677] <5820> type:cancel
+DEBUG	[2014-10-06 16:55:18:677] <5820> tid:INIphpISP_INIpayTest20141006165253959626
+DEBUG	[2014-10-06 16:55:18:677] <5820> message:
+ERROR	[2014-10-06 16:55:18:701] <5820> 필수항목(mid)이 누락되었습니다.
+INFO	[2014-10-06 16:55:18:701] <5820> END cancel [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.026sec]
+INFO	[2014-10-06 16:55:18:701] <5820> ===============================================================

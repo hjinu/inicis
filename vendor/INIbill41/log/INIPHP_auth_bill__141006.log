@@ -1,0 +1,44 @@
+INFO	[2014-10-06 16:43:55:573] <5729> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-06 16:43:55:573] <5729> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIbill41
+DEBUG	[2014-10-06 16:43:55:573] <5729> keyPw:1111
+DEBUG	[2014-10-06 16:43:55:573] <5729> type:auth_bill
+DEBUG	[2014-10-06 16:43:55:573] <5729> pgid:INIpayBill
+DEBUG	[2014-10-06 16:43:55:573] <5729> subpgip:203.238.3.10
+DEBUG	[2014-10-06 16:43:55:573] <5729> billtype:Card
+DEBUG	[2014-10-06 16:43:55:573] <5729> debug:true
+DEBUG	[2014-10-06 16:43:55:573] <5729> admin:1111
+DEBUG	[2014-10-06 16:43:55:573] <5729> buyername:awefa
+DEBUG	[2014-10-06 16:43:55:573] <5729> goodname:과일로 건강을
+DEBUG	[2014-10-06 16:43:55:573] <5729> price:34900
+DEBUG	[2014-10-06 16:43:55:573] <5729> ini_offer_period:
+DEBUG	[2014-10-06 16:43:55:573] <5729> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-06 16:43:55:573] <5729> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-06 16:43:55:573] <5729> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=3cd2ucBtGBxbc8lG64ibTDF8oD5/aREuxWXWh6xmTnvDYTpvhQnoKzHL2JaekDZ+
+D/hg6J6HC0j0FMjK2jZ03lKJpTznZCCK30FFl7LeEo1/OxYXUNZiwh4jPQmX2EmP
+VwzuK2yQuMYJAaIIPxcftsdR2Zadl4FrhqBPT/QBdlYQQOG6EeSZKziJ+6OIl3Xu
+JrRPTbHFA6gbAktFeLjymjr3sMc4gK4QQbAzd8FZTQoh9fcXpNiaK+jc8oP6R1nv
+ZFS6YoZz1M3INCVp9TAR67Gb+xAN3tzY1hvrokJwZpPdwmD+Gy1NZw4QwpjVx/mU
+akLGDuTKvYmZtRSihGlPk8yOSJqBNL4uG0glGDPhIdy1cNMO0aylWgpvsYuedtDL
+XdPeoA1nvwUdIzrl/Kcvf0JjNzl8eze1EShdTTjPx7AnmHmNDl5zF5vbbotF0Feh
+O+PyXYTAznmWXaGzibawxif/5G9rsDttjJZ+bLCJonfFsvTDdgQnG7NaS6yR3z8l
+k+GyZrKznRSX8xQMyOXdSCaQ5OrHST1ZKQxW/zhXRAzTI0jNtt+KMANTJzWHiRp4
+8uCi5xYsMLQGZkhF+6BEwAS+y191XRo5aPXx7JXFcc1IhkZgjWExi2E3/vmEPfRY
+TBLzIAruE9uWdf9bs6kWh235RRTF5y+SlepAPeADd8GOT2W1YpPlvfeinp5lVE6Z
+Fc+lSCFdlZNJajEBw6oEDrcWscijjxHL1/lpqNP6S/25ytMHU9aFLRe/O6Hb+x1n
+gvfEA49xa6IYWHzA5ss8jFtLv+gjH1gp8HIw8xV2zscRiKeF/15d5gH3HRRbgjB/
+C2tytVIZ8whhO1080mWetlM684c+OdyPm1NXt2UmhZtgZR+8cPmSl8IW/5vAJLCg
+T5iWXdTWdNmRB+5HtPgQ3EM6ZUX4ma2sKzU1rJHgPaqfBIDeWeDOoGaXeoCFcNGg
+rn/aweDP6whUsIJgqwLX20OdMAlwSKCneMnPpyL2VjE0JQWbnXFCWdI3EK/Pgdrm
+CgU+AaKxe6WV6ED+h1XEaBlrq69H1i8uhc/zl9QQ12gMUV8kcQO2QnlDjRx/+izZ
+/vYOA+25f4B/gu1QCY9J5nRLJbE5XNR02KwpPo8HKqQ=
+
+DEBUG	[2014-10-06 16:43:55:573] <5729> sessionkey:0MJhViJAZfSaJ8LsnNkUWE7XT/kngNiB88vyGgxXDchszMDRcEtYidh+AHLykYjZ
+K+Xens/bv6XxW1AWGdk32ru4iZpCptR1v7Teevrtjtgd+gauAICrhz1yFbKESD8A
+Q+O1UCIz6NPAmWSbodlt8b9yoiMV0letCyjXu7BYPj0=
+
+DEBUG	[2014-10-06 16:43:55:573] <5729> cardcode:
+DEBUG	[2014-10-06 16:43:55:573] <5729> uid:
+DEBUG	[2014-10-06 16:43:55:573] <5729> MerchantReserved3:
+ERROR	[2014-10-06 16:43:55:587] <5729> 필수항목(mid)이 누락되었습니다.
+INFO	[2014-10-06 16:43:55:588] <5729> END auth_bill [TX9202|필수항목(mid)이 누락되었습니다.] Laptime:[0.016sec]
+INFO	[2014-10-06 16:43:55:588] <5729> ===============================================================

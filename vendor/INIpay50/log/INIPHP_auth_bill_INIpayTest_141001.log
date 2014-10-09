@@ -1,0 +1,110 @@
+INFO	[2014-10-01 14:28:24:829] <79046> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-01 14:28:24:829] <79046> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-01 14:28:24:829] <79046> debug:true
+DEBUG	[2014-10-01 14:28:24:829] <79046> admin:1111
+DEBUG	[2014-10-01 14:28:24:829] <79046> mid:INIpayTest
+DEBUG	[2014-10-01 14:28:24:829] <79046> type:auth_bill
+DEBUG	[2014-10-01 14:28:24:829] <79046> subpgip:203.238.3.10
+DEBUG	[2014-10-01 14:28:24:829] <79046> pgid:INIphpAuth
+DEBUG	[2014-10-01 14:28:24:829] <79046> buyername:홍진우
+DEBUG	[2014-10-01 14:28:24:829] <79046> goodname:과일로 건강을
+DEBUG	[2014-10-01 14:28:24:829] <79046> price:34900
+DEBUG	[2014-10-01 14:28:24:829] <79046> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-01 14:28:24:829] <79046> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-01 14:28:24:829] <79046> encrypted:Version=4.1&PayMethod=Auth&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&ver_trace=Bill(6017,6015)net(6008)Cs(6022)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6131)Re(6083)Vr(6006)en(6039)P(6033)&pg1=211.219.96.180&pg2=203.238.37.3&BillPayMethod=0&pg1ip=211.219.96.180&pg2ip=203.238.37.3&Data=Qaswg3q4E0W8fZqSfpqXT0UrB63vei0pplBJsLVFA32ufs+0eghlm62O4hQYOjAb
+87YlAnHVybRuE2Dr3/LZ9nAM4gFu9TgcLAuHKuKSK5C8runbx1HuG0RkFySa4GCk
++IeAcqgVst1jlT+N1vneyvRhq12AQbcJjcISfOFZL1uuO4o3C2y5mXBrqPQkjJRr
+oZlbm/2u7HRbHebMC1hm96gvZC01ruXOi4PotNQSeND+K9ZKgtpbzMKRzr8vHa17
+tlyZcr9PXE+EZM52mMWDRWdj3INy5w31TSRM5pU9tSxE0uJRkNmMZieePiIzAsuB
+f7m2fgtBlcZo4DmjBcG1nsqoo/Y0qiVXSbF5HZEmJfvlnwV7N0K8zsASqZRNJ2o5
+ogR9GvJPBeYvm4hGDpKRPtqVe2wv19CksVcK5fefs94e3yRqvz2nOV/71dtKK+iX
+vFoDyONBCuuylJQ2YBMx83onvmgUipu33OlaP+G9Ccvzds1fkT4bRzLwzuArC5MA
+U4ausgby04NKIhPfodlAZCBiPegsYgZ69t1TiiUSn9igb3Kjd6SgajM1ufsc3jqh
+C3AOKxtqOPIhFlYRPQxxG7TXj0RUrgxPRZQ2vxmDJDIIQJPmmaNcG8jbb2kLHmHh
+ZfDpkQil5t8/nt29mADY0AFeMkslhdkxHowuMhMLDsKulqf4mgu6sHZPxKLqp4N3
+uNDiM7miVyZD9mRxlb6HeCLAIXM0iRjBpK/cNNUfZpf5FyWrQ/sQECWr6deZSJVT
+HHe7Q1XPIHTdDxJm/QtoPNvzWCRILsN5ThI6ZjPp16XqhzwrYDVWErcPdFAW3/Zl
+nfs2/0ynj0LbIiyBkyfE4oCYYxOg+uZLs/1paQ2QICvGwS0LAs2zmNnm3RlYVb2W
+Dxqpsru5UNeq68y2eR7jS3LHAqUXQ4XYjraM2Kun+9zNoHcdo0yp9VUukIJYN8xY
+l7C5qE4XMVfnOwVDooBUz/dmJB6CNveftAaOJlarIuZxYEmQsPzvBUDFHbTK0Mq2
+pZ5GEPsMamTMrsJROxXMAiLWr3wtivNKBhSmOsp1mEgy049aiNQ56qTdP+79JieX
+kJoh5E71cBL6H1YHXLLWiDRP0dhf6iDmYv94H+llfKA=
+
+DEBUG	[2014-10-01 14:28:24:829] <79046> sessionkey:bpO2ZXckz6n+7WgybUuFX+03NyaIz+0VviFOfMnNpaTePlpbDCMbRdNesgV9ewCl
+XAK0nxuLiGCYWYOS+OMp3bYvS5kYvF2Sxf44cmSs8Bp09Hum7a0ikBgXdc2gItIB
+A4U5qB1Demku248Zp7Zmad01aBwEQpRxbudRaz7HIzs=
+
+DEBUG	[2014-10-01 14:28:24:829] <79046> cardcode:
+DEBUG	[2014-10-01 14:28:24:829] <79046> uid:
+DEBUG	[2014-10-01 14:28:24:829] <79046> MerchantReserved3:
+INFO	[2014-10-01 14:28:24:829] <79046> Check Field OK
+INFO	[2014-10-01 14:28:24:829] <79046> Make TID OK INIphpAuthINIpayTest20141001142824295421
+INFO	[2014-10-01 14:28:24:829] <79046> PI PUB KEY LOAD OK [39]
+INFO	[2014-10-01 14:28:24:838] <79046> PG PUB KEY LOAD OK [30]
+INFO	[2014-10-01 14:28:24:839] <79046> MERCHANT PRIV KEY LOAD OK
+INFO	[2014-10-01 14:28:24:839] <79046> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2014-10-01 14:28:24:841] <79046> MAKE BODY OK
+INFO	[2014-10-01 14:28:24:843] <79046> SIGN OK
+INFO	[2014-10-01 14:28:24:844] <79046> MAKE HEAD OK
+INFO	[2014-10-01 14:28:24:844] <79046> MSG_TO_PG:[0033600175D SHA1                   0                  39                  300200INIpayTest               34900INIphpAuthINIpayTest20141001142824295421<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5034B120709auth_Darwin    PHPchkfake   13.3.0PHP:5.4.24              </TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>3ScHGCSuopuzfZZkwGhglxiDQe7xBEVbQ1Xc/Ua6kHGKptRUSUSudJ/MOUTbc9j9
+Ft/lsY7UdPRlBBZT+JT+XaBmIHaSI/1RQMUUN/3JJR5Jfi4BUtmJIwNIpbrWCKjr
+jkdSZgbU+7Lcc70zuT4TaUTpes6fMw3b3ATMqmT31aU=
+]
+INFO	[2014-10-01 14:28:24:845] <79046> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2014-10-01 14:28:24:858] <79046> SOCKET CONNECT OK
+INFO	[2014-10-01 14:28:24:858] <79046> SEND OK
+INFO	[2014-10-01 14:28:24:906] <79046> RECV OK
+INFO	[2014-10-01 14:28:24:906] <79046> MSG_FROM_PG:[0089900175D SHA1                   0                  39                  300210INIpayTest               34900INIphpAuthINIpayTest20141001142824295421<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt></GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency></Currency>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey></SessionKey>
+      <Encrypted></Encrypted>
+      <PayMethod></PayMethod>
+      <ResultCode>400606</ResultCode>
+      <ResultMsg urlencode="1">%C1%F6%BA%D2%BC%F6%B4%DC%BF%C0%B7%F9</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+w/zkyXq0yPzfj6dji0+vFbV4g20D1m14ujaEuO/s5Knnhw8c3qCgkLzt1EPivUCh
+Yvw5iLgPeFfR1TOZQ0hRv+eYcjwZIjq86Q3/a4CAqiQ6ZgZFmQx0YK2FUaRvmM7S
+NP1C+YVglddWwjuIijfX+i+8TreASXhsTqQnxHESc4o=
+]
+INFO	[2014-10-01 14:28:24:907] <79046> VERIFY OK
+INFO	[2014-10-01 14:28:24:907] <79046> PARSE HEAD OK
+INFO	[2014-10-01 14:28:24:907] <79046> PARSE BODY OK
+ERROR	[2014-10-01 14:28:24:908] <79046> 복호화 실패[지불수단오류]
+INFO	[2014-10-01 14:28:25:86] <79046> WAIT NETCANCEL INVOKING
+INFO	[2014-10-01 14:28:25:86] <79046> DON'T NEED NETCANCEL
+INFO	[2014-10-01 14:28:25:86] <79046> END auth_bill [TX9115|복호화 실패[지불수단오류]] Laptime:[0.257sec]
+INFO	[2014-10-01 14:28:25:86] <79046> ===============================================================

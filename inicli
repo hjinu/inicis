@@ -13,7 +13,10 @@
  *                     --params='[paramaters in JSON format]'
  */
 
+ini_set('error_reporting', E_ALL | E_NOTICE);
+ini_set('display_errors', 'Off');
 date_default_timezone_set('Asia/Seoul');
+
 $required_extensions = array('mcrypt', 'sockets', 'xml', 'openssl', 'mbstring' );
 foreach ($required_extensions as $ext_name) {
     if ( !extension_loaded($ext_name) ) {
@@ -34,10 +37,15 @@ if (false == in_array($opts['command'], $commands)) {
 }
 
 INIFactory::$INIPAY_ROOT = dirname(__FILE__) . '/vendor/INIpay50/';
+INIFactory::$INIBILL_ROOT = dirname(__FILE__) . '/vendor/INIbill41';
 INIFactory::$ADMIN       = $opts['admin'];
 INIFactory::$MID         = $opts['mid'];
 ob_start();
-require_once INIFactory::$INIPAY_ROOT.'/libs/INILib.php';
+if ($opts['command'] != 'authbill') {
+    require_once INIFactory::$INIPAY_ROOT.'/libs/INILib.php';
+} else {
+    require_once INIFactory::$INIBILL_ROOT.'/sample/INIpay41Lib.php';    
+}
 
 $params = (array) json_decode($opts['params']);
 $result = call_user_func_array( array('INIFactory', $opts['command']), array($params) );
@@ -48,11 +56,12 @@ exit(0);
 
 // Command-line INIpay
 class INIFactory {
-    public static $INIPAY_ROOT = '/home/ts/www/INIpay50';
-    public static $DEBUG       = 'true';
-    public static $ADMIN       = '1111';
-    public static $MID         = 'INIpayTest';
-    public static $PGID        = '';
+    public static $INIPAY_ROOT  = '/home/ts/www/INIpay50';
+    public static $INIBILL_ROOT = '/home/ts/www/INIbill41';
+    public static $DEBUG        = 'true';
+    public static $ADMIN        = '1111';
+    public static $MID          = 'INIpayTest';
+    public static $PGID         = '';
 
     static public function chkfake($params = array()) {
         $params_keys = array('price', 'quotabase');
@@ -149,12 +158,12 @@ class INIFactory {
             'buyername',
             'goodname',
             'price',
+            'ini_offer_period',
 
             'print_msg',
             'acceptmethod',
             'encrypted',
             'sessionkey',
-            
             'cardcode',
 
             'uid',
@@ -163,21 +172,43 @@ class INIFactory {
         $result_keys     = array(
             'ResultCode', 'ResultMsg', 'ResultErrorCode',
 
-            'TID',       // 거래번호
+            'CardCode',
             'BillKey',
             'CardPass',
-            'CardKind'
+            'CardKind',
+            'TID',       // 거래번호
         );
-        $inipay = self::get_instance();
-        $inipay->SetField('type',    'auth_bill');
-        $inipay->SetField('subpgip', '203.238.3.10');
-        $inipay->SetField('pgid',    'INIphp'.self::$PGID);
 
-        self::assign_params($inipay, $params, $params_keys);
+        $inipay = new INIpay41;
+        $inipay->SetField('inipayhome', self::$INIBILL_ROOT);
+        $inipay->SetField('mid',        self::$MID);
+        $inipay->SetField('keyPw',      '1111'); 
+
+        $inipay->SetField('type',       'auth_bill');
+        $inipay->SetField('pgid',       'INIpayBill');
+        $inipay->SetField('subpgip',    '203.238.3.10');
+        $inipay->SetField('billtype',   'Card');        
+
+        $inipay->SetField('debug',      self::$DEBUG);
+        $inipay->SetField('admin',      self::$ADMIN);
+
+        foreach($params_keys as $k) {
+            $inipay->SetField($k, mb_convert_encoding( $params[$k], 'EUC-KR', 'UTF-8' ));
+        }
 
         $inipay->startAction();
 
-        $result = self::sanitize_result($inipay, $result_keys);
+        // $result = self::sanitize_result($inipay, $result_keys);
+
+        $result = array();
+        $result['m_resultCode'] = mb_convert_encoding( trim($inipay->m_resultCode), 'UTF-8', 'EUC-KR' );
+        $result['m_resultMsg'] = mb_convert_encoding( trim($inipay->m_resultMsg), 'UTF-8', 'EUC-KR' );
+        $result['m_resultErrorCode'] = mb_convert_encoding( trim($inipay->m_resulterrcode), 'UTF-8', 'EUC-KR' );
+        $result['m_cardCode'] = mb_convert_encoding( trim($inipay->m_cardCode), 'UTF-8', 'EUC-KR' );
+        $result['m_billKey'] = mb_convert_encoding( trim($inipay->m_billKey), 'UTF-8', 'EUC-KR' );
+        $result['m_cardPass'] = mb_convert_encoding( trim($inipay->m_cardPass), 'UTF-8', 'EUC-KR' );
+        $result['m_cardKind'] = mb_convert_encoding( trim($inipay->m_cardKind), 'UTF-8', 'EUC-KR' );
+        $result['m_tid'] = mb_convert_encoding( trim($inipay->m_tid), 'UTF-8', 'EUC-KR' );
 
         return json_encode($result);
     }

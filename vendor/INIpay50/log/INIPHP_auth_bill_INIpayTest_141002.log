@@ -1,0 +1,44 @@
+INFO	[2014-10-02 01:00:10:203] <1356> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-02 01:00:10:203] <1356> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-02 01:00:10:203] <1356> debug:true
+DEBUG	[2014-10-02 01:00:10:203] <1356> admin:1111
+DEBUG	[2014-10-02 01:00:10:203] <1356> mid:INIpayTest
+DEBUG	[2014-10-02 01:00:10:203] <1356> type:auth_bill
+DEBUG	[2014-10-02 01:00:10:203] <1356> subpgip:203.238.3.10
+DEBUG	[2014-10-02 01:00:10:203] <1356> pgid:INIphp
+DEBUG	[2014-10-02 01:00:10:203] <1356> buyername:홍진우
+DEBUG	[2014-10-02 01:00:10:203] <1356> goodname:과일로 건강을
+DEBUG	[2014-10-02 01:00:10:203] <1356> price:34900
+DEBUG	[2014-10-02 01:00:10:203] <1356> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-02 01:00:10:203] <1356> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-02 01:00:10:203] <1356> encrypted:
+DEBUG	[2014-10-02 01:00:10:203] <1356> sessionkey:
+DEBUG	[2014-10-02 01:00:10:203] <1356> cardcode:
+DEBUG	[2014-10-02 01:00:10:203] <1356> uid:
+DEBUG	[2014-10-02 01:00:10:203] <1356> MerchantReserved3:
+INFO	[2014-10-02 01:00:10:203] <1356> Check Field OK
+ERROR	[2014-10-02 01:00:10:203] <1356> TID생성에 실패했습니다.::INIphpINIpayTest20141002010010032427
+INFO	[2014-10-02 01:00:10:232] <1356> END auth_bill [TX9401|TID생성에 실패했습니다.::INIphpINIpayTest20141002010010032427] Laptime:[0.03sec]
+INFO	[2014-10-02 01:00:10:232] <1356> ===============================================================
+INFO	[2014-10-02 01:01:53:645] <1367> START INIPHP auth_bill (V5034-120709)(OS:Darwin13.3.0,PHP:5.4.24)
+DEBUG	[2014-10-02 01:01:53:645] <1367> inipayhome:/Users/jinu/rails_projects/mondayapple/bin/INICLI/vendor/INIpay50/
+DEBUG	[2014-10-02 01:01:53:645] <1367> debug:true
+DEBUG	[2014-10-02 01:01:53:645] <1367> admin:1111
+DEBUG	[2014-10-02 01:01:53:645] <1367> mid:INIpayTest
+DEBUG	[2014-10-02 01:01:53:645] <1367> type:auth_bill
+DEBUG	[2014-10-02 01:01:53:645] <1367> subpgip:203.238.3.10
+DEBUG	[2014-10-02 01:01:53:645] <1367> pgid:INIphp
+DEBUG	[2014-10-02 01:01:53:645] <1367> buyername:홍진우
+DEBUG	[2014-10-02 01:01:53:645] <1367> goodname:과일로 건강을
+DEBUG	[2014-10-02 01:01:53:645] <1367> price:34900
+DEBUG	[2014-10-02 01:01:53:645] <1367> print_msg:고객님의 매월 결제일은 24일 입니다.
+DEBUG	[2014-10-02 01:01:53:645] <1367> acceptmethod:BILLAUTH:FULLVERIFY
+DEBUG	[2014-10-02 01:01:53:645] <1367> encrypted:
+DEBUG	[2014-10-02 01:01:53:645] <1367> sessionkey:
+DEBUG	[2014-10-02 01:01:53:645] <1367> cardcode:
+DEBUG	[2014-10-02 01:01:53:645] <1367> uid:
+DEBUG	[2014-10-02 01:01:53:645] <1367> MerchantReserved3:
+INFO	[2014-10-02 01:01:53:645] <1367> Check Field OK
+ERROR	[2014-10-02 01:01:53:645] <1367> TID생성에 실패했습니다.::INIphpINIpayTest20141002010153458286
+INFO	[2014-10-02 01:01:53:659] <1367> END auth_bill [TX9401|TID생성에 실패했습니다.::INIphpINIpayTest20141002010153458286] Laptime:[0.014sec]
+INFO	[2014-10-02 01:01:53:659] <1367> ===============================================================
